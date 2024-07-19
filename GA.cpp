@@ -60,18 +60,19 @@ float Fitness(float a[])
    return sumFit;
 }
 
-//written by: Yeap Chun Hong 2206352
-float SumOfDifferentPowers(float a[])
+//No.1 - Sphere  Function +-5.12
+float Sphere(float a[])
 {
    for(int j = 0 ; j < dimension ; j++) 
    {
-   		fv = pow(fabs(a[j]),j+1);
+      fv = pow(a[j],2);
       sumFit = sumFit + fv;
-      
    }
+   
    return sumFit;
 }
 
+//No.3 - Rastrigin  Function +-5.12
 //written by: Yeap Chun Hong 2206352
 float RastriginFunction (float a[])
 {
@@ -84,6 +85,53 @@ float RastriginFunction (float a[])
    sumFit += 10 * dimension;
    return sumFit;
 }
+
+//No.5 - Axis Parallel Hyper-Ellipsoid Function +-5.12
+//Written by Loh Chia Heung 2301684
+float Fitness(float a[])
+{  
+  
+   for(int j = 0; j < dimension; j++) 
+   {
+      fv = (j + 1) * pow(a[j], 2); 
+      sumFit = sumFit + fv;
+   }
+   
+   return sumFit;
+}
+
+//No.7 - Sum of Different Powers function  Function +-1.00
+//written by: Yeap Chun Hong 2206352
+float SumOfDifferentPowers(float a[])
+{
+   for(int j = 0 ; j < dimension ; j++) 
+   {
+   		fv = pow(fabs(a[j]),j+1);
+      sumFit = sumFit + fv;
+      
+   }
+   return sumFit;
+}
+
+
+//No.10 - Exponential function  Function +-1.00	
+//Wriiten by Ling Ji Xiang 
+float Exponential(float a[]) 
+
+{    
+    float result = 0.0; 
+
+    //calculate the sum of squares 
+    for (int j = 0; j < dimension; j++) 
+    { 
+        fv = pow(a[j], 2); 
+        sumFit = sumFit + fv; 
+    } 
+    
+    //Calculate the exponential of sum of squares 
+    result = -exp(-0.5 * sumFit); 
+    return result; 
+} 
 
 int RouletteWheelSelection(float fitness[])
 {
