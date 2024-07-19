@@ -88,7 +88,7 @@ float RastriginFunction (float a[])
 
 //No.5 - Axis Parallel Hyper-Ellipsoid Function +-5.12
 //Written by Loh Chia Heung 2301684
-float Fitness(float a[])
+float AxisParallel(float a[])
 {  
   
    for(int j = 0; j < dimension; j++) 
@@ -100,7 +100,7 @@ float Fitness(float a[])
    return sumFit;
 }
 
-//No.7 - Sum of Different Powers function  Function +-1.00
+//No.7 - Sum of Different Powers function +-1.00
 //written by: Yeap Chun Hong 2206352
 float SumOfDifferentPowers(float a[])
 {
