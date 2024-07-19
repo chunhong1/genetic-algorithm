@@ -30,7 +30,7 @@ float mb1v = 0 , mb2v = 0;
 float fv = 0, sumFit=0;
 float fit1 = 0 , fit2 = 0;
 float tfit[4]; 
-int rangeMin = 5120, rangeMax = 5120, rangeDiv = 1000;
+int rangeMin = 32768, rangeMax = 32768, rangeDiv = 1000;
 
 int lFvIndex = 0;
 float lFv = 0; //lowest fitness value
@@ -70,6 +70,25 @@ float Sphere(float a[])
    }
    
    return sumFit;
+}
+
+//No.2 - Ackley  Function +-32.768
+//written by: Yeap Chun Hong 2206352
+float Ackley (float a[])
+{
+	float sum1 = 0, sum2 = 0;
+	
+	for(int j = 0; j < dimension; j++)
+	{
+		sum1 += pow(a[j], 2);
+		sum2 += cos(2 * pi * a[j]);
+	}
+	
+	float term1 = -20 * exp(-0.2 * sqrt(sum1 / dimension));
+	float term2 = exp(sum2 / dimension);
+	
+	sumFit = term1 - term2 + 20 + exp(1);
+	return sumFit;
 }
 
 //No.3 - Rastrigin  Function +-5.12
@@ -234,7 +253,7 @@ int main()
    float total_sumFit = 0;
 	 for(int i = 0 ; i < pSize ; i++)
    {
-      fit[i] = RastriginFunction(chromosome[i]);
+      fit[i] = Ackley(chromosome[i]);
       cout<<setprecision(6)<<fit[i]<<endl;
       sumFit = 0;
    }
