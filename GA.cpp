@@ -219,6 +219,63 @@ int TournamentSelection( float fitness[], int tournamentSize)
 	return best;
 }
 
+void WeakParentReplacement(float chromosome[pSize][dimension], float fit[pSize], float paroff[4][dimension], float tfit[4], int parent1, int parent2)
+{
+    if (fit[parent1] > fit[parent2]) //Check which parent has worse fitness value (higher fitness value)*
+    {
+        if (tfit[2] < fit[parent1]) //Check if fitness value of offspring1 is lower than parent1
+        {
+            for (int i = 0; i < dimension; i++)
+            {
+		//Replace genes of parent1 with offspring1
+                chromosome[parent1][i] = paroff[2][i]; 
+            }
+            fit[parent1] = tfit[2]; //Update fitness of parent1
+        }
+        if (tfit[3] < fit[parent2]) //Check if fitness value of offspring2 is lower than parent2
+        {
+            for (int i = 0; i < dimension; i++)
+            {
+		//Replace genes of parent2 with offspring2
+                chromosome[parent2][i] = paroff[3][i]; 
+            }
+            fit[parent2] = tfit[3]; //Update fitness of parent2
+        }
+    }
+    else
+    {
+        if (tfit[2] < fit[parent2]) //Check if fitness value of offspring1 is lower than parent2
+        {
+            for (int i = 0; i < dimension; i++)
+            {
+		//Replace genes of parent2 with offspring1
+                chromosome[parent2][i] = paroff[2][i]; 
+            }
+            fit[parent2] = tfit[2]; // Update fitness of parent2
+        }
+        if (tfit[3] < fit[parent1]) //Check if fitness value of offspring2 is lower than parent1
+        {
+            for (int i = 0; i < dimension; i++)
+            {
+		//Replace genes of parent1 with offspring2
+                chromosome[parent1][i] = paroff[3][i]; 
+            }
+            fit[parent1] = tfit[3]; // Update fitness of parent1
+        }
+    }
+}
+
+void BothParentReplacement(float chromosome[pSize][dimension], float fit[pSize], float paroff[4][dimension], float tfit[4], int parent1, int parent2)
+{
+    for (int i = 0; i < dimension; i++)
+    {
+        chromosome[parent1][i] = paroff[2][i]; // Replace genes of parent1 with offspring 1
+        chromosome[parent2][i] = paroff[3][i]; // Replace genes of parent2 with offspring 2
+    }
+    fit[parent1] = tfit[2]; // Update fitness of parent1
+    fit[parent2] = tfit[3]; // Update fitness of parent2
+}
+
 int main()
 {  
    //CPU Time
@@ -369,26 +426,11 @@ int main()
       //------------------------------------------------------------------------------------------------------------------------
       
       //------------------------------------------------------------------------------------------------------------------------
-      //Replacement Operation (Random Replacement)  
+      //Replacement Operation (Done by: Ling Ji Xiang)
       //------------------------------------------------------------------------------------------------------------------------
-      rp1 = getrandom(0,3);
-      
-      redo3:
-      rp2 = getrandom(0,3);
-      
-      if(rp2 == rp1)
-      {
-         goto redo3;           
-      }    
-    
-      for(int j = 0 ; j < dimension ; j++)
-      {
-         chromosome[parent1][j] =  paroff[rp1][j];  
-         chromosome[parent2][j] =  paroff[rp2][j];            
-      }
-      
-      fit[parent1] = tfit[rp1];
-      fit[parent2] = tfit[rp2];
+      // Apply the replacement strategies
+      WorstParentReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
+      //BothParentReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
       //------------------------------------------------------------------------------------------------------------------------
       
       lFv = pow(999,30);
