@@ -132,11 +132,23 @@ float SumOfDifferentPowers(float a[])
    return sumFit;
 }
 
+//No.9 - Schewefel 2.22 function
+//Written by Ling Ji Xiang
+float schwefel(float a[])
+{
+	for(int i = 0; i < dimension; i++)
+	{
+		float sum = 0.0, product = 1.0;
+		float absolute = abs(a[i]);
+		sum += absolute;
+		product *= absolute;
+	}
+	return sum + product;
+}
 
 //No.10 - Exponential function  Function +-1.00	
 //Wriiten by Ling Ji Xiang 
 float Exponential(float a[]) 
-
 {    
     float result = 0.0; 
 
