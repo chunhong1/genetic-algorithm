@@ -1,4 +1,3 @@
-// Hello
 #include <iostream>
 #include <conio.h>
 #include <fstream>
