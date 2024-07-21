@@ -206,14 +206,15 @@ float Rotated(float a[])
 	return sumFit;
 }
 
-//No.9 - Schewefel 2.22 Function +-100 [ERROR]
+//No.9 - Schewefel 2.22 Function +-100
 //Written By: Ling Ji Xiang 2104584
 float Schwefel(float a[])
 {
+	float sum = 0, product = 0;
 	for(int i = 0; i < dimension; i++)
 	{
-		float sum = 0.0, product = 1.0;
-		float absolute = abs(a[i]);
+		sum = 0.0, product = 1.0;
+		float absolute = abs(static_cast<long long>(a[i]));
 		sum += absolute;
 		product *= absolute;
 	}
