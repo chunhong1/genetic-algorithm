@@ -119,6 +119,21 @@ float AxisParallel(float a[])
    return sumFit;
 }
 
+// No.6 - Griewank function +-600
+// int rangeMin = 600, rangeMax = 600, rangeDiv = 1;
+// Written by: Loh Chia Heung 2301684 
+
+float Griewank(float a[]) {
+    float sumFit = 0.0;
+    float product = 1.0;
+    
+    for (int j = 0; j < dimension; j++) {
+        sumFit += (a[j] * a[j]) / 4000.0;
+        product *= cos(a[j] / sqrt(j + 1));
+    }
+    return sumFit - product + 1;
+}
+
 //No.7 - Sum of Different Powers function +-1.00
 //written by: Yeap Chun Hong 2206352
 float SumOfDifferentPowers(float a[])
