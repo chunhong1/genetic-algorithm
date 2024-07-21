@@ -208,17 +208,17 @@ float Rotated(float a[])
 
 //No.9 - Schewefel 2.22 Function +-100 [ERROR]
 //Written By: Ling Ji Xiang 2104584
-//float Schwefel(float a[])
-//{
-//	for(int i = 0; i < dimension; i++)
-//	{
-//		float sum = 0.0, product = 1.0;
-//		float absolute = abs(a[i]);
-//		sum += absolute;
-//		product *= absolute;
-//	}
-//	return sum + product;
-//}
+float Schwefel(float a[])
+{
+	for(int i = 0; i < dimension; i++)
+	{
+		float sum = 0.0, product = 1.0;
+		float absolute = abs(a[i]);
+		sum += absolute;
+		product *= absolute;
+	}
+	return sum + product;
+}
 
 //No.10 - Exponential function Function +-1.00 [REVISE]
 //Written By: Ling Ji Xiang 2104584
