@@ -166,14 +166,20 @@ float AxisParallel(float a[])
    return sumFit;
 }
 
-//No.6 - Griewank Function +-600 [REVISE] [NOT YET]
+//No.6 - Griewank Function +-600
 //Written By: Loh Chia Heung 2301684
-float Griewank(float a[])
-{
-	
+float Griewank(float a[]) {
+    float sumFit = 0.0;
+    float product = 1.0;
+    
+    for (int j = 0; j < dimension; j++) {
+        sumFit += (a[j] * a[j]) / 4000.0;
+        product *= cos(a[j] / sqrt(j + 1));
+    }
+    return sumFit - product + 1;
 }
 
-//No.7 - Sum of Different Powers Function +-1.00
+//No.7 - Sum of Different Powers function +-1.00
 //Written By: Yeap Chun Hong 2206352
 float SumOfDifferentPowers(float a[])
 {
