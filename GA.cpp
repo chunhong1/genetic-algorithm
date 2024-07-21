@@ -318,7 +318,58 @@ int TournamentSelection( float fitness[], int tournamentSize)
 	Crossover Function
 	Written By: Loh Chia Heung 2301684
 *//////////////////////////////////////////
+void UniformCrossover(float chromosome[][dimension], float paroff[][dimension], float dcp, int p1, int p2) {
+    float gcp = (rand() % 1000);
+    gcp = gcp / 1000;
+    
+    if (gcp <= dcp) {
+        // Perform Uniform Crossover
+        for (int j = 0; j < dimension; j++) {
+            if (rand() % 2 == 0) {
+                // 0 --> Gene is copied from Parent 1
+                paroff[2][j] = chromosome[p1][j];
+                paroff[3][j] = chromosome[p2][j];
+            } else {
+                // 1 --> Gene is copied from Parent 2
+                paroff[2][j] = chromosome[p2][j];
+                paroff[3][j] = chromosome[p1][j];
+            }
+        }
+    } else {
+        // No crossover, directly copy parents to offspring
+        for (int j = 0; j < dimension; j++) {
+            paroff[2][j] = chromosome[p1][j]; // Offspring1 --> Parent 1 
+            paroff[3][j] = chromosome[p2][j]; // Offspring2 --> Parent 2
+        }
+    }
+}
 
+void ShuffleCrossover(float chromosome[][dimension], float paroff[][dimension], float dcp, int p1, int p2) {
+   
+    float gcp = (rand() % 1000);
+    gcp = gcp / 1000;
+    
+    if (gcp <= dcp) {
+        float temp[dimension];
+
+        // Shuffle chromosomes between parents
+        for (int j = 0; j < dimension; j++) {
+            temp[j] = (rand() % 2 == 0) ? chromosome[p1][j] : chromosome[p2][j];
+        }
+
+        // Assign shuffled chromosomes to offspring
+        for (int j = 0; j < dimension; j++) {
+            paroff[2][j] = temp[j]; 
+            paroff[3][j] = (rand() % 2 == 0) ? chromosome[p1][j] : chromosome[p2][j]; 
+        }
+    } else {
+        // No crossover --> offspring are exact copies of parents
+        for (int j = 0; j < dimension; j++) {
+            paroff[2][j] = chromosome[p1][j]; // Offspring1 --> Parent 1
+            paroff[3][j] = chromosome[p2][j]; // Offspring2 --> Parent 2
+        }
+    }
+}
 
 
 /*/////////////////////////////////////////
@@ -555,35 +606,37 @@ int main()
       //Crossover Operation (Uniform Crossover / Three Parent Crossover)
       //Done By: Loh Chia Heung 2301684
       //------------------------------------------------------------------------------------------------------------------------
-      
+      //UniformCrossover(chromosome, paroff, dcp, parent1, parent2);
+      ShuffleCrossover(chromosome, paroff, dcp, parent1, parent2);
+	   
       //Sample - Single Point Crossover
-      gcp = (rand() % 1000);
-      gcp = gcp / 1000;
-      crb = getrandom(1 , dimension-2);
+      // gcp = (rand() % 1000);
+      // gcp = gcp / 1000;
+      // crb = getrandom(1 , dimension-2);
       
-      if(gcp<=dcp)
-      {
-         for(int j = 0 ; j < crb; j++)
-         {       
-            paroff[2][j] = paroff[0][j];
-            paroff[3][j] = paroff[1][j]; 
-         } 
-         for(int j = crb ; j < dimension; j++)
-         {       
-            paroff[2][j] = paroff[1][j];
-            paroff[3][j] = paroff[0][j]; 
-         }      
-      }  
-      else
-      {
-         for(int j = 0 ; j < dimension; j++)
-         {       
-            paroff[2][j] = paroff[0][j];
-            paroff[3][j] = paroff[1][j]; 
-         }     
-      }
+      // if(gcp<=dcp)
+      // {
+      //    for(int j = 0 ; j < crb; j++)
+      //    {       
+      //       paroff[2][j] = paroff[0][j];
+      //       paroff[3][j] = paroff[1][j]; 
+      //    } 
+      //    for(int j = crb ; j < dimension; j++)
+      //    {       
+      //       paroff[2][j] = paroff[1][j];
+      //       paroff[3][j] = paroff[0][j]; 
+      //    }      
+      // }  
+      // else
+      // {
+      //    for(int j = 0 ; j < dimension; j++)
+      //    {       
+      //       paroff[2][j] = paroff[0][j];
+      //       paroff[3][j] = paroff[1][j]; 
+      //    }     
+      // }
       //------------------------------------------------------------------------------------------------------------------------
-      
+       
       
       //------------------------------------------------------------------------------------------------------------------------
       //Mutation Operation (Reversing Mutation / Random Mutation)
