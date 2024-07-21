@@ -13,10 +13,10 @@ using namespace std;
 const float pi = M_PI;
 
 /* EXPERIMENT */
-#define getrandom(min,max) ((rand()%(((max)+1)-(min)))+(min)) //random integer between min and max (inclusive)
-#define pSize 40           											  //population size 		  (no. of chromosomes)
-#define dimension 30       											  //dimenstion size		  (number of bits)
-#define gen 2000           											  //number of generations (no. of iterations)
+#define getrandom(min,max) (static_cast<long long>(rand()) * (max - min + 1) / RAND_MAX) + min //random integer between min and max (inclusive)
+#define pSize 40           											  											  //population size 		  (no. of chromosomes)
+#define dimension 30       											  											  //dimenstion size		  (number of bits)
+#define gen 2000           											  											  //number of generations (no. of iterations)
 
 /* CHROMOSOME */
 float chromosome[pSize][dimension]; 								  //chromosome
