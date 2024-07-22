@@ -185,7 +185,7 @@ float SumOfDifferentPowers(float a[])
 {
    for(int j = 0 ; j < dimension ; j++) 
    {
-   	fv = pow(fabs(a[j]),j+1);
+   	fv = pow(fabs(a[j]),j+2);
       sumFit = sumFit + fv;
    }
    return sumFit;
