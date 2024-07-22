@@ -210,11 +210,10 @@ float Rotated(float a[])
 //Written By: Ling Ji Xiang 2104584
 float Schwefel(float a[])
 {
-	float sum = 0, product = 0;
+	float sum = 0, product = 1.0;
 	for(int i = 0; i < dimension; i++)
 	{
-		sum = 0.0, product = 1.0;
-		float absolute = abs(static_cast<long long>(a[i]));
+		float absolute = abs(a[i]);
 		sum += absolute;
 		product *= absolute;
 	}
