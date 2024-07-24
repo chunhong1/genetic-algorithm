@@ -528,6 +528,8 @@ std::string to_string(int number) {
 
 int main()
 {
+	srand(time(0));
+	
 	for (int i = 0; i < EXPERIMENT; i++)
 	{
 		cout << "Experiment " << i + 1 << "..."<< endl;
@@ -537,7 +539,6 @@ int main()
    //CPU Time
    clock_t start, end;
    start = clock();
-   srand(time(0) + rand() + i + 1);
 //	srand(time(0));
     
    //---------------------------------------------------------------------------------------------------------------------------
