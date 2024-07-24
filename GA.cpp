@@ -58,6 +58,9 @@ float tfit[4];
 /* Range */
 int rangeMin = 5120, rangeMax = 5120, rangeDiv = 1000;
 
+int tournamentSize = 5;
+
+
 int lFvIndex = 0;
 float lFv = 0;
 
@@ -242,66 +245,56 @@ float Fitness(float a[])
 ///* Selection */
 //Done By: Yeap Chun Hong 2206352
 //------------------------------------------------------------------------------------------------------------------------------
-void RouletteWheelSelection(float fitness[], int& parent1, int& parent2)
+int RouletteWheelSelection2(float fitness[])
 {
-    // calculate the total fitness
-    float total_sumFit = 0;
-    for (int i = 0; i < pSize; i++)
-    {
-        total_sumFit += fitness[i];
+	//calculate the total fitness
+	float total_sumFit = 0;
+	for (int i=0; i<pSize;i++)
+	{
+		total_sumFit += fitness[i];
+	}
+	
+	//normalise fitness value
+  float normFit[pSize];
+  for(int i = 0 ; i < pSize ; i++)
+  {
+    normFit[i] = fit[i]/total_sumFit;  
+  }
+   
+   // Calculate cumulative probabilities
+  float cumulativeProb[pSize];
+  cumulativeProb[0] = normFit[0];
+    
+  for (int i = 1; i < pSize; i++) 
+	{
+		cumulativeProb[i] = cumulativeProb[i - 1] + normFit[i];
+  }
+    
+  // generate number 0 to 1
+  float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);
+        
+  // Select the individual based on the spin
+  for (int i = 0; i < pSize; i++) 
+	{
+		if (spin < cumulativeProb[i]) 
+		{
+			return i;
     }
-
-    // normalize fitness values
-    float normFit[pSize];
-    for (int i = 0; i < pSize; i++)
-    {
-        normFit[i] = fitness[i] / total_sumFit;
-    }
-
-    // calculate cumulative probabilities
-    float cumulativeProb[pSize];
-    cumulativeProb[0] = normFit[0];
-
-    for (int i = 1; i < pSize; i++)
-    {
-        cumulativeProb[i] = cumulativeProb[i - 1] + normFit[i];
-    }
-
-    // generate first random number and select the first parent
-    float spin1 = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);
-    for (int i = 0; i < pSize; i++)
-    {
-        if (spin1 < cumulativeProb[i])
-        {
-            parent1 = i;
-            break;
-        }
-    }
-
-    // generate second random number and select the second parent
-    float spin2 = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);
-    for (int i = 0; i < pSize; i++)
-    {
-        if (spin2 < cumulativeProb[i])
-        {
-            parent2 = i;
-            break;
-        }
-    }
-
-    // In case of rounding errors, ensure parents are valid
-    if (parent1 == -1)
-    {
-        parent1 = pSize - 1;
-    }
-    if (parent2 == -1)
-    {
-        parent2 = pSize - 1;
-    }
+  }
+  // In case of rounding errors, return the last individual
+  return pSize - 1;
 }
 
-int tournamentSize = 5;
-int TournamentSelection(float fitness[], int tournamentSize)
+void RouletteWheelSelection(float fitness[], int& parent1, int& parent2)
+{
+	parent1 = RouletteWheelSelection2(fitness);
+	parent2 = RouletteWheelSelection2(fitness);
+	
+	//cout <<"Parent1: "<<parent1<<"parent2 "<<parent2<<endl;
+    //getch();
+}
+
+int TournamentSelection2(float fitness[], int tournamentSize)
 {
 	int best = -1;
 	float bestFitness = pow(999,-30);
@@ -326,6 +319,18 @@ int TournamentSelection(float fitness[], int tournamentSize)
 	}
 	
 	return best;
+}
+
+void TournamentSelection(float fitness[], int tournamentSize, int& parent1, int& parent2)
+{
+	// Select first parent
+    parent1 = TournamentSelection2(fitness, tournamentSize);
+
+    // Select second parent
+    parent2 = TournamentSelection2(fitness, tournamentSize);
+    
+    //cout <<"Parent1: "<<parent1<<"parent2 "<<parent2<<endl;
+    //getch();
 }
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -601,14 +606,11 @@ int main()
 #endif
 		int parent1 = 0, parent2 = 0;
      	//Roulette Wheel Selection
-     	RouletteWheelSelection(fit, parent1, parent2);
-     	
+     	//RouletteWheelSelection(fit, parent1, parent2);
      
-     	
      	//Tournament Selection
-//     	int parent1 = TournamentSelection(fit, tournamentSize);
-//		redo:
-//     	int parent2 = TournamentSelection(fit, tournamentSize);
+     	TournamentSelection(fit, tournamentSize, parent1, parent2);
+
      	       
   
       tfit[0] = fit[parent1]; 
