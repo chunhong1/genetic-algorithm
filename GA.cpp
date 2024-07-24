@@ -533,6 +533,21 @@ void BothParentReplacement(float chromosome[pSize][dimension], float fit[pSize],
 }
 
 // Int to String Function
+std::string to_string(int number) {
+    if (number == 0) return "0";
+    std::string result;
+    bool isNegative = (number < 0);
+    if (isNegative) number = -number;
+
+    while (number > 0) {
+        result += '0' + (number % 10);
+        number /= 10;
+    }
+
+    if (isNegative) result += '-';
+    std::reverse(result.begin(), result.end());
+    return result;
+}
 
 int main()
 {
