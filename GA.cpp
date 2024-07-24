@@ -1,3 +1,4 @@
+#define _USE_MATH_DEFINES
 #include <iostream>
 #include <conio.h>
 #include <fstream>
@@ -60,7 +61,6 @@ int rangeMin = 5120, rangeMax = 5120, rangeDiv = 1000;
 int lFvIndex = 0;
 float lFv = 0;
 
-#define _USE_MATH_DEFINES
 const float pi = M_PI;
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -242,44 +242,62 @@ float Fitness(float a[])
 ///* Selection */
 //Done By: Yeap Chun Hong 2206352
 //------------------------------------------------------------------------------------------------------------------------------
-int RouletteWheelSelection(float fitness[])
+void RouletteWheelSelection(float fitness[], int& parent1, int& parent2)
 {
-	//calculate the total fitness
-	float total_sumFit = 0;
-	for (int i=0; i<pSize;i++)
-	{
-		total_sumFit += fitness[i];
-	}
-	
-	//normalise fitness value
-  float normFit[pSize];
-  for(int i = 0 ; i < pSize ; i++)
-  {
-    normFit[i] = fit[i]/total_sumFit;  
-  }
-   
-   // Calculate cumulative probabilities
-  float cumulativeProb[pSize];
-  cumulativeProb[0] = normFit[0];
-    
-  for (int i = 1; i < pSize; i++) 
-	{
-		cumulativeProb[i] = cumulativeProb[i - 1] + normFit[i];
-  }
-    
-  // generate number 0 to 1
-  float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);
-        
-  // Select the individual based on the spin
-  for (int i = 0; i < pSize; i++) 
-	{
-		if (spin < cumulativeProb[i]) 
-		{
-			return i;
+    // calculate the total fitness
+    float total_sumFit = 0;
+    for (int i = 0; i < pSize; i++)
+    {
+        total_sumFit += fitness[i];
     }
-  }
-  // In case of rounding errors, return the last individual
-  return pSize - 1;
+
+    // normalize fitness values
+    float normFit[pSize];
+    for (int i = 0; i < pSize; i++)
+    {
+        normFit[i] = fitness[i] / total_sumFit;
+    }
+
+    // calculate cumulative probabilities
+    float cumulativeProb[pSize];
+    cumulativeProb[0] = normFit[0];
+
+    for (int i = 1; i < pSize; i++)
+    {
+        cumulativeProb[i] = cumulativeProb[i - 1] + normFit[i];
+    }
+
+    // generate first random number and select the first parent
+    float spin1 = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);
+    for (int i = 0; i < pSize; i++)
+    {
+        if (spin1 < cumulativeProb[i])
+        {
+            parent1 = i;
+            break;
+        }
+    }
+
+    // generate second random number and select the second parent
+    float spin2 = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);
+    for (int i = 0; i < pSize; i++)
+    {
+        if (spin2 < cumulativeProb[i])
+        {
+            parent2 = i;
+            break;
+        }
+    }
+
+    // In case of rounding errors, ensure parents are valid
+    if (parent1 == -1)
+    {
+        parent1 = pSize - 1;
+    }
+    if (parent2 == -1)
+    {
+        parent2 = pSize - 1;
+    }
 }
 
 int tournamentSize = 5;
@@ -510,21 +528,6 @@ void BothParentReplacement(float chromosome[pSize][dimension], float fit[pSize],
 }
 
 // Int to String Function
-std::string to_string(int number) {
-    if (number == 0) return "0";
-    std::string result;
-    bool isNegative = (number < 0);
-    if (isNegative) number = -number;
-
-    while (number > 0) {
-        result += '0' + (number % 10);
-        number /= 10;
-    }
-
-    if (isNegative) result += '-';
-    std::reverse(result.begin(), result.end());
-    return result;
-}
 
 int main()
 {
@@ -596,20 +599,17 @@ int main()
 #if DEMO == 1
       cout << "Selection Operation" << endl;
 #endif
+		int parent1 = 0, parent2 = 0;
      	//Roulette Wheel Selection
-     	int parent1 = RouletteWheelSelection(fit);
-     	redo:		
-     	int parent2 = RouletteWheelSelection(fit);
+     	RouletteWheelSelection(fit, parent1, parent2);
+     	
+     
      	
      	//Tournament Selection
 //     	int parent1 = TournamentSelection(fit, tournamentSize);
 //		redo:
 //     	int parent2 = TournamentSelection(fit, tournamentSize);
-     	
-     	if(parent2 == parent1)
-      {
-         goto redo;           
-      }           
+     	       
   
       tfit[0] = fit[parent1]; 
       tfit[1] = fit[parent2]; 
