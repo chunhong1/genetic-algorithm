@@ -12,8 +12,9 @@
 
 //------------------------------------------------------------------------------------------------------------------------------
 //Parameter Settings
-//1	/* Benchmark Function */ 			- Sphere
-//1.1 /* Range */								- +-5.12
+//1	/* Benchmark Function */ 			- 1 to 10
+//1.1 /* Range */
+const int BENCHMARK = 1;
 
 //2.	/* Selection */ 						- Roulette Wheel / Tournament
 //2.1 /* Selection Operation */ 			- Roulette Wheel
@@ -55,16 +56,12 @@ float fv = 0, sumFit=0;
 float fit1 = 0 , fit2 = 0;
 float tfit[4];
 
-/* Range */
-int rangeMin = 5120, rangeMax = 5120, rangeDiv = 1000;
-
-int tournamentSize = 5;
-
-
 int lFvIndex = 0;
 float lFv = 0;
 
 const float pi = M_PI;
+
+int tournamentSize = 5;
 
 //------------------------------------------------------------------------------------------------------------------------------
 //Fitness Function
@@ -202,14 +199,14 @@ float Rotated(float a[])
 	return sumFit;
 }
 
-//No.9 - Schewefel 2.22 Function +-100
+//No.9 - Schewefel 2.22 Function +-5
 //Done By: Ling Ji Xiang 2104584
 float Schwefel(float a[])
 {
 	float sum = 0, product = 1.0;
 	for(int i = 0; i < dimension; i++)
 	{
-		float absolute = abs(static_cast<long long>(a[i]));
+		float absolute = fabs(a[i]);
 		sum += absolute;
 		product *= absolute;
 	}
@@ -234,11 +231,101 @@ float Exponential(float a[])
     return result; 
 }
 
+/* Range */
+int rangeMin = 0, rangeMax = 0, rangeDiv = 1000;
+void initialiseRange()
+{
+	switch(BENCHMARK)
+	{
+		case 1: //No.1 - Sphere Function +-5.12
+		   rangeMin = rangeMax = 5120;
+		   break;
+		   
+		case 2:	//No.2 - Ackley Function +-32.768
+		   rangeMin = rangeMax = 32768;
+		   break;
+		   
+		case 3:	//No.3 - Rastrigin Function +-5.12
+		   rangeMin = rangeMax = 5120;
+		   break;
+		   
+		case 4:	//No.4 - Zakharov Function -5, +10
+		   rangeMin = 5000; rangeMax = 10000;
+		   break;
+		   
+		case 5:	//No.5 - Axis Parallel Hyper-Ellipsoid Function +-5.12
+		   rangeMin = rangeMax = 5120;
+		   break;
+		   
+		case 6:	//No.6 - Griewank Function +-600
+		   rangeMin = rangeMax = 600000;
+		   break;
+		   
+		case 7:	//No.7 - Sum of Different Powers function +-1.00
+		   rangeMin = rangeMax = 1000;
+		   break;
+		   
+		case 8: 	//No.8 - Rotated Hyper-Ellipsoid Function +-65.536
+			rangeMin = rangeMax = 65536;
+		   break;
+		   
+		case 9: 	//No.9 - Schewefel 2.22 Function +-5 [Updated]
+		   rangeMin = rangeMax = 5000;
+		   break;
+		   
+		case 10: //No.10 - Exponential function Function +-1.00
+		   rangeMin = rangeMax = 1000;
+		   break;
+		   
+		default: //ERROR
+		   cout << "BENCHMARK FUNCTION ERROR" << endl;
+		   getch();
+		   exit(0);
+	}
+
+}
+
+
 /* Benchmark Function */
 float Fitness(float a[])
 {
-   //No.1 - Sphere Function +-5.12
-   return Sphere(a);
+	switch(BENCHMARK)
+	{
+		case 1: //No.1 - Sphere Function +-5.12
+		   return Sphere(a);
+		   
+		case 2:	//No.2 - Ackley Function +-32.768
+		   return Ackley(a);
+		   
+		case 3:	//No.3 - Rastrigin Function +-5.12
+		   return Rastrigin(a);
+		   
+		case 4:	//No.4 - Zakharov Function -5, +10
+		   return Zakharov(a);
+		   
+		case 5:	//No.5 - Axis Parallel Hyper-Ellipsoid Function +-5.12
+		   return AxisParallel(a);
+		   
+		case 6:	//No.6 - Griewank Function +-600
+		   return Griewank(a);
+		   
+		case 7:	//No.7 - Sum of Different Powers function +-1.00
+		   return SumOfDifferentPowers(a);
+		   
+		case 8: 	//No.8 - Rotated Hyper-Ellipsoid Function +-65.536
+			return Rotated(a);
+			
+		case 9: 	//No.9 - Schewefel 2.22 Function +-5 [Updated]
+		   return Schwefel(a);
+		   
+		case 10: //No.10 - Exponential function Function +-1.00
+		   return Exponential(a);
+		   
+		default: //ERROR
+		   cout << "BENCHMARK FUNCTION ERROR" << endl;
+		   getch();
+		   exit(0);
+	}
 }
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -552,7 +639,11 @@ std::string to_string(int number) {
 int main()
 {
 	srand(time(0));
+	initialiseRange();
 	
+	//BENCHMARK LOOP
+	
+	//EXPERIMENT LOOP
 	for (int i = 0; i < EXPERIMENT; i++)
 	{
 		cout << "Experiment " << i + 1 << "..."<< endl;
@@ -620,14 +711,13 @@ int main()
       cout << "Selection Operation" << endl;
 #endif
 		int parent1 = 0, parent2 = 0;
+		
      	//Roulette Wheel Selection
-     	//RouletteWheelSelection(fit, parent1, parent2);
+     	RouletteWheelSelection(fit, parent1, parent2);
      
      	//Tournament Selection
-     	TournamentSelection(fit, tournamentSize, parent1, parent2);
+//     	TournamentSelection(fit, tournamentSize, parent1, parent2);
 
-     	       
-  
       tfit[0] = fit[parent1]; 
       tfit[1] = fit[parent2]; 
       
@@ -790,7 +880,9 @@ int main()
     outfileo1<<(double)(end-start)/CLOCKS_PER_SEC<<"\n\n";
     outfileo1.close();
 	 cout<<endl<<endl;
-	}
+	 
+	} //EXPERIMENT LOOP
+	 cout << "SUCCESSFULLY COMPLETED..." << endl;
     getch();
     return 0;   
 }
