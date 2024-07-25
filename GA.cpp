@@ -199,7 +199,7 @@ float Rotated(float a[])
 	return sumFit;
 }
 
-//No.9 - Schewefel 2.22 Function +-5
+//No.9 - Schwefel 2.22 Function +-5
 //Done By: Ling Ji Xiang 2104584
 float Schwefel(float a[])
 {
@@ -213,7 +213,7 @@ float Schwefel(float a[])
 	return sum + product;
 }
 
-//No.10 - Exponential function Function +-1.00
+//No.10 - Exponential function Function +-1.00 [f(x) = -1]
 //Done By: Ling Ji Xiang 2104584
 float Exponential(float a[]) 
 {    
@@ -269,11 +269,11 @@ void initialiseRange()
 			rangeMin = rangeMax = 65536;
 		   break;
 		   
-		case 9: 	//No.9 - Schewefel 2.22 Function +-5 [Updated]
+		case 9: 	//No.9 - Schwefel 2.22 Function +-5 [Updated]
 		   rangeMin = rangeMax = 5000;
 		   break;
 		   
-		case 10: //No.10 - Exponential function Function +-1.00
+		case 10: //No.10 - Exponential function Function +-1.00 [f(x) = -1]
 		   rangeMin = rangeMax = 1000;
 		   break;
 		   
@@ -315,7 +315,7 @@ float Fitness(float a[])
 		case 8: 	//No.8 - Rotated Hyper-Ellipsoid Function +-65.536
 			return Rotated(a);
 			
-		case 9: 	//No.9 - Schewefel 2.22 Function +-5 [Updated]
+		case 9: 	//No.9 - Schwefel 2.22 Function +-5 [Updated]
 		   return Schwefel(a);
 		   
 		case 10: //No.10 - Exponential function Function +-1.00
