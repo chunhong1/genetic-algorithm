@@ -1,0 +1,12002 @@
+GA6
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
