@@ -1,15 +1,15 @@
-#define _USE_MATH_DEFINES
 #include <iostream>
 #include <conio.h>
 #include <fstream>
 #include <cstdlib>
 #include <stdio.h>
 #include <time.h>
-#include <string.h>
+#include <string>
 #include <iomanip>
 #include <math.h>
 #include <algorithm>
 #include <windows.h>
+#include <cmath>
 using namespace std;
 
 /******************************************************** CODE GUIDELINE ********************************************************
@@ -92,7 +92,7 @@ float lFv = 0;
 double lowestGene[dimension];
 double lowestGeneFV = 0;
 
-const float pi = M_PI;
+const float pi = 2 * asin(1.0);
 int GA_COMBINATION[4][TECHNIQUE];
 int BENCHMARK = 1;
 string benchmarkFunction = "";
@@ -383,14 +383,14 @@ int RouletteWheelSelection2(float fitness[])
 	float total_sumFit = 0;
 	for (int i = 0; i < pSize; i++)
 	{
-		total_sumFit += fitness[i];
+		total_sumFit += 1/fitness[i]; //inverse so that smaller fitness value will have a higher portion
 	}
 
 	// normalise fitness value
 	float normFit[pSize];
 	for (int i = 0; i < pSize; i++)
 	{
-		normFit[i] = fit[i] / total_sumFit;
+		normFit[i] = (1/fitness[i]) / total_sumFit;
 	}
 
 	// Calculate cumulative probabilities
@@ -443,7 +443,7 @@ int TournamentSelection2(float fitness[], int tournamentSize)
 
 		selectedIndices[index] = true;
 
-		if (fitness[index] > bestFitness)
+		if (fitness[index] < bestFitness)
 		{
 			best = index;
 			bestFitness = fitness[index];
@@ -711,7 +711,7 @@ std::string addBinary(std::string a, std::string b)
 	int s = 0;				 // Initialize the carry
 
 	// Ensure both strings are of the same length by padding with leading zeros
-	int n = std::max(a.size(), b.size());
+	int n = max(a.size(), b.size());
 	while (a.size() < n)
 		a.insert(a.begin(), '0');
 	while (b.size() < n)
