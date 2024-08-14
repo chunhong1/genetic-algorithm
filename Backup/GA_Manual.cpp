@@ -391,19 +391,19 @@ int RouletteWheelSelection2(float fitness[])
     
 	// generate number from 0 to 1
 	float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);	//cout <<"spin: " <<spin <<endl;
-	cout << spin <<endl;
+	//cout << spin <<endl;
 	
 	for(int i = 0; i < pSize; i++)
     {
         if(spin <= cumulativeProbability[i])
         {
-        	cout << "chosen: "<<i<<endl;
+        	//cout << "chosen: "<<i<<endl;
             return i;
         }
     }
 
 	// In case of rounding errors, return the last individual
-	return pSize - 1;
+	return pSize;
 }
 
 void RouletteWheelSelection(float fitness[], int& parent1, int& parent2)
@@ -456,6 +456,69 @@ void TournamentSelection(float fitness[], int tournamentSize, int& parent1, int&
     
     //getch();
 }
+
+int LinearRankingSelection2(float fitness[])
+{
+	//selection pressure
+	float max = 1.1;
+	float min = 2 - max; 
+	
+	
+	//sort fitness value in descending order
+	sort(fitness, fitness+ pSize, greater<float>());
+	float probability[pSize];
+	float totalFit = 0;
+	for(int i = 0; i < pSize; i++)
+    {
+    	probability[i] = (min + (max - min) * i / (pSize -1) ) / pSize;
+    	totalFit += probability[i];
+        
+    }
+    
+    //calculate the cumulative probability and normalise it to [0,1]
+	float cumulativeProbability[pSize];
+    cumulativeProbability[0] = probability[0] / totalFit;
+    //cout <<"i" <<"\t"<< "Fitness"<<"\t"<< "Probability"<< "\t" << "Cumulative Prob" << endl;
+    //cout <<"0" <<"\t"<< fitness[0]<<"\t"<< probability[0]<< "\t" <<cumulativeProbability[0] << endl;
+
+	//cout <<"cumulativeProbability" << cumulativeProbability[0] <<endl;
+    for(int i = 1; i < pSize; i++)
+    {
+        cumulativeProbability[i] = cumulativeProbability[i-1] + (probability[i] / totalFit);
+        //cout <<i <<"\t"<< fitness[i]<<"\t"<< probability[i]<< "\t" <<cumulativeProbability[i] << endl;
+        //cout <<i << "\t"<<cumulativeProbability[i] <<endl;
+    }
+    
+	// generate number from 0 to 1
+	float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);	//cout <<"spin: " <<spin <<endl;
+	//cout << spin <<endl;
+	
+	for(int i = 0; i < pSize; i++)
+    {
+        if(spin <= cumulativeProbability[i])
+        {
+        	//cout << "chosen: "<<i<<endl;
+        	//getch();
+            return i;
+        }
+    }
+
+	// In case of rounding errors, return the last individual
+	return pSize;
+}
+
+void LinearRankingSelection(float fitness[], int& parent1, int& parent2)
+{
+	// Select first parent
+    parent1 = LinearRankingSelection2(fitness);
+
+    // Select second parent
+    parent2 = LinearRankingSelection2(fitness);
+    
+    //getch();
+}
+
+
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -823,12 +886,15 @@ int main()
 			
 			//************************************************************************************************************************
      		/* Roulette Wheel Selection */
-     		RouletteWheelSelection(fit, parent1, parent2);
+//    		RouletteWheelSelection(fit, parent1, parent2);
      		
      		/* Tournament Selection */
 //			TournamentSelection(fit, tournamentSize, parent1, parent2);
+
+			LinearRankingSelection(fit, parent1, parent2);
+			
 			//************************************************************************************************************************
-    cout <<"Parent1: "<<parent1<<"parent2 "<<parent2<<endl;
+//    cout <<"Parent1: "<<parent1<<"parent2 "<<parent2<<endl;
 
 
 			tfit[0] = fit[parent1]; 
