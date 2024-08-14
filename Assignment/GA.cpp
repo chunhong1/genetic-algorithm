@@ -380,29 +380,40 @@ float Fitness(float a[])
 int RouletteWheelSelection2(float fitness[])
 {
     
-	// calculate the cumulative probabilities
-	//cout << "fitness[i]\t" << "cumulativeProb[i]\t" <<endl;
-	
-	float cumulativeProb[pSize];
-	for (int i = 0; i < pSize; i++)
-	{
-        fitness[i] = ((fitness[i] - rangeMin) / (rangeMax - rangeMin)) * (10 - 1) + 1; //scale the sum fit to [1,10] using min max scaling
-		cumulativeProb[i] += 1/fitness[i]; //inverse so that smaller fitness value will have a higher portion
-		//cout << fitness[i] <<"\t" << cumulativeProb[i] <<"\t" <<endl;
-	}
-	
+	float inverseFit[pSize];
+	float totalFit = 0;
 
-	// generate number 1 to the largest of cumulative probability
-	float spin = getrandom(1,cumulativeProb[pSize]);
-    //cout <<"Spin = " << spin <<endl;
-	// Select the individual based on the spin
 	for (int i = 0; i < pSize; i++)
 	{
-		if (spin < cumulativeProb[i])
+		inverseFit[i] = 1 / fitness[i]; //inverse so that smaller fitness value will have a higher portion
+		totalFit += inverseFit[i];
+		//cout <<fitness[i] <<"\t" <<inverseFit[i] <<endl;
+	}
+	//cout <<totalFit <<endl;
+
+	//calculate the cumulative probability and normalise it to [0,1]
+	float cumulativeProbability[pSize];
+	cumulativeProbability[0] = inverseFit[0] / totalFit;
+	//cout <<"cumulativeProbability" << cumulativeProbability[0] <<endl;
+	for (int i = 1; i < pSize; i++)
+	{
+		cumulativeProbability[i] = cumulativeProbability[i - 1] + (inverseFit[i] / totalFit);
+		//cout <<i << "\t"<<cumulativeProbability[i] <<endl;
+	}
+
+	// generate number from 0 to 1
+	float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);	//cout <<"spin: " <<spin <<endl;
+	cout << spin << endl;
+
+	for (int i = 0; i < pSize; i++)
+	{
+		if (spin <= cumulativeProbability[i])
 		{
+			cout << "chosen: " << i << endl;
 			return i;
 		}
 	}
+
 	// In case of rounding errors, return the last individual
 	return pSize - 1;
 }
@@ -419,10 +430,10 @@ void RouletteWheelSelection(float fitness[], int &parent1, int &parent2)
 int TournamentSelection2(float fitness[], int tournamentSize)
 {
 	int best = -1;
-	float bestFitness = pow(999, -30);
-	bool selectedIndices[pSize] = {false};
+	float bestFitness = pow(999, 30);
+	bool selectedIndices[pSize] = { false };
 
-	// Randomly select unique individuals and perform tournament
+	//Randomly select unique individuals and perform tournament  
 	for (int i = 0; i < tournamentSize; i++)
 	{
 		int index;
@@ -430,16 +441,19 @@ int TournamentSelection2(float fitness[], int tournamentSize)
 		{
 			index = rand() % pSize;
 		} while (selectedIndices[index]);
+		//cout <<"index "<< index <<endl;
 
 		selectedIndices[index] = true;
 
+		//cout <<"fitness[index] "<< fitness[index]<<" bestFitness "<< bestFitness <<endl;
 		if (fitness[index] < bestFitness)
 		{
 			best = index;
 			bestFitness = fitness[index];
+			//cout <<"best "<< best<<" bestFitness "<< bestFitness <<endl;
 		}
 	}
-
+	//getch();
 	return best;
 }
 

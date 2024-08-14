@@ -368,42 +368,42 @@ float Fitness(float a[])
 //------------------------------------------------------------------------------------------------------------------------------
 int RouletteWheelSelection2(float fitness[])
 {
-	//calculate the total fitness
-	float total_sumFit = 0;
-	for (int i=0; i<pSize;i++)
-	{
-		total_sumFit += fitness[i];
-	}
+	float inverseFit[pSize];
+	float totalFit = 0;
 	
-	//normalise fitness value
-  float normFit[pSize];
-  for(int i = 0 ; i < pSize ; i++)
-  {
-    normFit[i] = fit[i]/total_sumFit;  
-  }
-   
-   // Calculate cumulative probabilities
-  float cumulativeProb[pSize];
-  cumulativeProb[0] = normFit[0];
-    
-  for (int i = 1; i < pSize; i++) 
+	for (int i = 0; i < pSize; i++)
 	{
-		cumulativeProb[i] = cumulativeProb[i - 1] + normFit[i];
-  }
-    
-  // generate number 0 to 1
-  float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);
-        
-  // Select the individual based on the spin
-  for (int i = 0; i < pSize; i++) 
-	{
-		if (spin < cumulativeProb[i]) 
-		{
-			return i;
+		inverseFit[i] = 1/fitness[i]; //inverse so that smaller fitness value will have a higher portion
+		totalFit += inverseFit[i];
+		//cout <<fitness[i] <<"\t" <<inverseFit[i] <<endl;
+	}
+	//cout <<totalFit <<endl;
+	
+	//calculate the cumulative probability and normalise it to [0,1]
+	float cumulativeProbability[pSize];
+    cumulativeProbability[0] = inverseFit[0] / totalFit;
+	//cout <<"cumulativeProbability" << cumulativeProbability[0] <<endl;
+    for(int i = 1; i < pSize; i++)
+    {
+        cumulativeProbability[i] = cumulativeProbability[i-1] + (inverseFit[i] / totalFit);
+        //cout <<i << "\t"<<cumulativeProbability[i] <<endl;
     }
-  }
-  // In case of rounding errors, return the last individual
-  return pSize - 1;
+    
+	// generate number from 0 to 1
+	float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);	//cout <<"spin: " <<spin <<endl;
+	cout << spin <<endl;
+	
+	for(int i = 0; i < pSize; i++)
+    {
+        if(spin <= cumulativeProbability[i])
+        {
+        	cout << "chosen: "<<i<<endl;
+            return i;
+        }
+    }
+
+	// In case of rounding errors, return the last individual
+	return pSize - 1;
 }
 
 void RouletteWheelSelection(float fitness[], int& parent1, int& parent2)
@@ -419,7 +419,7 @@ int tournamentSize = 5;
 int TournamentSelection2(float fitness[], int tournamentSize)
 {
 	int best = -1;
-	float bestFitness = pow(999,-30);
+	float bestFitness = pow(999,30);
 	bool selectedIndices[pSize] = {false};
 
 //Randomly select unique individuals and perform tournament  
@@ -428,18 +428,21 @@ int TournamentSelection2(float fitness[], int tournamentSize)
 		int index;		
 		do 
 		{
-       index = rand() % pSize;
-    } while (selectedIndices[index]);
+       		index = rand() % pSize;
+    	} while (selectedIndices[index]);
+		//cout <<"index "<< index <<endl;
+	
+    	selectedIndices[index] = true;
 
-    selectedIndices[index] = true;
-
-		if(fitness[index] > bestFitness)
+		//cout <<"fitness[index] "<< fitness[index]<<" bestFitness "<< bestFitness <<endl;
+		if(fitness[index] < bestFitness)
 		{
 			best = index;
 			bestFitness = fitness[index];
+			//cout <<"best "<< best<<" bestFitness "<< bestFitness <<endl;
 		}
 	}
-	
+	//getch();
 	return best;
 }
 
@@ -451,7 +454,6 @@ void TournamentSelection(float fitness[], int tournamentSize, int& parent1, int&
     // Select second parent
     parent2 = TournamentSelection2(fitness, tournamentSize);
     
-    //cout <<"Parent1: "<<parent1<<"parent2 "<<parent2<<endl;
     //getch();
 }
 //------------------------------------------------------------------------------------------------------------------------------
@@ -826,6 +828,7 @@ int main()
      		/* Tournament Selection */
 //			TournamentSelection(fit, tournamentSize, parent1, parent2);
 			//************************************************************************************************************************
+    cout <<"Parent1: "<<parent1<<"parent2 "<<parent2<<endl;
 
 
 			tfit[0] = fit[parent1]; 
