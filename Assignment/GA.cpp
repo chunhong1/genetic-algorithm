@@ -379,32 +379,22 @@ float Fitness(float a[])
 //------------------------------------------------------------------------------------------------------------------------------
 int RouletteWheelSelection2(float fitness[])
 {
-	// calculate the total fitness
-	float total_sumFit = 0;
-	for (int i = 0; i < pSize; i++)
-	{
-		total_sumFit += 1/fitness[i]; //inverse so that smaller fitness value will have a higher portion
-	}
-
-	// normalise fitness value
-	float normFit[pSize];
-	for (int i = 0; i < pSize; i++)
-	{
-		normFit[i] = (1/fitness[i]) / total_sumFit;
-	}
-
-	// Calculate cumulative probabilities
+    
+	// calculate the cumulative probabilities
+	//cout << "fitness[i]\t" << "cumulativeProb[i]\t" <<endl;
+	
 	float cumulativeProb[pSize];
-	cumulativeProb[0] = normFit[0];
-
-	for (int i = 1; i < pSize; i++)
+	for (int i = 0; i < pSize; i++)
 	{
-		cumulativeProb[i] = cumulativeProb[i - 1] + normFit[i];
+        fitness[i] = ((fitness[i] - rangeMin) / (rangeMax - rangeMin)) * (10 - 1) + 1; //scale the sum fit to [1,10] using min max scaling
+		cumulativeProb[i] += 1/fitness[i]; //inverse so that smaller fitness value will have a higher portion
+		//cout << fitness[i] <<"\t" << cumulativeProb[i] <<"\t" <<endl;
 	}
+	
 
-	// generate number 0 to 1
-	float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);
-
+	// generate number 1 to the largest of cumulative probability
+	float spin = getrandom(1,cumulativeProb[pSize]);
+    //cout <<"Spin = " << spin <<endl;
 	// Select the individual based on the spin
 	for (int i = 0; i < pSize; i++)
 	{
