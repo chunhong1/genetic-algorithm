@@ -698,47 +698,47 @@ void RandomMutation()
 //------------------------------------------------------------------------------------------------------------------------------
 void WeakParentReplacement(float chromosome[pSize][dimension], float fit[pSize], float paroff[4][dimension], float tfit[4], int parent1, int parent2)
 {
-	if (fit[parent1] > fit[parent2]) // Check which parent has worse fitness value (higher fitness value)*
+	int chosenParent, notChosenParent;
+	int chosenChild, notChosenChild;
+	
+	if (fit[parent1] > fit[parent2]) //choose weak parent
 	{
-		if (tfit[2] < fit[parent1]) // Check if fitness value of offspring1 is lower than parent1
-		{
-			for (int i = 0; i < dimension; i++)
-			{
-				// Replace genes of parent1 with offspring1
-				chromosome[parent1][i] = paroff[2][i];
-			}
-			fit[parent1] = tfit[2]; // Update fitness of parent1
-		}
-		if (tfit[3] < fit[parent2]) // Check if fitness value of offspring2 is lower than parent2
-		{
-			for (int i = 0; i < dimension; i++)
-			{
-				// Replace genes of parent2 with offspring2
-				chromosome[parent2][i] = paroff[3][i];
-			}
-			fit[parent2] = tfit[3]; // Update fitness of parent2
-		}
+		chosenParent = parent1; 
+		notChosenParent = parent2; 
 	}
 	else
 	{
-		if (tfit[2] < fit[parent2]) // Check if fitness value of offspring1 is lower than parent2
+		chosenParent = parent2; 
+		notChosenParent = parent1;
+	}
+	
+	if (tfit[2] < tfit[3]) //choose strong child
+	{
+		chosenChild = 2; 
+		notChosenChild = 3; 
+	}
+	else
+	{
+		chosenChild = 3; 
+		notChosenChild = 2; 
+	}
+	
+	if (fit[chosenParent] > tfit[chosenChild])
+	{
+		for (int i = 0; i < dimension; i++)
 		{
-			for (int i = 0; i < dimension; i++)
-			{
-				// Replace genes of parent2 with offspring1
-				chromosome[parent2][i] = paroff[2][i];
-			}
-			fit[parent2] = tfit[2]; // Update fitness of parent2
+			chromosome[chosenParent][i] = paroff[chosenChild][i];
 		}
-		if (tfit[3] < fit[parent1]) // Check if fitness value of offspring2 is lower than parent1
+		fit[chosenParent] = tfit[chosenChild];
+	}
+	
+	if (fit[notChosenParent] > tfit[notChosenChild])
+	{
+		for (int i = 0; i < dimension; i++)
 		{
-			for (int i = 0; i < dimension; i++)
-			{
-				// Replace genes of parent1 with offspring2
-				chromosome[parent1][i] = paroff[3][i];
-			}
-			fit[parent1] = tfit[3]; // Update fitness of parent1
+			chromosome[notChosenParent][i] = paroff[notChosenChild][i];
 		}
+		fit[notChosenParent] = tfit[notChosenChild];
 	}
 }
 
