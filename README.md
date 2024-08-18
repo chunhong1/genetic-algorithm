@@ -5,6 +5,7 @@ If there is a problem with opening `GA.cpp` with Dev-C++, you might need to use 
 To generate the `.exe` file with manual C++ compilation:
 ```sh
 g++ -o GA.exe GA.cpp
+```
 
 # Brandon TODO
 - demo color
