@@ -7,7 +7,7 @@ To generate the `.exe` file with manual C++ compilation:
 g++ -o GA.exe GA.cpp
 ```
 
-# Brandon TODO
+# TODO
 - demo color
 - start stop clock (auto data type?) -> more accurate execution times
 - float -> double OR long double
