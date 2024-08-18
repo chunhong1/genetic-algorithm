@@ -1,15 +1,15 @@
+#define _USE_MATH_DEFINES
 #include <iostream>
 #include <conio.h>
 #include <fstream>
 #include <cstdlib>
 #include <stdio.h>
 #include <time.h>
-#include <string>
+#include <string.h>
 #include <iomanip>
 #include <math.h>
 #include <algorithm>
 #include <windows.h>
-#include <cmath>
 using namespace std;
 
 /******************************************************** CODE GUIDELINE ********************************************************
@@ -92,7 +92,7 @@ float lFv = 0;
 double lowestGene[dimension];
 double lowestGeneFV = 0;
 
-const float pi = 2 * asin(1.0);
+const float pi = M_PI;
 int GA_COMBINATION[4][TECHNIQUE];
 int BENCHMARK = 1;
 string benchmarkFunction = "";
@@ -379,43 +379,42 @@ float Fitness(float a[])
 //------------------------------------------------------------------------------------------------------------------------------
 int RouletteWheelSelection2(float fitness[])
 {
-    
-	float inverseFit[pSize];
-	float totalFit = 0;
-
+	// calculate the total fitness
+	float total_sumFit = 0;
 	for (int i = 0; i < pSize; i++)
 	{
-		inverseFit[i] = 1 / fitness[i]; //inverse so that smaller fitness value will have a higher portion
-		totalFit += inverseFit[i];
-		//cout <<fitness[i] <<"\t" <<inverseFit[i] <<endl;
+		total_sumFit += fitness[i];
 	}
-	//cout <<totalFit <<endl;
 
-	//calculate the cumulative probability and normalise it to [0,1]
-	float cumulativeProbability[pSize];
-	cumulativeProbability[0] = inverseFit[0] / totalFit;
-	//cout <<"cumulativeProbability" << cumulativeProbability[0] <<endl;
+	// normalise fitness value
+	float normFit[pSize];
+	for (int i = 0; i < pSize; i++)
+	{
+		normFit[i] = fit[i] / total_sumFit;
+	}
+
+	// Calculate cumulative probabilities
+	float cumulativeProb[pSize];
+	cumulativeProb[0] = normFit[0];
+
 	for (int i = 1; i < pSize; i++)
 	{
-		cumulativeProbability[i] = cumulativeProbability[i - 1] + (inverseFit[i] / totalFit);
-		//cout <<i << "\t"<<cumulativeProbability[i] <<endl;
+		cumulativeProb[i] = cumulativeProb[i - 1] + normFit[i];
 	}
 
-	// generate number from 0 to 1
-	float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);	//cout <<"spin: " <<spin <<endl;
-	//cout << spin << endl;
+	// generate number 0 to 1
+	float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);
 
+	// Select the individual based on the spin
 	for (int i = 0; i < pSize; i++)
 	{
-		if (spin <= cumulativeProbability[i])
+		if (spin < cumulativeProb[i])
 		{
-			//cout << "chosen: " << i << endl;
 			return i;
 		}
 	}
-
 	// In case of rounding errors, return the last individual
-	return pSize;
+	return pSize - 1;
 }
 
 void RouletteWheelSelection(float fitness[], int &parent1, int &parent2)
@@ -430,10 +429,10 @@ void RouletteWheelSelection(float fitness[], int &parent1, int &parent2)
 int TournamentSelection2(float fitness[], int tournamentSize)
 {
 	int best = -1;
-	float bestFitness = pow(999, 30);
-	bool selectedIndices[pSize] = { false };
+	float bestFitness = pow(999, -30);
+	bool selectedIndices[pSize] = {false};
 
-	//Randomly select unique individuals and perform tournament  
+	// Randomly select unique individuals and perform tournament
 	for (int i = 0; i < tournamentSize; i++)
 	{
 		int index;
@@ -441,19 +440,16 @@ int TournamentSelection2(float fitness[], int tournamentSize)
 		{
 			index = rand() % pSize;
 		} while (selectedIndices[index]);
-		//cout <<"index "<< index <<endl;
 
 		selectedIndices[index] = true;
 
-		//cout <<"fitness[index] "<< fitness[index]<<" bestFitness "<< bestFitness <<endl;
-		if (fitness[index] < bestFitness)
+		if (fitness[index] > bestFitness)
 		{
 			best = index;
 			bestFitness = fitness[index];
-			//cout <<"best "<< best<<" bestFitness "<< bestFitness <<endl;
 		}
 	}
-	//getch();
+
 	return best;
 }
 
@@ -468,68 +464,6 @@ void TournamentSelection(float fitness[], int tournamentSize, int &parent1, int 
 	// cout <<"Parent1: "<<parent1<<"parent2 "<<parent2<<endl;
 	// getch();
 }
-
-int LinearRankingSelection2(float fitness[])
-{
-	//selection pressure
-	float max = 1.1;
-	float min = 2 - max;
-
-
-	//sort fitness value in descending order
-	sort(fitness, fitness + pSize, greater<float>());
-	float probability[pSize];
-	float totalFit = 0;
-	for (int i = 0; i < pSize; i++)
-	{
-		probability[i] = (min + (max - min) * i / (pSize - 1)) / pSize;
-		totalFit += probability[i];
-
-	}
-
-	//calculate the cumulative probability and normalise it to [0,1]
-	float cumulativeProbability[pSize];
-	cumulativeProbability[0] = probability[0] / totalFit;
-	//cout <<"i" <<"\t"<< "Fitness"<<"\t"<< "Probability"<< "\t" << "Cumulative Prob" << endl;
-	//cout <<"0" <<"\t"<< fitness[0]<<"\t"<< probability[0]<< "\t" <<cumulativeProbability[0] << endl;
-
-	//cout <<"cumulativeProbability" << cumulativeProbability[0] <<endl;
-	for (int i = 1; i < pSize; i++)
-	{
-		cumulativeProbability[i] = cumulativeProbability[i - 1] + (probability[i] / totalFit);
-		//cout <<i <<"\t"<< fitness[i]<<"\t"<< probability[i]<< "\t" <<cumulativeProbability[i] << endl;
-		//cout <<i << "\t"<<cumulativeProbability[i] <<endl;
-	}
-
-	// generate number from 0 to 1
-	float spin = static_cast<float>(rand()) / static_cast<float>(RAND_MAX);	//cout <<"spin: " <<spin <<endl;
-	//cout << spin <<endl;
-
-	for (int i = 0; i < pSize; i++)
-	{
-		if (spin <= cumulativeProbability[i])
-		{
-			//cout << "chosen: "<<i<<endl;
-			//getch();
-			return i;
-		}
-	}
-
-	// In case of rounding errors, return the last individual
-	return pSize;
-}
-
-void LinearRankingSelection(float fitness[], int& parent1, int& parent2)
-{
-	// Select first parent
-	parent1 = LinearRankingSelection2(fitness);
-
-	// Select second parent
-	parent2 = LinearRankingSelection2(fitness);
-
-	//getch();
-}
-
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -698,47 +632,47 @@ void RandomMutation()
 //------------------------------------------------------------------------------------------------------------------------------
 void WeakParentReplacement(float chromosome[pSize][dimension], float fit[pSize], float paroff[4][dimension], float tfit[4], int parent1, int parent2)
 {
-	int chosenParent, notChosenParent;
-	int chosenChild, notChosenChild;
-	
-	if (fit[parent1] > fit[parent2]) //choose weak parent
+	if (fit[parent1] > fit[parent2]) // Check which parent has worse fitness value (higher fitness value)*
 	{
-		chosenParent = parent1; 
-		notChosenParent = parent2; 
+		if (tfit[2] < fit[parent1]) // Check if fitness value of offspring1 is lower than parent1
+		{
+			for (int i = 0; i < dimension; i++)
+			{
+				// Replace genes of parent1 with offspring1
+				chromosome[parent1][i] = paroff[2][i];
+			}
+			fit[parent1] = tfit[2]; // Update fitness of parent1
+		}
+		if (tfit[3] < fit[parent2]) // Check if fitness value of offspring2 is lower than parent2
+		{
+			for (int i = 0; i < dimension; i++)
+			{
+				// Replace genes of parent2 with offspring2
+				chromosome[parent2][i] = paroff[3][i];
+			}
+			fit[parent2] = tfit[3]; // Update fitness of parent2
+		}
 	}
 	else
 	{
-		chosenParent = parent2; 
-		notChosenParent = parent1;
-	}
-	
-	if (tfit[2] < tfit[3]) //choose strong child
-	{
-		chosenChild = 2; 
-		notChosenChild = 3; 
-	}
-	else
-	{
-		chosenChild = 3; 
-		notChosenChild = 2; 
-	}
-	
-	if (fit[chosenParent] > tfit[chosenChild])
-	{
-		for (int i = 0; i < dimension; i++)
+		if (tfit[2] < fit[parent2]) // Check if fitness value of offspring1 is lower than parent2
 		{
-			chromosome[chosenParent][i] = paroff[chosenChild][i];
+			for (int i = 0; i < dimension; i++)
+			{
+				// Replace genes of parent2 with offspring1
+				chromosome[parent2][i] = paroff[2][i];
+			}
+			fit[parent2] = tfit[2]; // Update fitness of parent2
 		}
-		fit[chosenParent] = tfit[chosenChild];
-	}
-	
-	if (fit[notChosenParent] > tfit[notChosenChild])
-	{
-		for (int i = 0; i < dimension; i++)
+		if (tfit[3] < fit[parent1]) // Check if fitness value of offspring2 is lower than parent1
 		{
-			chromosome[notChosenParent][i] = paroff[notChosenChild][i];
+			for (int i = 0; i < dimension; i++)
+			{
+				// Replace genes of parent1 with offspring2
+				chromosome[parent1][i] = paroff[3][i];
+			}
+			fit[parent1] = tfit[3]; // Update fitness of parent1
 		}
-		fit[notChosenParent] = tfit[notChosenChild];
 	}
 }
 
@@ -777,7 +711,7 @@ std::string addBinary(std::string a, std::string b)
 	int s = 0;				 // Initialize the carry
 
 	// Ensure both strings are of the same length by padding with leading zeros
-	int n = max(a.size(), b.size());
+	int n = std::max(a.size(), b.size());
 	while (a.size() < n)
 		a.insert(a.begin(), '0');
 	while (b.size() < n)
@@ -1042,12 +976,12 @@ int main()
 						outfileo1Info << "S: Tournament Selection" << endl;
 					}
 
-					/* Linear Ranking Selection */
-					if (GA_COMBINATION[0][2] == 1)
-					{
-						LinearRankingSelection(fit, parent1, parent2);
-						outfileo1Info << "S: Linear Ranking Selection" << endl;
-					}
+					/* XXX Selection */
+					//if (GA_COMBINATION[0][2] == 1)
+					//{
+					//	
+					//	outfileo1Info << "S: XXX Selection" << endl;
+					//}
 
 					/* XXX Selection */
 					//if (GA_COMBINATION[0][3] == 1)
