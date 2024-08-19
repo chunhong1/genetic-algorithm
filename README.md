@@ -10,6 +10,8 @@ g++ -o GA.exe GA.cpp
 # TODO
 - demo color
 - start stop clock (auto data type?) -> more accurate execution times
-- float -> double OR long double
-- lvFit - > change coding or max value
-- manual ver -> resetExperiment() update
+
+# DONE
+19/8
+- float -> double
+- lFv -> double type max value
