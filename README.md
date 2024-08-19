@@ -14,7 +14,7 @@ g++ -o PSO.exe PSO.cpp
 - Finish GA Project (4 Operation Techniques)
 - PSO.cpp
 
-#### <u> OPTIONAL TODO </u>
+#### OPTIONAL TODO
 - Demo color change (Crossover and Mutation)
 - Start, Stop clock (auto data type?) -> more accurate execution times
 
