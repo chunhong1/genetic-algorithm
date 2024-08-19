@@ -1,6 +1,6 @@
 # Genetic Algorithm
 
-If there is a problem with opening `GA.cpp` with Dev-C++, you might need to use other text editors such as Visual Studio.
+If there is a problem with opening `GA.cpp` or `PSO.cpp` with Dev-C++, you might need to use other text editors.
 
 To generate the `.exe` file with manual C++ compilation:
 ```sh
