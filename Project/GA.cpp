@@ -710,8 +710,7 @@ void SimpleInversionMutation()
 					mb2 = temp;
 				}
 			} while (mb1 == mb2);
-			cout << "mb1: " << mb1 << endl;
-			cout << "mb2: " << mb2 << endl;
+
 			int iterations = (mb2 - mb1 + 1) / 2;
 			for (int j = 0; j < iterations; j++, mb1++, mb2--)
 			{
