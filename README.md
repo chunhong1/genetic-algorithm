@@ -10,8 +10,5 @@ g++ -o GA.exe GA.cpp
 # TODO
 - demo color
 - start stop clock (auto data type?) -> more accurate execution times
-
-# DONE
-19/8
-- float -> double
+- - float -> double
 - lFv -> double type max value
