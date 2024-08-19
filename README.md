@@ -6,6 +6,9 @@ To generate the `.exe` file with manual C++ compilation:
 ```sh
 g++ -o GA.exe GA.cpp
 ```
+```sh
+g++ -o PSO.exe PSO.cpp
+```
 
 # TODO
 - demo color
