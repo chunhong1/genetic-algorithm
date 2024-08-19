@@ -39,32 +39,32 @@ using namespace std;
 // Parameter Settings
 //------------------------------------------------------------------------------------------------------------------------------
 #define DEMO 0									// Demo Mode
-#define TECHNIQUE 2								// No. Of Techniques	(Assignment - 2 | Project - 4)
-string GA = "00000000";							// GA Combinations		(Assignment - "00000000" | Project - "0000000000000000")
+#define TECHNIQUE 4								// No. Of Techniques	(Assignment - 2 | Project - 4)
+string GA = "0000000000000000";					// GA Combinations		(Assignment - "00000000" | Project - "0000000000000000")
 
 /* GA_COMBINATION Sheet */
 /* Selection	- [0] */
 // Roulette Wheel	[0][0]
 // Tournament		[0][1]
-// XXX				[0][2]
+// Linear Ranking	[0][2]
 // XXX				[0][3]
 
 /* Crossover	- [1] */
 // Uniform			[1][0]
 // Shuffle			[1][1]
-// XXX				[1][2]
+// Arithmetic		[1][2]
 // XXX				[1][3]
 
 /* Mutation		- [2] */
 // Reversing		[2][0]
 // Random			[2][1]
-// XXX				[2][2]
+// Simple Inversion	[2][2]
 // XXX				[2][3]
 
 /* Replacement 	- [3] */
 // Weak Parent		[3][0]
 // Both Parent		[3][1]
-// XXX				[3][2]
+// Tournament		[3][2]
 // XXX				[3][3]
 
 const float dcp = 0.7, dmp = 0.01;				// Crossover Probability | Mutation Probability
@@ -690,6 +690,38 @@ void RandomMutation()
 		}
 	}
 }
+
+void SimpleInversionMutation()
+{
+	for (int i = 2; i < 4; i++)
+	{
+		gmp = (rand() % 1000000);
+		gmp = gmp / 1000000;
+
+		if (gmp <= dmp)
+		{
+			do {
+				mb1 = getrandom(0, dimension - 1);
+				mb2 = getrandom(0, dimension - 1);
+
+				if (mb1 > mb2) {
+					float temp = mb1;
+					mb1 = mb2;
+					mb2 = temp;
+				}
+			} while (mb1 == mb2);
+			cout << "mb1: " << mb1 << endl;
+			cout << "mb2: " << mb2 << endl;
+			int iterations = (mb2 - mb1 + 1) / 2;
+			for (int j = 0; j < iterations; j++, mb1++, mb2--)
+			{
+				float temp = paroff[i][mb1];
+				paroff[i][mb1] = paroff[i][mb2];
+				paroff[i][mb2] = temp;
+			}
+		}
+	}
+}
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -1165,12 +1197,12 @@ int main()
 						outfileo1Info << "M: Random Mutation" << endl;
 					}
 
-					/* XXX Mutation */
-					//if (GA_COMBINATION[2][2] == 1)
-					//{
-					//	
-					//	outfileo1Info << "S: XXX Mutation" << endl;
-					//}
+					/* Simple Inversion Mutation */
+					if (GA_COMBINATION[2][2] == 1)
+					{
+						SimpleInversionMutation();
+						outfileo1Info << "S: Simple Inversion Mutation" << endl;
+					}
 
 					/* XXX Mutation */
 					//if (GA_COMBINATION[2][3] == 1)

@@ -37,7 +37,7 @@ using namespace std;
 //------------------------------------------------------------------------------------------------------------------------------
 //Parameter Settings
 //------------------------------------------------------------------------------------------------------------------------------
-#define DEMO 0							//Generation = 1 + CMD Output
+#define DEMO 1							//Generation = 1 + CMD Output
 #define EXPERIMENT 10					//No. of Experiments
 const int BENCHMARK = 1;				//Benchmark Function (1 - 10)
 
@@ -586,7 +586,7 @@ void ShuffleCrossover(float chromosome[][dimension], float paroff[][dimension], 
 void ReversingMutation()
 {
 	gmp = (rand() % 1000000);
-   gmp = gmp / 1000000;
+    gmp = gmp / 1000000;
 	
 	//Parent 1
 	if (gmp <= dmp)
@@ -609,7 +609,7 @@ void ReversingMutation()
 	}
 	
 	gmp = (rand() % 1000000);
-   gmp = gmp / 1000000;
+    gmp = gmp / 1000000;
 	
 	//Parent 2
 	if (gmp <= dmp)
@@ -619,12 +619,12 @@ void ReversingMutation()
 		mb2v = paroff[2][mb2];
 		
 		if (mb2 == 0) {
-			//Parent 1
+			//Parent 2
 			paroff[3][mb2] = paroff[3][dimension - 1];
 			paroff[3][dimension - 1] = mb2v;
 			
 		} else {
-			//Parent 1
+			//Parent 2
 			paroff[3][mb1] = paroff[3][mb2 - 1];
 			paroff[3][mb1 - 1] = mb2v;
 			
@@ -638,24 +638,56 @@ void RandomMutation()
 	for (int i = 2; i < 4; i++)
 	{
 		gmp = (rand() % 1000000);
-   	gmp = gmp / 1000000;
+   		gmp = gmp / 1000000;
    
-   	mb1 = getrandom(0 , dimension - 1);
-   	mb2 = getrandom(0 , dimension - 1);
+   		mb1 = getrandom(0 , dimension - 1);
+   		mb2 = getrandom(0 , dimension - 1);
    	
    	if (gmp <= dmp) {
    		r = getrandom(-rangeMin,rangeMax);
-         r = r / rangeDiv;
+        r = r / rangeDiv;
    		paroff[i][mb1] = r;
 		}
 		
 		gmp = (rand() % 1000000);
-   	gmp = gmp / 1000000;
+   		gmp = gmp / 1000000;
 		
 		if (gmp <= dmp) {
 			r = getrandom(-rangeMin,rangeMax);
-         r = r / rangeDiv;
+			r = r / rangeDiv;
 			paroff[i][mb2] = r;
+		}
+	}
+}
+
+void SimpleInversionMutation()
+{
+	for (int i = 2; i < 4; i++)
+	{
+		gmp = (rand() % 1000000);
+		gmp = gmp / 1000000;
+
+		if (gmp <= dmp)
+		{
+			do {
+				mb1 = getrandom(0, dimension - 1);
+				mb2 = getrandom(0, dimension - 1);
+
+				if (mb1 > mb2) {
+					float temp = mb1;
+					mb1 = mb2;
+					mb2 = temp;
+				}
+			} while (mb1 == mb2);
+			cout << "mb1: " << mb1 << endl;
+			cout << "mb2: " << mb2 << endl;
+			int iterations = (mb2 - mb1 + 1) / 2;
+			for (int j = 0; j < iterations; j++, mb1++, mb2--)
+			{
+				float temp = paroff[i][mb1];
+				paroff[i][mb1] = paroff[i][mb2];
+				paroff[i][mb2] = temp;
+			}
 		}
 	}
 }
@@ -759,21 +791,21 @@ void resetExperiment()
 	lowestGeneFV = 0;
 }
 
-std::string to_string(int number) {
-    if (number == 0) return "0";
-    std::string result;
-    bool isNegative = (number < 0);
-    if (isNegative) number = -number;
-
-    while (number > 0) {
-        result += '0' + (number % 10);
-        number /= 10;
-    }
-
-    if (isNegative) result += '-';
-    std::reverse(result.begin(), result.end());
-    return result;
-}
+//std::string to_string(int number) {
+//    if (number == 0) return "0";
+//    std::string result;
+//    bool isNegative = (number < 0);
+//    if (isNegative) number = -number;
+//
+//    while (number > 0) {
+//        result += '0' + (number % 10);
+//        number /= 10;
+//    }
+//
+//    if (isNegative) result += '-';
+//    std::reverse(result.begin(), result.end());
+//    return result;
+//}
 //------------------------------------------------------------------------------------------------------------------------------
 
 int main()
@@ -973,10 +1005,13 @@ int main()
 			
 			//************************************************************************************************************************
 			/* Reversing Mutation */
-			ReversingMutation();
+			//ReversingMutation();
 		
 			/* Random Mutation */
-//			RandomMutation();
+			//RandomMutation();
+
+			/* Simple Inversion Mustation */
+			SimpleInversionMutation();
 			//************************************************************************************************************************
 
 
