@@ -477,8 +477,8 @@ int main()
 	outfileo1Info << "PSO with constant w and vc" << endl << endl;
 	outfileo1Info << "Inertia Weight (w): " << w << endl;
 	outfileo1Info << "Velocity Clamping (cv): " << vc << endl;
-	outfileo1Info << "Constant c (c1): " << vc << endl;
-	outfileo1Info << "Constant c (c2): " << vc << endl;
+	outfileo1Info << "Constant c (c1): " << c1 << endl;
+	outfileo1Info << "Constant c (c2): " << c2 << endl;
 	outfileo1Info.close();
 	
 	// Directory e.g. PSO/PSO-Sphere
