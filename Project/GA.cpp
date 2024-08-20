@@ -40,7 +40,7 @@ main()
 //------------------------------------------------------------------------------------------------------------------------------
 // Parameter Settings
 //------------------------------------------------------------------------------------------------------------------------------
-#define MINI_PROJECT -2 							// Project -> 1 | Assignment -> 0 | Demo -> -1 | Manual -> -2
+#define MINI_PROJECT 0 							// Project -> 1 | Assignment -> 0 | Demo -> -1 | Manual -> -2
 
 //////////////////////////
 /* GA_COMBINATION Sheet */
@@ -80,6 +80,10 @@ main()
 
 const double dcp = 0.7, dmp = 0.01;				// Crossover Probability, Mutation Probability
 const int tournamentSize = 5;					// Tournament Selection Size
+int dynamicTournamentSize = tournamentSize;
+const float highDiverseThreshold = 0.04;		// threshold for high diversity
+const float lowDiverseThreshold = 0.01;			// threshold for low diversity
+
 //------------------------------------------------------------------------------------------------------------------------------
 
 /* UNCOMMENT WHEN PROJECT IS READY! */
@@ -563,6 +567,57 @@ void LinearRankingSelection(double fitness[], int& parent1, int& parent2)
 	//getch();
 }
 
+float CalculateDiversity(double fitness[])
+{
+	
+	double mean = 0.0;
+	double sumSquare = 0.0;
+	double sumFitness =0.0;
+	for (int i =0; i < pSize; i++){
+		sumFitness += fitness[i];
+	}
+	//calculate mean of fitness
+	for (int i =0; i < pSize; i++){
+		mean += fitness[i]/sumFitness;
+	}
+	
+	mean = mean/pSize;
+	
+	//calculate sum of square
+	for (int i=0; i < pSize; i++){
+		sumSquare += (fitness[i]/sumFitness - mean) * (fitness[i]/sumFitness - mean);
+	}
+	
+	double stdDev = sqrt(sumSquare/pSize);
+	return stdDev;
+}
+
+int AdjustTournamentSize(double diversity, int currentSize, int minSize, int maxSize) {
+	//cout <<"Diversity: "<< diversity <<"\t" <<"Size: " <<currentSize<<endl;
+	//getch();
+	
+    if (diversity > highDiverseThreshold) {  // if diversity > 0.04, lower tournametsize
+        return max(minSize, currentSize - 1);
+    } else if (diversity < lowDiverseThreshold) {  // if diversity < 0.01, lower tournametsize
+        return min(maxSize, currentSize + 1);
+    }
+    
+    //remain the same if 0.01 < diversity < 0.04
+    return currentSize;
+}
+
+void DynamicTournamentSelection(double fitness[], int& dynamicTournamentSize, int& parent1, int& parent2)
+{
+	double diversity = CalculateDiversity(fitness);
+	dynamicTournamentSize = AdjustTournamentSize(diversity,dynamicTournamentSize,3,7);	
+	// Select first parent
+    parent1 = TournamentSelection2(fitness, dynamicTournamentSize);
+
+    // Select second parent
+    parent2 = TournamentSelection2(fitness, dynamicTournamentSize);
+    
+    //getch();
+}
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -943,6 +998,7 @@ void resetExperiment()
 	lFv = 0;
 
 	lowestGeneFV = 0;
+	dynamicTournamentSize = tournamentSize;
 
 	for (int i = 0; i < 4; i++)
 	{
@@ -951,6 +1007,22 @@ void resetExperiment()
 			GA_COMBINATION[i][j] = 0;
 		}
 	}
+}
+
+std::string to_string(int number) {
+    if (number == 0) return "0";
+    std::string result;
+    bool isNegative = (number < 0);
+    if (isNegative) number = -number;
+
+    while (number > 0) {
+        result += '0' + (number % 10);
+        number /= 10;
+    }
+
+    if (isNegative) result += '-';
+    std::reverse(result.begin(), result.end());
+    return result;
 }
 //------------------------------------------------------------------------------------------------------------------------------
 
@@ -1136,12 +1208,12 @@ int main()
 						outfileo1Info << "S: Linear Ranking Selection" << endl;
 					}
 
-					/* XXX Selection */
-					//if (GA_COMBINATION[0][3] == 1)
-					//{
-					//	
-					//	outfileo1Info << "S: XXX Selection" << endl;
-					//}
+					/* Dynamic Tournament Selection */
+					if (GA_COMBINATION[0][3] == 1)
+					{
+						DynamicTournamentSelection(fit, dynamicTournamentSize, parent1, parent2);
+						outfileo1Info << "S: Dynamic Tournament Selection" << endl;
+					}
 #endif
 					//************************************************************************************************************************
 
