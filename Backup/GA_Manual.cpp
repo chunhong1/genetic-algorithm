@@ -83,6 +83,10 @@ float lFv = 0;
 
 double lowestGene[dimension];
 double lowestGeneFV = 0;
+int tournamentSize = 5;
+int dynamicTournamentSize = tournamentSize;
+float highDiverseThreshold = 0.04;
+float lowDiverseThreshold = 0.01;
 
 const float pi = M_PI;
 
@@ -415,7 +419,6 @@ void RouletteWheelSelection(float fitness[], int& parent1, int& parent2)
     //getch();
 }
 
-int tournamentSize = 5;
 int TournamentSelection2(float fitness[], int tournamentSize)
 {
 	int best = -1;
@@ -757,6 +760,7 @@ void resetExperiment()
 	lFv = 0;
 	
 	lowestGeneFV = 0;
+	dynamicTournamentSize = tournamentSize;
 }
 
 std::string to_string(int number) {
@@ -775,6 +779,56 @@ std::string to_string(int number) {
     return result;
 }
 //------------------------------------------------------------------------------------------------------------------------------
+
+float CalculateDiversity(float fitness[])
+{
+	
+	float mean = 0.0;
+	float sumSquare = 0.0;
+	float sumFitness =0.0;
+	for (int i =0; i < pSize; i++){
+		sumFitness += fitness[i];
+	}
+	//calculate mean of fitness
+	for (int i =0; i < pSize; i++){
+		mean += fitness[i]/sumFitness;
+	}
+	
+	mean = mean/pSize;
+	
+	//calculate sum of square
+	for (int i=0; i < pSize; i++){
+		sumSquare += (fitness[i]/sumFitness - mean) * (fitness[i]/sumFitness - mean);
+	}
+	
+	float stdDev = sqrt(sumSquare/pSize);
+	return stdDev;
+}
+
+int AdjustTournamentSize(double diversity, int currentSize, int minSize, int maxSize) {
+	//cout <<"Diversity: "<< diversity <<"\t" <<"Size: " <<currentSize<<endl;
+	//getch();
+    if (diversity > highDiverseThreshold) {  // threshold for high diversity
+        return max(minSize, currentSize - 1);
+    } else if (diversity < lowDiverseThreshold) {  // threshold for low diversity
+        return min(maxSize, currentSize + 1);
+    }
+    
+    return currentSize;
+}
+
+void DynamicTournamentSelection(float fitness[], int& dynamicTournamentSize, int& parent1, int& parent2)
+{
+	float diversity = CalculateDiversity(fitness);
+	dynamicTournamentSize = AdjustTournamentSize(diversity,dynamicTournamentSize,3,7);	
+	// Select first parent
+    parent1 = TournamentSelection2(fitness, dynamicTournamentSize);
+
+    // Select second parent
+    parent2 = TournamentSelection2(fitness, dynamicTournamentSize);
+    
+    //getch();
+}
 
 int main()
 {
@@ -882,8 +936,7 @@ int main()
 			#endif
 			
 			int parent1 = 0, parent2 = 0;
-			
-			
+
 			//************************************************************************************************************************
      		/* Roulette Wheel Selection */
 //    		RouletteWheelSelection(fit, parent1, parent2);
@@ -891,10 +944,14 @@ int main()
      		/* Tournament Selection */
 //			TournamentSelection(fit, tournamentSize, parent1, parent2);
 
-			LinearRankingSelection(fit, parent1, parent2);
+//			LinearRankingSelection(fit, parent1, parent2);
 			
+			DynamicTournamentSelection(fit, dynamicTournamentSize, parent1, parent2);
+
 			//************************************************************************************************************************
-//    cout <<"Parent1: "<<parent1<<"parent2 "<<parent2<<endl;
+    //cout <<"Parent1: "<<parent1<<"parent2 "<<parent2<<endl;
+    //cout<< dynamicTournamentSize<<endl;
+    //getch();
 
 
 			tfit[0] = fit[parent1]; 
