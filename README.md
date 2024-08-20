@@ -1,6 +1,6 @@
 # Genetic Algorithm
 
-If there is a problem with opening `GA.cpp` or `PSO.cpp` with Dev-C++, you might need to use other text editors.
+If there are problem with opening `GA.cpp` or `PSO.cpp` with Dev-C++, you might need to use other text editors.
 
 To generate the `.exe` file with manual C++ compilation:
 ```sh
@@ -12,7 +12,10 @@ g++ -o PSO.exe PSO.cpp
 
 # TODO
 - Finish GA Project (4 Operation Techniques)
-- PSO.cpp
+- PSO -> Update Velocity and Update Position
+- PSO -> Determine and confirm constants value w, c1, c2
+- PSO -> Expand to automate 10 benchmark functions (Currently 1)
+- PSO -> Testing
 
 #### OPTIONAL TODO
 - Demo color change (Crossover and Mutation)
