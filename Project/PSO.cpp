@@ -32,7 +32,7 @@ main()
 // Parameter Settings (PSO with constant w and vc)
 //------------------------------------------------------------------------------------------------------------------------------
 const double w = 0.8; 	   							// Inertia Weight
-const c1 = 2, c2 = 2;								// C Constant
+const double c1 = 2, c2 = 2;						// C Constant
 //------------------------------------------------------------------------------------------------------------------------------
 #define EXPERIMENT 10								//No. of Experiments
 
@@ -243,7 +243,7 @@ void initialiseBenchmark_Range()
 		vcMin = -vcMax;
 
 		posMax = 5120 / rangeDiv;
-		posMix = -posMax;
+		posMin = -posMax;
 		break;
 
 	case 2: // No.2 - Ackley Function +-32.768
@@ -254,7 +254,7 @@ void initialiseBenchmark_Range()
 		vcMin = -vcMax;
 
 		posMax = 32768 / rangeDiv;
-		posMix = -posMax;
+		posMin = -posMax;
 		break;
 
 	case 3: // No.3 - Rastrigin Function +-5.12
@@ -265,7 +265,7 @@ void initialiseBenchmark_Range()
 		vcMin = -vcMax;
 
 		posMax = 5120 / rangeDiv;
-		posMix = -posMax;
+		posMin = -posMax;
 		break;
 
 	case 4: // No.4 - Zakharov Function -5, +10
@@ -277,7 +277,7 @@ void initialiseBenchmark_Range()
 		vcMin = -(5000 / rangeDiv / 2);
 
 		posMax = 10000 / rangeDiv;
-		posMix = -(5000 / rangeDiv);
+		posMin = -(5000 / rangeDiv);
 		break;
 
 	case 5: // No.5 - Axis Parallel Hyper-Ellipsoid Function +-5.12
@@ -288,7 +288,7 @@ void initialiseBenchmark_Range()
 		vcMin = -vcMax;
 
 		posMax = 5120 / rangeDiv;
-		posMix = -posMax;
+		posMin = -posMax;
 		break;
 
 	case 6: // No.6 - Griewank Function +-600
@@ -299,7 +299,7 @@ void initialiseBenchmark_Range()
 		vcMin = -vcMax;
 
 		posMax = 600000 / rangeDiv;
-		posMix = -posMax;
+		posMin = -posMax;
 		break;
 
 	case 7: // No.7 - Sum of Different Powers function +-1.00
@@ -310,7 +310,7 @@ void initialiseBenchmark_Range()
 		vcMin = -vcMax;
 
 		posMax = 1000 / rangeDiv;
-		posMix = -posMax;
+		posMin = -posMax;
 		break;
 
 	case 8: // No.8 - Rotated Hyper-Ellipsoid Function +-65.536
@@ -321,7 +321,7 @@ void initialiseBenchmark_Range()
 		vcMin = -vcMax;
 
 		posMax = 65536 / rangeDiv;
-		posMix = -posMax;
+		posMin = -posMax;
 		break;
 
 	case 9: // No.9 - Schwefel 2.22 Function +-5 [Updated]
@@ -332,7 +332,7 @@ void initialiseBenchmark_Range()
 		vcMin = -vcMax;
 
 		posMax = 5000 / rangeDiv;
-		posMix = -posMax;
+		posMin = -posMax;
 		break;
 
 	case 10: // No.10 - Exponential function Function +-1.00 [f(x) = -1]
@@ -343,7 +343,7 @@ void initialiseBenchmark_Range()
 		vcMin = -vcMax;
 
 		posMax = 1000 / rangeDiv;
-		posMix = -posMax;
+		posMin = -posMax;
 		break;
 
 	default: // ERROR
@@ -476,7 +476,7 @@ int main()
 	cout << "PSO with constant w and vc" << endl;
 	outfileo1Info << "PSO with constant w and vc" << endl << endl;
 	outfileo1Info << "Inertia Weight (w): " << w << endl;
-	outfileo1Info << "Velocity Clamping (cv): " << vc << endl;
+	outfileo1Info << "Velocity Clamping (vc): Yes" << endl;
 	outfileo1Info << "Constant c (c1): " << c1 << endl;
 	outfileo1Info << "Constant c (c2): " << c2 << endl;
 	outfileo1Info.close();
