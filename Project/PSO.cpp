@@ -10,6 +10,24 @@
 #include <windows.h>
 using namespace std;
 
+/******************************************************** CODE GUIDELINE ********************************************************
+* Parameter Settings (PSO with constant w and vc)
+
+- Benchmark Function
+* Update Velocity Function
+* Update Position Function
+- External Function
+
+main()
+-> Experiment Automation
+	-> Generate Population
+	-> Fitness Evaluation 1
+	-> Termination Criteria (Maximum Generation) [Can modify starting from here (GA, DE, PSO)]
+		*> Update Velocity
+		*> Update Position
+		-> Fitness Evaluation 2
+******************************************************** CODE GUIDELINE ********************************************************/
+
 //------------------------------------------------------------------------------------------------------------------------------
 // Parameter Settings (PSO with constant w and vc)
 //------------------------------------------------------------------------------------------------------------------------------
@@ -379,7 +397,7 @@ double Fitness(double a[])
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
-// Update Velocity Function -> Refer w, vcMin, vcMax as lower and upper bounds | getrandom(0, 1000) / 1000;
+// Update Velocity Function -> Refer w | vcMin, vcMax as lower and upper bounds | getrandom(0, 1000) / 1000;
 // Done By: 
 //------------------------------------------------------------------------------------------------------------------------------
 void UpdateVelocity()
