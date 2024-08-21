@@ -1181,7 +1181,7 @@ int main()
 						TournamentSelection(fit, tournamentSize, parent1, parent2);
 						outfileo1Info << "S: Tournament Selection" << endl;
 					}
-
+#if MINI_PROJECT == 1
 					/* Linear Ranking Selection */
 					if (GA_COMBINATION[0][2] == 1)
 					{
@@ -1195,6 +1195,7 @@ int main()
 						DynamicTournamentSelection(fit, dynamicTournamentSize, parent1, parent2);
 						outfileo1Info << "S: Dynamic Tournament Selection" << endl;
 					}
+#endif
 #endif
 					//************************************************************************************************************************
 
@@ -1264,7 +1265,7 @@ int main()
 						ShuffleCrossover(chromosome, paroff, dcp, parent1, parent2);
 						outfileo1Info << "C: Shuffle Crossover" << endl;
 					}
-
+#if MINI_PROJECT == 1
 					/* XXX Crossover */
 					//if (GA_COMBINATION[1][2] == 1)
 					//{
@@ -1278,6 +1279,7 @@ int main()
 					//	
 					//	outfileo1Info << "S: XXX Crossover" << endl;
 					//}
+#endif
 #endif
 					//************************************************************************************************************************
 
@@ -1338,12 +1340,12 @@ int main()
 						RandomMutation();
 						outfileo1Info << "M: Random Mutation" << endl;
 					}
-
+#if MINI_PROJECT == 1
 					/* Simple Inversion Mutation */
 					if (GA_COMBINATION[2][2] == 1)
 					{
 						SimpleInversionMutation();
-						outfileo1Info << "S: Simple Inversion Mutation" << endl;
+						outfileo1Info << "M: Simple Inversion Mutation" << endl;
 					}
 
 					/* XXX Mutation */
@@ -1352,6 +1354,7 @@ int main()
 					//	
 					//	outfileo1Info << "S: XXX Mutation" << endl;
 					//}
+#endif
 #endif
 					//************************************************************************************************************************
 
@@ -1425,7 +1428,7 @@ int main()
 						BothParentReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
 						outfileo1Info << "R: Both Parent Replacement" << endl << endl << endl;
 					}
-
+#if MINI_PROJECT == 1
 					/* XXX Replacement */
 					//if (GA_COMBINATION[3][2] == 1)
 					//{
@@ -1439,6 +1442,7 @@ int main()
 					//	
 					//	outfileo1Info << "S: XXX Replacement" << endl;
 					//}
+#endif
 #endif
 					//************************************************************************************************************************
 					//------------------------------------------------------------------------------------------------------------------------
