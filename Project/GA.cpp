@@ -83,10 +83,7 @@ const int tournamentSize = 5;					// Tournament Selection Size
 int dynamicTournamentSize = tournamentSize;
 const float highDiverseThreshold = 0.04;		// threshold for high diversity
 const float lowDiverseThreshold = 0.01;			// threshold for low diversity
-
 //------------------------------------------------------------------------------------------------------------------------------
-
-/* UNCOMMENT WHEN PROJECT IS READY! */
 // #if MINI_PROJECT == 1
 // 	#define TECHNIQUE 4							// No. Of Techniques
 // 	string GA = "0000000000000000";				// GA Binary Combinations
@@ -545,23 +542,6 @@ void resetExperiment()
 		}
 	}
 }
-
-// Uncomment this if to_string() function is not found
-// string to_string(int number) {
-//     if (number == 0) return "0";
-//     string result;
-//     bool isNegative = (number < 0);
-//     if (isNegative) number = -number;
-
-//     while (number > 0) {
-//         result += '0' + (number % 10);
-//         number /= 10;
-//     }
-
-//     if (isNegative) result += '-';
-//     reverse(result.begin(), result.end());
-//     return result;
-// }
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -1550,8 +1530,8 @@ int main()
 #endif
 
 		outfileo1Info.close();
-		BENCHMARK = 1;				//Reset benchmark mode
-		GA = addBinary(GA, "1");	//Next GA combination
+		BENCHMARK = 1;			 //Reset benchmark mode
+		GA = addBinary(GA, "1"); //Next GA combination
 	} while (++GACounter <= GALength); //GA Automation LOOP
 	//------------------------------------------------------------------------------------------------------------------------
 
