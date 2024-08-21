@@ -17,11 +17,11 @@ using namespace std;
 * Parameter Settings
 
 - Benchmark Function
+- External Function
 * Selection Function
 * Crossover Function
 * Mutation Function
 * Replacement Function
-- External Function
 
 main()
 - GA Automation
@@ -411,6 +411,160 @@ double Fitness(double a[])
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
+// External Function
+//------------------------------------------------------------------------------------------------------------------------------
+int charToInt(char c)
+{
+	if (c >= '0' && c <= '9')
+	{
+		return c - '0';
+	}
+	else
+	{
+		// ERROR
+		cout << "Error charToInt(): Invalid Conversion\n\nPress Any Key to Exit..." << endl;
+		getch();
+		exit(0);
+	}
+}
+
+string addBinary(string a, string b)
+{
+	string result = ""; 	 // Initialize the result as an empty string
+	int s = 0;				 // Initialize the carry
+
+	// Ensure both strings are of the same length by padding with leading zeros
+	int n = max(a.size(), b.size());
+	while (a.size() < n)
+		a.insert(a.begin(), '0');
+	while (b.size() < n)
+		b.insert(b.begin(), '0');
+
+	// Traverse both strings from right to left
+	for (int i = n - 1; i >= 0; i--)
+	{
+		int sum = (a[i] - '0') + (b[i] - '0') + s;		// Calculate the sum of the current digits and carry
+		result.insert(result.begin(), (sum % 2) + '0'); // Insert the current bit to the result
+		s = sum / 2;									// Calculate the new carry
+	}
+
+	// If there's a carry left, add it to the result
+	if (s != 0)
+	{
+		result.insert(result.begin(), '1');
+	}
+
+	return result;
+}
+
+void GA_TO_GA_COMBINATION()
+{
+	int index = 0;
+
+	for (int i = 0; i < 4; i++)
+	{
+		for (int j = 0; j < TECHNIQUE; j++)
+		{
+			GA_COMBINATION[i][j] = charToInt(GA[index++]);
+		}
+	}
+}
+
+bool isValidCombination(int combination[4][TECHNIQUE])
+{
+	int zeros = 0, ones = 0;
+
+	// Check Each Operation Technique
+	for (int i = 0; i < 4; i++)
+	{
+
+		zeros = ones = 0;
+
+		// Check Each Technique
+		for (int j = 0; j < TECHNIQUE; j++)
+		{
+			if (combination[i][j] == 0)
+			{
+				zeros++;
+			}
+			if (combination[i][j] == 1)
+			{
+				ones++;
+			}
+		}
+
+		if (zeros == 0 || ones == 0)
+		{
+			return false;
+		}
+	}
+
+	return true;
+}
+
+void resetExperiment()
+{
+	for (int i = 0; i < pSize; i++)
+	{
+		for (int j = 0; j < dimension; j++)
+		{
+			chromosome[i][j] = 0;
+
+			if (i < 4)
+			{
+				paroff[i][j] = 0;
+				tfit[i] = 0;
+			}
+
+			if (i == 0)
+			{
+				lowestGene[j] = 0;
+			}
+		}
+
+		fit[i] = 0;
+	}
+
+	r, gcp, gmp = 0;
+	crb, mb1, mb2 = 0;
+	mb1v, mb2v = 0;
+	fv, sumFit = 0;
+	fit1, fit2 = 0;
+
+	lFvIndex = 0;
+	lFv = 0;
+
+	lowestGeneFV = 0;
+	dynamicTournamentSize = tournamentSize;
+
+	for (int i = 0; i < 4; i++)
+	{
+		for (int j = 0; j < TECHNIQUE; j++)
+		{
+			GA_COMBINATION[i][j] = 0;
+		}
+	}
+}
+
+// Uncomment this if to_string() function is not found
+// string to_string(int number) {
+//     if (number == 0) return "0";
+//     string result;
+//     bool isNegative = (number < 0);
+//     if (isNegative) number = -number;
+
+//     while (number > 0) {
+//         result += '0' + (number % 10);
+//         number /= 10;
+//     }
+
+//     if (isNegative) result += '-';
+//     reverse(result.begin(), result.end());
+//     return result;
+// }
+//------------------------------------------------------------------------------------------------------------------------------
+
+//------------------------------------------------------------------------------------------------------------------------------
 // Selection Function
 // Done By: Yeap Chun Hong 2206352
 //------------------------------------------------------------------------------------------------------------------------------
@@ -567,7 +721,7 @@ void LinearRankingSelection(double fitness[], int& parent1, int& parent2)
 	//getch();
 }
 
-float CalculateDiversity(double fitness[])
+double CalculateDiversity(double fitness[])
 {
 	
 	double mean = 0.0;
@@ -596,9 +750,9 @@ int AdjustTournamentSize(double diversity, int currentSize, int minSize, int max
 	//cout <<"Diversity: "<< diversity <<"\t" <<"Size: " <<currentSize<<endl;
 	//getch();
 	
-    if (diversity > highDiverseThreshold) {  // if diversity > 0.04, lower tournametsize
+    if (diversity > highDiverseThreshold) {  // if diversity > 0.04, lower tournamentsize
         return max(minSize, currentSize - 1);
-    } else if (diversity < lowDiverseThreshold) {  // if diversity < 0.01, lower tournametsize
+    } else if (diversity < lowDiverseThreshold) {  // if diversity < 0.01, lower tournamentsize
         return min(maxSize, currentSize + 1);
     }
     
@@ -870,159 +1024,6 @@ void BothParentReplacement(double chromosome[pSize][dimension], double fit[pSize
 	}
 	fit[parent1] = tfit[2]; // Update fitness of parent1
 	fit[parent2] = tfit[3]; // Update fitness of parent2
-}
-//------------------------------------------------------------------------------------------------------------------------------
-
-//------------------------------------------------------------------------------------------------------------------------------
-// External Function
-//------------------------------------------------------------------------------------------------------------------------------
-int charToInt(char c)
-{
-	if (c >= '0' && c <= '9')
-	{
-		return c - '0';
-	}
-	else
-	{
-		// ERROR
-		cout << "Error charToInt(): Invalid Conversion\n\nPress Any Key to Exit..." << endl;
-		getch();
-		exit(0);
-	}
-}
-
-std::string addBinary(std::string a, std::string b)
-{
-	std::string result = ""; // Initialize the result as an empty string
-	int s = 0;				 // Initialize the carry
-
-	// Ensure both strings are of the same length by padding with leading zeros
-	int n = max(a.size(), b.size());
-	while (a.size() < n)
-		a.insert(a.begin(), '0');
-	while (b.size() < n)
-		b.insert(b.begin(), '0');
-
-	// Traverse both strings from right to left
-	for (int i = n - 1; i >= 0; i--)
-	{
-		int sum = (a[i] - '0') + (b[i] - '0') + s;		// Calculate the sum of the current digits and carry
-		result.insert(result.begin(), (sum % 2) + '0'); // Insert the current bit to the result
-		s = sum / 2;									// Calculate the new carry
-	}
-
-	// If there's a carry left, add it to the result
-	if (s != 0)
-	{
-		result.insert(result.begin(), '1');
-	}
-
-	return result;
-}
-
-void GA_TO_GA_COMBINATION()
-{
-	int index = 0;
-
-	for (int i = 0; i < 4; i++)
-	{
-		for (int j = 0; j < TECHNIQUE; j++)
-		{
-			GA_COMBINATION[i][j] = charToInt(GA[index++]);
-		}
-	}
-}
-
-bool isValidCombination(int combination[4][TECHNIQUE])
-{
-	int zeros = 0, ones = 0;
-
-	// Check Each Operation Technique
-	for (int i = 0; i < 4; i++)
-	{
-
-		zeros = ones = 0;
-
-		// Check Each Technique
-		for (int j = 0; j < TECHNIQUE; j++)
-		{
-			if (combination[i][j] == 0)
-			{
-				zeros++;
-			}
-			if (combination[i][j] == 1)
-			{
-				ones++;
-			}
-		}
-
-		if (zeros == 0 || ones == 0)
-		{
-			return false;
-		}
-	}
-
-	return true;
-}
-
-void resetExperiment()
-{
-	for (int i = 0; i < pSize; i++)
-	{
-		for (int j = 0; j < dimension; j++)
-		{
-			chromosome[i][j] = 0;
-
-			if (i < 4)
-			{
-				paroff[i][j] = 0;
-				tfit[i] = 0;
-			}
-
-			if (i == 0)
-			{
-				lowestGene[j] = 0;
-			}
-		}
-
-		fit[i] = 0;
-	}
-
-	r, gcp, gmp = 0;
-	crb, mb1, mb2 = 0;
-	mb1v, mb2v = 0;
-	fv, sumFit = 0;
-	fit1, fit2 = 0;
-
-	lFvIndex = 0;
-	lFv = 0;
-
-	lowestGeneFV = 0;
-	dynamicTournamentSize = tournamentSize;
-
-	for (int i = 0; i < 4; i++)
-	{
-		for (int j = 0; j < TECHNIQUE; j++)
-		{
-			GA_COMBINATION[i][j] = 0;
-		}
-	}
-}
-
-std::string to_string(int number) {
-    if (number == 0) return "0";
-    std::string result;
-    bool isNegative = (number < 0);
-    if (isNegative) number = -number;
-
-    while (number > 0) {
-        result += '0' + (number % 10);
-        number /= 10;
-    }
-
-    if (isNegative) result += '-';
-    std::reverse(result.begin(), result.end());
-    return result;
 }
 //------------------------------------------------------------------------------------------------------------------------------
 
