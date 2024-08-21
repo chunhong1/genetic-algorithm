@@ -1,0 +1,4 @@
+PSO with constant w and vc
+
+Inertia Weight (w): 1
+Velocity Clamping (cv): 1

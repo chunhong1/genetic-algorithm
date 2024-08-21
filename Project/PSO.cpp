@@ -19,13 +19,14 @@ using namespace std;
 * Update Position Function
 
 main()
--> Experiment Automation
-	-> Generate Population
-	-> Fitness Evaluation 1
-	-> Termination Criteria (Maximum Generation) [Can modify starting from here (GA, DE, PSO)]
-		*> Update Velocity
-		*> Update Position
-		-> Fitness Evaluation 2
+-> Benchmark Automation
+	-> Experiment Automation
+		-> Generate Population
+		-> Fitness Evaluation 1
+		-> Termination Criteria (Maximum Generation) [Can modify starting from here (GA, DE, PSO)]
+			*> Update Velocity
+			*> Update Position
+			-> Fitness Evaluation 2
 ******************************************************** CODE GUIDELINE ********************************************************/
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -42,7 +43,7 @@ const double c1 = 2, c2 = 2;						//C Constant
 #define dimension 30       							//number of bits (dimension size)
 
 double particlePosition[pSize][dimension]; 	       	//particle position
-double particleVelocity[pSize][dimension] = {0};   	//particle velocity
+double particleVelocity[pSize][dimension] = { 0 };	//particle velocity
 double particlePBest[pSize][dimension];            	//particle PBest
 double particlePBestFV[pSize];
 double particleGBest[dimension];                   	//particle GBest
@@ -449,7 +450,7 @@ void resetExperiment()
 //------------------------------------------------------------------------------------------------------------------------------
 void UpdateVelocity()
 {
-
+	
 }
 //------------------------------------------------------------------------------------------------------------------------------
 
@@ -459,14 +460,13 @@ void UpdateVelocity()
 //------------------------------------------------------------------------------------------------------------------------------
 void UpdatePosition()
 {
-
+	
 }
 //------------------------------------------------------------------------------------------------------------------------------
 
 int main()
 {
 	srand(time(0));
-	initialiseBenchmark_Range();
 
 	// Directory e.g. PSO
 	string psoDirectory = "PSO";
@@ -482,142 +482,86 @@ int main()
 	outfileo1Info << "Constant c (c2): " << c2 << endl;
 	outfileo1Info.close();
 	
-	// Directory e.g. PSO/PSO-Sphere
-	string benchmarkDirectory = psoDirectory + "\\\\" + psoDirectory + benchmarkFunction;
-	CreateDirectory(benchmarkDirectory.c_str(), NULL);
-	
 	//---------------------------------------------------------------------------------------------------------------------------
-	//Experiment
+	// Benchmark Automation
+	// Done By: Brandon Ting En Junn 2101751
 	//---------------------------------------------------------------------------------------------------------------------------
-	for (int i = 0; i < EXPERIMENT; i++)
+	for (; BENCHMARK < 11; BENCHMARK++)
 	{
-		// File e.g. PSO/PSO-Sphere/PSO-Sphere-Result1.txt
-		string outfile1 = benchmarkDirectory + "\\\\" + psoDirectory + benchmarkFunction + "-Result" + to_string(i + 1) + ".txt";
-		ofstream outfileo1(outfile1.c_str(),ios::trunc);
-		
-		cout << "Experiment " << i + 1 << "..."<< endl;
-	
-		//CPU Time
-		clock_t start, end;
-		start = clock();
-//		srand(time(0));
-    
-		//---------------------------------------------------------------------------------------------------------------------------
-		//Generate Population
-		//---------------------------------------------------------------------------------------------------------------------------
-   		// cout << "Generate Population" << endl;
-		
-   		for(int i = 0 ; i < pSize ; i++)
-   		{
-      		for(int j = 0 ; j < dimension ; j++)
-      		{
-         		r = getrandom(-rangeMin,rangeMax);
-         		r = r / rangeDiv;
-         		particlePosition[i][j] = r;
-         		particlePBest[i][j] = r;
-      		}
+		initialiseBenchmark_Range();
 
-	      	// if (i == 0 || i == pSize - 1) {
-	      	// 	cout<<"Particle "<<i+1<<endl;
-		    // 	for(int j = 0 ; j < dimension ; j++)
-		    // 	{
-		    //     	cout<<setprecision(6)<<particlePosition[i][j]<<"\t";
-		    //   	}      
-		    //   	cout<<endl<<endl;
-			// }
-   		}
-		// getch();
-		//---------------------------------------------------------------------------------------------------------------------------
-
-		//---------------------------------------------------------------------------------------------------------------------------
-		//Fitness Evaluation 1
-		//---------------------------------------------------------------------------------------------------------------------------
-		for(int i = 0 ; i < pSize ; i++)
-		{
-			fit[i] = Fitness(particlePosition[i]);
-		    // cout<<setprecision(6)<<fit[i]<<endl;
-			sumFit = 0;
-		} 
-
-		//---------------------------------------------------------------------------------------------------------------------------
-		//Determine PBest and GBest
-		//---------------------------------------------------------------------------------------------------------------------------
-		//PBest
-		for(int i = 0 ; i < pSize ; i++)
-		{
-			particlePBestFV[i] = fit[i];
-		}
-		
-		//GBest
-		particleGBestFV = numeric_limits<double>::max();
-		for (int i = 0; i < pSize; i++)
-		{
-			if (particlePBestFV[i] < particleGBestFV)
-			{
-				particleGBestFV = particlePBestFV[i];
-				GBestIndex = i;
-			}
-		}
-
-		// cout<<"The best is particle "<<GBestIndex+1<<" with fitness of "<<particleGBestFV<<endl;
-		for (int j = 0; j < dimension; j++)
-		{
-			particleGBest[j] = particlePBest[GBestIndex][j];
-			// cout<<particleGBest[j]<<" ";
-		}
-
-		// cout<<endl;
-		// outfileo1<<"Gen\tMinimum"<<endl;
-		//---------------------------------------------------------------------------------------------------------------------------
+		// Directory e.g. PSO/PSO-Sphere
+		string benchmarkDirectory = psoDirectory + "\\\\" + psoDirectory + benchmarkFunction;
+		CreateDirectory(benchmarkDirectory.c_str(), NULL);
 		
 		//---------------------------------------------------------------------------------------------------------------------------
-		//Termination Criteria (Maximum Generation) [Can modify starting from here (GA, DE, PSO)]
+		// Experiment Automation
+		// Done By: Brandon Ting En Junn 2101751
 		//---------------------------------------------------------------------------------------------------------------------------
-		for(int i = 0 ; i < gen ; i++)
+		for (int i = 0; i < EXPERIMENT; i++)
 		{
-      		//------------------------------------------------------------------------------------------------------------------------------
-			// Update Velocity
-			// Done By: 
-			//------------------------------------------------------------------------------------------------------------------------------
-			UpdateVelocity();
-			//------------------------------------------------------------------------------------------------------------------------------
+			// File e.g. PSO/PSO-Sphere/PSO-Sphere-Result1.txt
+			string outfile1 = benchmarkDirectory + "\\\\" + psoDirectory + benchmarkFunction + "-Result" + to_string(i + 1) + ".txt";
+			ofstream outfileo1(outfile1.c_str(),ios::trunc);
+			
+			cout << "Experiment " << i + 1 << "..."<< endl;
+		
+			//CPU Time
+			clock_t start, end;
+			start = clock();
+	//		srand(time(0));
+	    
+			//---------------------------------------------------------------------------------------------------------------------------
+			// Generate Population
+			// Done By: Brandon Ting En Junn 2101751
+			//---------------------------------------------------------------------------------------------------------------------------
+	   		// cout << "Generate Population" << endl;
+			
+	   		for(int i = 0 ; i < pSize ; i++)
+	   		{
+	      		for(int j = 0 ; j < dimension ; j++)
+	      		{
+	         		r = getrandom(-rangeMin,rangeMax);
+	         		r = r / rangeDiv;
+	         		particlePosition[i][j] = r;
+	         		particlePBest[i][j] = r;
+	      		}
 
-			//------------------------------------------------------------------------------------------------------------------------------
-			// Update Position
-			// Done By: 
-			//------------------------------------------------------------------------------------------------------------------------------
-			UpdatePosition();
-			//------------------------------------------------------------------------------------------------------------------------------
+		      	// if (i == 0 || i == pSize - 1) {
+		      	// 	cout<<"Particle "<<i+1<<endl;
+			    // 	for(int j = 0 ; j < dimension ; j++)
+			    // 	{
+			    //     	cout<<setprecision(6)<<particlePosition[i][j]<<"\t";
+			    //   	}      
+			    //   	cout<<endl<<endl;
+				// }
+	   		}
+			// getch();
+			//---------------------------------------------------------------------------------------------------------------------------
 
-			//------------------------------------------------------------------------------------------------------------------------
-			//Fitness Evaluation 2
-			//------------------------------------------------------------------------------------------------------------------------
+			//---------------------------------------------------------------------------------------------------------------------------
+			// Fitness Evaluation 1
+			// Done By: Brandon Ting En Junn 2101751
+			//---------------------------------------------------------------------------------------------------------------------------
 			for(int i = 0 ; i < pSize ; i++)
 			{
 				fit[i] = Fitness(particlePosition[i]);
-		      	// cout<<setprecision(6)<<fit[i]<<endl;
+			    // cout<<setprecision(6)<<fit[i]<<endl;
 				sumFit = 0;
 			} 
-			//------------------------------------------------------------------------------------------------------------------------
 
-      		//------------------------------------------------------------------------------------------------------------------------
-			//Update PBest and GBest
-			//------------------------------------------------------------------------------------------------------------------------
+			//---------------------------------------------------------------------------------------------------------------------------
+			// Determine PBest and GBest
+			// Done By: Brandon Ting En Junn 2101751
+			//---------------------------------------------------------------------------------------------------------------------------
 			//PBest
 			for(int i = 0 ; i < pSize ; i++)
 			{
-				if(fit[i] < particlePBestFV[i])
-				{
-					particlePBestFV[i] = fit[i];
-
-					for (int j = 0; j < dimension; j++)
-					{
-						particlePBest[i][j] = particlePosition[i][j];
-					}
-				}
-			} 
-
+				particlePBestFV[i] = fit[i];
+			}
+			
 			//GBest
+			particleGBestFV = numeric_limits<double>::max();
 			for (int i = 0; i < pSize; i++)
 			{
 				if (particlePBestFV[i] < particleGBestFV)
@@ -627,66 +571,138 @@ int main()
 				}
 			}
 
-			// cout<<"The group best particle is personal best particle "<<GBestIndex+1<<" with fitness of "<<particleGBestFV<<endl;
+			// cout<<"The best is particle "<<GBestIndex+1<<" with fitness of "<<particleGBestFV<<endl;
 			for (int j = 0; j < dimension; j++)
 			{
 				particleGBest[j] = particlePBest[GBestIndex][j];
 				// cout<<particleGBest[j]<<" ";
 			}
-			// cout<<endl;
-	
-	      	// fit1 = 0;
-	      	// fit2 = 0;
-	       
-	      	outfileo1<<setprecision(6)<<particleGBestFV<<endl;
-	      	// cout<<setprecision(6)<<particleGBestFV<<endl;
-	      	// getch();
-    	} //Termination Criteria (Maximum Generation) [Can modify starting from here (GA, DE, PSO)] LOOP
-    	//------------------------------------------------------------------------------------------------------------------------
-    
-	    // lFv = numeric_limits<double>::max();
-	    // for(int j = 0; j < pSize; j++)
-	    // {
-	    //    if(fit[j] < lFv)
-	    //    {
-	    //       lFv = fit[j];
-	    //       lFvIndex = j;
-	    //    }
-	    // }  
 
-		// #if DEMO == 1
-    	// cout<<endl<<endl;
-		// #endif
-    	outfileo1<<endl<<endl;
-    	cout<<"Result"<<endl;
-    	
-    	//Output Final Generation Lowest
-//    	cout<<setprecision(6)<<lFv<<" "<<lFvIndex+1<<endl<<endl;
-//	    for(int j = 0 ; j < dimension ; j++)
-//	    {
-//	       cout<<setprecision(6)<<chromosome[lFvIndex][j]<<"\t";
-//	       outfileo1<<setprecision(6)<<chromosome[lFvIndex][j]<<"\n";
-//	    }
+			// cout<<endl;
+			// outfileo1<<"Gen\tMinimum"<<endl;
+			//---------------------------------------------------------------------------------------------------------------------------
+			
+			//---------------------------------------------------------------------------------------------------------------------------
+			// Termination Criteria (Maximum Generation) [Can modify starting from here (GA, DE, PSO)]
+			// Done By: Brandon Ting En Junn 2101751
+			//---------------------------------------------------------------------------------------------------------------------------
+			for(int i = 0 ; i < gen ; i++)
+			{
+	      		//------------------------------------------------------------------------------------------------------------------------------
+				// Update Velocity
+				// Done By: 
+				//------------------------------------------------------------------------------------------------------------------------------
+				UpdateVelocity();
+				//------------------------------------------------------------------------------------------------------------------------------
+
+				//------------------------------------------------------------------------------------------------------------------------------
+				// Update Position
+				// Done By: 
+				//------------------------------------------------------------------------------------------------------------------------------
+				UpdatePosition();
+				//------------------------------------------------------------------------------------------------------------------------------
+
+				//------------------------------------------------------------------------------------------------------------------------
+				// Fitness Evaluation 2
+				// Done By: Brandon Ting En Junn 2101751
+				//------------------------------------------------------------------------------------------------------------------------
+				for(int i = 0 ; i < pSize ; i++)
+				{
+					fit[i] = Fitness(particlePosition[i]);
+			      	// cout<<setprecision(6)<<fit[i]<<endl;
+					sumFit = 0;
+				} 
+				//------------------------------------------------------------------------------------------------------------------------
+
+	      		//------------------------------------------------------------------------------------------------------------------------
+				// Update PBest and GBest
+				// Done By: Brandon Ting En Junn 2101751
+				//------------------------------------------------------------------------------------------------------------------------
+				//PBest
+				for(int i = 0 ; i < pSize ; i++)
+				{
+					if(fit[i] < particlePBestFV[i])
+					{
+						particlePBestFV[i] = fit[i];
+
+						for (int j = 0; j < dimension; j++)
+						{
+							particlePBest[i][j] = particlePosition[i][j];
+						}
+					}
+				} 
+
+				//GBest
+				for (int i = 0; i < pSize; i++)
+				{
+					if (particlePBestFV[i] < particleGBestFV)
+					{
+						particleGBestFV = particlePBestFV[i];
+						GBestIndex = i;
+					}
+				}
+
+				// cout<<"The group best particle is personal best particle "<<GBestIndex+1<<" with fitness of "<<particleGBestFV<<endl;
+				for (int j = 0; j < dimension; j++)
+				{
+					particleGBest[j] = particlePBest[GBestIndex][j];
+					// cout<<particleGBest[j]<<" ";
+				}
+				// cout<<endl;
 		
-		//Output Group Best in Experiment
-    	cout<<setprecision(6)<<particleGBestFV<<endl<<endl;
-    	for(int j = 0 ; j < dimension ; j++)
-    	{
-    		cout<<setprecision(6)<<particleGBest[j]<<"\t";
-       		outfileo1<<setprecision(6)<<particleGBest[j]<<"\n";
-    	}
+		      	// fit1 = 0;
+		      	// fit2 = 0;
+		       
+		      	outfileo1<<setprecision(6)<<particleGBestFV<<endl;
+		      	// cout<<setprecision(6)<<particleGBestFV<<endl;
+		      	// getch();
+	    	} //Termination Criteria (Maximum Generation) [Can modify starting from here (GA, DE, PSO)] LOOP
+	    	//------------------------------------------------------------------------------------------------------------------------
 	    
-	    cout<<endl;
-	    outfileo1<<endl;
-	    end = clock();
-	    cout<<"Time required for execution: "<< (double)(end-start)/CLOCKS_PER_SEC<<" seconds."<<"\n\n";  
-	    outfileo1<<(double)(end-start)/CLOCKS_PER_SEC<<"\n\n";
-	    outfileo1.close();
-		cout<<endl<<endl;
-	 
-		resetExperiment();
-	} //Experiment LOOP
+		    // lFv = numeric_limits<double>::max();
+		    // for(int j = 0; j < pSize; j++)
+		    // {
+		    //    if(fit[j] < lFv)
+		    //    {
+		    //       lFv = fit[j];
+		    //       lFvIndex = j;
+		    //    }
+		    // }  
+
+	    	outfileo1<<endl<<endl;
+	    	cout<<"Result"<<endl;
+	    	
+	    	//Output Final Generation Lowest
+	//    	cout<<setprecision(6)<<lFv<<" "<<lFvIndex+1<<endl<<endl;
+	//	    for(int j = 0 ; j < dimension ; j++)
+	//	    {
+	//	       cout<<setprecision(6)<<chromosome[lFvIndex][j]<<"\t";
+	//	       outfileo1<<setprecision(6)<<chromosome[lFvIndex][j]<<"\n";
+	//	    }
+			
+			//Output Group Best in Experiment
+	    	cout<<setprecision(6)<<particleGBestFV<<endl<<endl;
+	    	for(int j = 0 ; j < dimension ; j++)
+	    	{
+	    		cout<<setprecision(6)<<particleGBest[j]<<"\t";
+	       		outfileo1<<setprecision(6)<<particleGBest[j]<<"\n";
+	    	}
+		    
+		    cout<<endl;
+		    outfileo1<<endl;
+		    end = clock();
+		    cout<<"Time required for execution: "<< (double)(end-start)/CLOCKS_PER_SEC<<" seconds."<<"\n\n";  
+		    outfileo1<<(double)(end-start)/CLOCKS_PER_SEC<<"\n\n";
+		    outfileo1.close();
+			cout<<endl<<endl;
+		 
+			resetExperiment();
+		} //Experiment Automation LOOP
+		//------------------------------------------------------------------------------------------------------------------------
+
+	} //Benchmark Automation LOOP
 	//------------------------------------------------------------------------------------------------------------------------
+
 	cout << "SUCCESSFULLY COMPLETED...\nPress Any Key to Exit..." << endl;
 	getch();
 	
