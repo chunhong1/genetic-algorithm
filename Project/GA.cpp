@@ -40,7 +40,7 @@ main()
 //------------------------------------------------------------------------------------------------------------------------------
 // Parameter Settings
 //------------------------------------------------------------------------------------------------------------------------------
-#define MINI_PROJECT -2 							// Project -> 1 | Assignment -> 0 | Demo -> -1 | Manual -> -2
+#define MINI_PROJECT 0 							// Project -> 1 | Assignment -> 0 | Demo -> -1 | Manual -> -2
 
 //////////////////////////
 /* GA_COMBINATION Sheet */
@@ -1504,6 +1504,20 @@ int main()
 
 					fit1 = 0;
 					fit2 = 0;
+
+					if (lFv < 0) {
+						if (BENCHMARK == 10) {
+							if (lFv < -1) {
+								cout << "Error ALGORITHM: Invalid Fitness Value\n\nPress Any Key to Exit..." << endl;
+								getch();
+								exit(0);					
+							}
+						} else {
+							cout << "Error ALGORITHM: Invalid Fitness Value\n\nPress Any Key to Exit..." << endl;
+							getch();
+							exit(0);
+						}
+					}
 
 					outfileo1 << setprecision(6) << lFv << endl;
 				} // Termination Criteria (Maximum Generation) [Can modify starting from here (GA, DE, PSO)] LOOP
