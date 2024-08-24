@@ -40,7 +40,7 @@ main()
 //------------------------------------------------------------------------------------------------------------------------------
 // Parameter Settings
 //------------------------------------------------------------------------------------------------------------------------------
-#define MINI_PROJECT 0 							// Project -> 1 | Assignment -> 0 | Demo -> -1 | Manual -> -2
+#define MINI_PROJECT -2 							// Project -> 1 | Assignment -> 0 | Demo -> -1 | Manual -> -2
 
 //////////////////////////
 /* GA_COMBINATION Sheet */
@@ -534,13 +534,7 @@ void resetExperiment()
 	lowestGeneFV = 0;
 	dynamicTournamentSize = tournamentSize;
 
-	for (int i = 0; i < 4; i++)
-	{
-		for (int j = 0; j < TECHNIQUE; j++)
-		{
-			GA_COMBINATION[i][j] = 0;
-		}
-	}
+	Sleep(1);
 }
 //------------------------------------------------------------------------------------------------------------------------------
 
@@ -601,7 +595,7 @@ void RouletteWheelSelection(double fitness[], int &parent1, int &parent2)
 int TournamentSelection2(double fitness[], int tournamentSize)
 {
 	int best = -1;
-	double bestFitness = pow(999, 30);
+	double bestFitness = numeric_limits<double>::max();
 	bool selectedIndices[pSize] = { false };
 
 	//Randomly select unique individuals and perform tournament  
@@ -943,6 +937,41 @@ void SimpleInversionMutation()
 		}
 	}
 }
+
+void ImitatingMutation()
+{
+	/*
+		The Imitating Mutation selects a random gene to be mutated.
+		Then, the genes are iterated to find the smallest/largest/optimum gene in the chromosome to be imitated.
+		The selected random gene is replaced with the optimum gene.
+	*/
+	// Child 1 & Child 2 Loop
+	for (int i = 2; i < 4; i++)
+	{
+		gmp = (rand() % 1000000);
+		gmp = gmp / 1000000;
+
+		// Mutation Occurs
+		if (gmp <= dmp)
+		{
+			double optimumGene = numeric_limits<double>::max();
+			mb1 = getrandom(0, dimension - 1);
+
+			// Find optimumGene
+			for (int j = 0; j < dimension; j++)
+			{
+				if (j != mb1) {
+					if (paroff[i][j] < optimumGene) {
+						optimumGene = paroff[i][j];
+					}
+				}
+			}
+
+			// Gene Mutation
+			paroff[i][mb1] = optimumGene;
+		}
+	}
+}
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -1158,42 +1187,42 @@ int main()
 					{
 						RouletteWheelSelection(fit, parent1, parent2);
 						cout << "Roulette Wheel Selection" << endl;
-						outfileo1Info << "S: Roulette Wheel Selection" << endl;
+						if (i == 0) { outfileo1Info << "S: Roulette Wheel Selection" << endl; }
 					}
 #elif MINI_PROJECT == -2
 					/* Manual Selection */
 					if (GA_COMBINATION[0][1] == 1)
 					{
 						RouletteWheelSelection(fit, parent1, parent2);
-						outfileo1Info << "S: Roulette Wheel Selection" << endl;
+						if (i == 0) { outfileo1Info << "S: Roulette Wheel Selection" << endl; }
 					}
 #else
 					/* Roulette Wheel Selection */
 					if (GA_COMBINATION[0][0] == 1)
 					{
 						RouletteWheelSelection(fit, parent1, parent2);
-						outfileo1Info << "S: Roulette Wheel Selection" << endl;
+						if (i == 0) { outfileo1Info << "S: Roulette Wheel Selection" << endl; }
 					}
 
 					/* Tournament Selection */
 					if (GA_COMBINATION[0][1] == 1)
 					{
 						TournamentSelection(fit, tournamentSize, parent1, parent2);
-						outfileo1Info << "S: Tournament Selection" << endl;
+						if (i == 0) { outfileo1Info << "S: Tournament Selection" << endl; }
 					}
 #if MINI_PROJECT == 1
 					/* Linear Ranking Selection */
 					if (GA_COMBINATION[0][2] == 1)
 					{
 						LinearRankingSelection(fit, parent1, parent2);
-						outfileo1Info << "S: Linear Ranking Selection" << endl;
+						if (i == 0) { outfileo1Info << "S: Linear Ranking Selection" << endl; }
 					}
 
 					/* Dynamic Tournament Selection */
 					if (GA_COMBINATION[0][3] == 1)
 					{
 						DynamicTournamentSelection(fit, dynamicTournamentSize, parent1, parent2);
-						outfileo1Info << "S: Dynamic Tournament Selection" << endl;
+						if (i == 0) { outfileo1Info << "S: Dynamic Tournament Selection" << endl; }
 					}
 #endif
 #endif
@@ -1218,7 +1247,7 @@ int main()
 					cout << endl << endl;
 
 					// Selected Parent 2
-					cout << "Chromosome " << parent2 + 1 << endl;
+					cout << "Chromosome " << parent2 + 1 << endl;if (i == 0) {  }
 					for (int j = 0; j < dimension; j++)
 					{
 						cout << setprecision(6) << chromosome[parent2][j] << "\t";
@@ -1242,42 +1271,42 @@ int main()
 					{
 						UniformCrossover(chromosome, paroff, dcp, parent1, parent2);
 						cout << "Uniform Crossover" << endl;
-						outfileo1Info << "C: Uniform Crossover" << endl;
+						if (i == 0) { outfileo1Info << "C: Uniform Crossover" << endl; }
 					}
 #elif MINI_PROJECT == -2
 					/* Manual Crossover */
 					if (GA_COMBINATION[1][1] == 1)
 					{
 						UniformCrossover(chromosome, paroff, dcp, parent1, parent2);
-						outfileo1Info << "C: Uniform Crossover" << endl;
+						if (i == 0) { outfileo1Info << "C: Uniform Crossover" << endl; }
 					}
 #else
 					/* Uniform Crossover */
 					if (GA_COMBINATION[1][0] == 1)
 					{
 						UniformCrossover(chromosome, paroff, dcp, parent1, parent2);
-						outfileo1Info << "C: Uniform Crossover" << endl;
+						if (i == 0) { outfileo1Info << "C: Uniform Crossover" << endl; }
 					}
 
 					/* Shuffle Crossover */
 					if (GA_COMBINATION[1][1] == 1)
 					{
 						ShuffleCrossover(chromosome, paroff, dcp, parent1, parent2);
-						outfileo1Info << "C: Shuffle Crossover" << endl;
+						if (i == 0) { outfileo1Info << "C: Shuffle Crossover" << endl; }
 					}
 #if MINI_PROJECT == 1
 					/* XXX Crossover */
 					//if (GA_COMBINATION[1][2] == 1)
 					//{
 					//	
-					//	outfileo1Info << "S: XXX Crossover" << endl;
+					//	if (i == 0) { outfileo1Info << "C: XXX Crossover" << endl; }
 					//}
 
 					/* XXX Crossover */
 					//if (GA_COMBINATION[1][3] == 1)
 					//{
 					//	
-					//	outfileo1Info << "S: XXX Crossover" << endl;
+					//	if (i == 0) { outfileo1Info << "C: XXX Crossover" << endl; }
 					//}
 #endif
 #endif
@@ -1317,43 +1346,43 @@ int main()
 					{
 						ReversingMutation();
 						cout << "Reversing Mutation" << endl;
-						outfileo1Info << "M: Reversing Mutation" << endl;
+						if (i == 0) { outfileo1Info << "M: Reversing Mutation" << endl; }
 					}
 #elif MINI_PROJECT == -2
 					/* Manual Mutation */
 					if (GA_COMBINATION[2][1] == 1)
 					{
-						ReversingMutation();
-						outfileo1Info << "M: Reversing Mutation" << endl;
+						ImitatingMutation();
+						if (i == 0) { outfileo1Info << "M: Imitating Mutation" << endl; }
 					}
 #else
 					/* Reversing Mutation */
 					if (GA_COMBINATION[2][0] == 1)
 					{
 						ReversingMutation();
-						outfileo1Info << "M: Reversing Mutation" << endl;
+						if (i == 0) { outfileo1Info << "M: Reversing Mutation" << endl; }
 					}
 
 					/* Random Mutation */
 					if (GA_COMBINATION[2][1] == 1)
 					{
 						RandomMutation();
-						outfileo1Info << "M: Random Mutation" << endl;
+						if (i == 0) { outfileo1Info << "M: Random Mutation" << endl; }
 					}
 #if MINI_PROJECT == 1
 					/* Simple Inversion Mutation */
 					if (GA_COMBINATION[2][2] == 1)
 					{
 						SimpleInversionMutation();
-						outfileo1Info << "M: Simple Inversion Mutation" << endl;
+						if (i == 0) { outfileo1Info << "M: Simple Inversion Mutation" << endl; }
 					}
 
-					/* XXX Mutation */
-					//if (GA_COMBINATION[2][3] == 1)
-					//{
-					//	
-					//	outfileo1Info << "S: XXX Mutation" << endl;
-					//}
+					/* Imitating Mutation */
+					if (GA_COMBINATION[2][3] == 1)
+					{
+						ImitatingMutation();
+						if (i == 0) { outfileo1Info << "M: Imitating Mutation" << endl; }
+					}
 #endif
 #endif
 					//************************************************************************************************************************
@@ -1405,42 +1434,42 @@ int main()
 					{
 						WeakParentReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
 						cout << "Weak Parent Replacement" << endl << endl << endl;
-						outfileo1Info << "R: Weak Parent Replacement" << endl << endl << endl;
+						if (i == 0) { outfileo1Info << "R: Weak Parent Replacement" << endl << endl << endl; }
 					}
 #elif MINI_PROJECT == -2
 					/* Manual Replacement */
 					if (GA_COMBINATION[3][1] == 1)
 					{
 						WeakParentReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
-						outfileo1Info << "R: Weak Parent Replacement" << endl << endl << endl;
+						if (i == 0) { outfileo1Info << "R: Weak Parent Replacement" << endl << endl << endl; }
 					}
 #else
 					/* Weak Parent Replacement */
 					if (GA_COMBINATION[3][0] == 1)
 					{
 						WeakParentReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
-						outfileo1Info << "R: Weak Parent Replacement" << endl << endl << endl;
+						if (i == 0) { outfileo1Info << "R: Weak Parent Replacement" << endl << endl << endl; }
 					}
 
 					/* Both Parent Replacement */
 					if (GA_COMBINATION[3][1] == 1)
 					{
 						BothParentReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
-						outfileo1Info << "R: Both Parent Replacement" << endl << endl << endl;
+						if (i == 0) { outfileo1Info << "R: Both Parent Replacement" << endl << endl << endl; }
 					}
 #if MINI_PROJECT == 1
 					/* XXX Replacement */
 					//if (GA_COMBINATION[3][2] == 1)
 					//{
 					//	
-					//	outfileo1Info << "S: XXX Replacement" << endl;
+					//	if (i == 0) { outfileo1Info << "R: XXX Replacement" << endl; }
 					//}
 
 					/* XXX Replacement */
 					//if (GA_COMBINATION[3][3] == 1)
 					//{
 					//	
-					//	outfileo1Info << "S: XXX Replacement" << endl;
+					//	if (i == 0) { outfileo1Info << "R: XXX Replacement" << endl; }
 					//}
 #endif
 #endif
