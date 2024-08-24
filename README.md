@@ -12,7 +12,6 @@ g++ -o PSO.exe PSO.cpp
 
 # TODO
 - Finish GA Project (4 Operation Techniques)
-- PSO -> Update Velocity and Update Position
 - PSO -> Determine and confirm constants value w, c1, c2
 - PSO -> Testing
 
