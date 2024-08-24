@@ -240,10 +240,10 @@ void initialiseBenchmark_Range()
 		benchmarkFunction = "-Sphere";
 		rangeMin = rangeMax = 5120;
 
-		vcMax = 5120 / rangeDiv / 2;
+		vcMax = 5120 / static_cast<double>(rangeDiv) / 2;
 		vcMin = -vcMax;
 
-		posMax = 5120 / rangeDiv;
+		posMax = 5120 / static_cast<double>(rangeDiv);
 		posMin = -posMax;
 		break;
 
@@ -251,10 +251,10 @@ void initialiseBenchmark_Range()
 		benchmarkFunction = "-Ackley";
 		rangeMin = rangeMax = 32768;
 
-		vcMax = 32768 / rangeDiv / 2;
+		vcMax = 32768 / static_cast<double>(rangeDiv) / 2;
 		vcMin = -vcMax;
 
-		posMax = 32768 / rangeDiv;
+		posMax = 32768 / static_cast<double>(rangeDiv);
 		posMin = -posMax;
 		break;
 
@@ -262,10 +262,10 @@ void initialiseBenchmark_Range()
 		benchmarkFunction = "-Rastrigin";
 		rangeMin = rangeMax = 5120;
 
-		vcMax = 5120 / rangeDiv / 2;
+		vcMax = 5120 / static_cast<double>(rangeDiv) / 2;
 		vcMin = -vcMax;
 
-		posMax = 5120 / rangeDiv;
+		posMax = 5120 / static_cast<double>(rangeDiv);
 		posMin = -posMax;
 		break;
 
@@ -274,21 +274,21 @@ void initialiseBenchmark_Range()
 		rangeMin = 5000;
 		rangeMax = 10000;
 
-		vcMax = 10000 / rangeDiv / 2;
-		vcMin = -(5000 / rangeDiv / 2);
+		vcMax = 10000 / static_cast<double>(rangeDiv) / 2;
+		vcMin = -(5000 / static_cast<double>(rangeDiv) / 2);
 
-		posMax = 10000 / rangeDiv;
-		posMin = -(5000 / rangeDiv);
+		posMax = 10000 / static_cast<double>(rangeDiv);
+		posMin = -(5000 / static_cast<double>(rangeDiv));
 		break;
 
 	case 5: // No.5 - Axis Parallel Hyper-Ellipsoid Function +-5.12
 		benchmarkFunction = "-AxisParallel";
 		rangeMin = rangeMax = 5120;
 
-		vcMax = 5120 / rangeDiv / 2;
+		vcMax = 5120 / static_cast<double>(rangeDiv) / 2;
 		vcMin = -vcMax;
 
-		posMax = 5120 / rangeDiv;
+		posMax = 5120 / static_cast<double>(rangeDiv);
 		posMin = -posMax;
 		break;
 
@@ -296,10 +296,10 @@ void initialiseBenchmark_Range()
 		benchmarkFunction = "-Griewank";
 		rangeMin = rangeMax = 600000;
 
-		vcMax = 600000 / rangeDiv / 2;
+		vcMax = 600000 / static_cast<double>(rangeDiv) / 2;
 		vcMin = -vcMax;
 
-		posMax = 600000 / rangeDiv;
+		posMax = 600000 / static_cast<double>(rangeDiv);
 		posMin = -posMax;
 		break;
 
@@ -307,10 +307,10 @@ void initialiseBenchmark_Range()
 		benchmarkFunction = "-SumOfDifferentPowers";
 		rangeMin = rangeMax = 1000;
 
-		vcMax = 1000 / rangeDiv / 2;
+		vcMax = 1000 / static_cast<double>(rangeDiv) / 2;
 		vcMin = -vcMax;
 
-		posMax = 1000 / rangeDiv;
+		posMax = 1000 / static_cast<double>(rangeDiv);
 		posMin = -posMax;
 		break;
 
@@ -318,10 +318,10 @@ void initialiseBenchmark_Range()
 		benchmarkFunction = "-Rotated";
 		rangeMin = rangeMax = 65536;
 
-		vcMax = 65536 / rangeDiv / 2;
+		vcMax = 65536 / static_cast<double>(rangeDiv) / 2;
 		vcMin = -vcMax;
 
-		posMax = 65536 / rangeDiv;
+		posMax = 65536 / static_cast<double>(rangeDiv);
 		posMin = -posMax;
 		break;
 
@@ -329,10 +329,10 @@ void initialiseBenchmark_Range()
 		benchmarkFunction = "-Schwefel";
 		rangeMin = rangeMax = 5000;
 
-		vcMax = 5000 / rangeDiv / 2;
+		vcMax = 5000 / static_cast<double>(rangeDiv) / 2;
 		vcMin = -vcMax;
 
-		posMax = 5000 / rangeDiv;
+		posMax = 5000 / static_cast<double>(rangeDiv);
 		posMin = -posMax;
 		break;
 
@@ -340,10 +340,10 @@ void initialiseBenchmark_Range()
 		benchmarkFunction = "-Exponential";
 		rangeMin = rangeMax = 1000;
 
-		vcMax = 1000 / rangeDiv / 2;
+		vcMax = 1000 / static_cast<double>(rangeDiv) / 2;
 		vcMin = -vcMax;
 
-		posMax = 1000 / rangeDiv;
+		posMax = 1000 / static_cast<double>(rangeDiv);
 		posMin = -posMax;
 		break;
 
@@ -446,21 +446,57 @@ void resetExperiment()
 
 //------------------------------------------------------------------------------------------------------------------------------
 // Update Velocity Function -> Refer w | vcMin, vcMax as lower and upper bounds | getrandom(0, 1000) / 1000;
-// Done By: 
+// Done By: Brandon Ting En Junn 2101751
 //------------------------------------------------------------------------------------------------------------------------------
+double PSO_Constant_W_VC(double position, double velocity, double PBest, double GBest)
+{
+	// Constant W
+	double v = w * velocity + c1 * static_cast<double>(getrandom(0, 1000)) / 1000 * (PBest - position) + c2 * static_cast<double>(getrandom(0, 1000)) / 1000 * (GBest - position);
+
+	// Velocity Clamping
+	if (v < vcMin) {
+		return vcMin;
+	} else if (v > vcMax) {
+		return vcMax;
+	} else {
+		return v;
+	}
+}
+
 void UpdateVelocity()
 {
-	
+	for (int i = 0; i < pSize; i++)
+	{
+		for (int j = 0; j < dimension; j++)
+		{
+			particleVelocity[i][j] = PSO_Constant_W_VC(particlePosition[i][j], particleVelocity[i][j], particlePBest[i][j], particleGBest[j]);
+		}
+	}
 }
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
 // Update Position Function -> Refer posMin, posMax as lower and upper bounds
-// Done By: 
+// Done By: Brandon Ting En Junn 2101751
 //------------------------------------------------------------------------------------------------------------------------------
 void UpdatePosition()
 {
-	
+	for (int i = 0; i < pSize; i++)
+	{
+		for (int j = 0; j < dimension; j++)
+		{
+			double position = particlePosition[i][j] + particleVelocity[i][j];
+
+			// Position Limits
+			if (position < posMin) {
+				particlePosition[i][j] = posMin;
+			} else if (position > posMax) {
+				particlePosition[i][j] = posMax;
+			} else {
+				particlePosition[i][j] = position;
+			}
+		}
+	}
 }
 //------------------------------------------------------------------------------------------------------------------------------
 
@@ -570,7 +606,8 @@ int main()
 					GBestIndex = i;
 				}
 			}
-
+			// cout << "Initial GBest: " << particleGBestFV << endl;
+			// getch();
 			// cout<<"The best is particle "<<GBestIndex+1<<" with fitness of "<<particleGBestFV<<endl;
 			for (int j = 0; j < dimension; j++)
 			{
@@ -590,14 +627,14 @@ int main()
 			{
 	      		//------------------------------------------------------------------------------------------------------------------------------
 				// Update Velocity
-				// Done By: 
+				// Done By: Brandon Ting En Junn 2101751
 				//------------------------------------------------------------------------------------------------------------------------------
 				UpdateVelocity();
 				//------------------------------------------------------------------------------------------------------------------------------
 
 				//------------------------------------------------------------------------------------------------------------------------------
 				// Update Position
-				// Done By: 
+				// Done By: Brandon Ting En Junn 2101751
 				//------------------------------------------------------------------------------------------------------------------------------
 				UpdatePosition();
 				//------------------------------------------------------------------------------------------------------------------------------
@@ -641,7 +678,6 @@ int main()
 						GBestIndex = i;
 					}
 				}
-
 				// cout<<"The group best particle is personal best particle "<<GBestIndex+1<<" with fitness of "<<particleGBestFV<<endl;
 				for (int j = 0; j < dimension; j++)
 				{
