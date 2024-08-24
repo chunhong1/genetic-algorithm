@@ -941,7 +941,7 @@ void ImitatingMutation()
 	/*
 		The Imitating Mutation selects a random gene to be mutated.
 		Then, the genes are iterated to find the smallest/largest/optimum gene in the chromosome to be imitated.
-		The selected random gene is replaced with the optimum gene.
+		The selected random gene is replaced with the optimum gene divided/multipled by its selected random gene index position.
 	*/
 	// Child 1 & Child 2 Loop
 	for (int i = 2; i < 4; i++)
@@ -966,7 +966,7 @@ void ImitatingMutation()
 			}
 
 			// Gene Mutation
-			paroff[i][mb1] = optimumGene;
+			paroff[i][mb1] = optimumGene / (mb1 + 1);
 		}
 	}
 }
