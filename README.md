@@ -18,9 +18,3 @@ g++ -o PSO.exe PSO.cpp
 #### OPTIONAL TODO
 - Demo color change (Crossover and Mutation)
 - Start, Stop clock (auto data type?) -> more accurate execution times
-
-# DONE
-20/8/2024
-- float -> double
-- lFv -> double type max value
-- #define MINI_PROJECT (Project -> 1 | Assignment 0 -> 0 | Demo -> -1 | Manual -> -2)
