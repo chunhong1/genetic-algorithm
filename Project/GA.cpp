@@ -533,8 +533,6 @@ void resetExperiment()
 
 	lowestGeneFV = 0;
 	dynamicTournamentSize = tournamentSize;
-
-	Sleep(1);
 }
 //------------------------------------------------------------------------------------------------------------------------------
 
@@ -1544,12 +1542,11 @@ int main()
 				outfileo1 << endl;
 
 				end = clock();
+				resetExperiment();
 				cout << "Time required for execution: " << (double)(end - start) / CLOCKS_PER_SEC << " seconds." << "\n\n";
 				cout << endl << endl;
 				outfileo1 << (double)(end - start) / CLOCKS_PER_SEC << "\n\n";
 				outfileo1.close();
-				
-				resetExperiment();
 			} //Experiment Automation LOOP
 			//------------------------------------------------------------------------------------------------------------------------
 
