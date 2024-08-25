@@ -1136,6 +1136,75 @@ void binaryTournamentReplacement() {
 		fit[betterIdx] = tfit[betterOffspringIdx];
 	}
 }
+
+void CombinedReplacement(double chromosome[pSize][dimension], double fit[pSize], double paroff[4][dimension], double tfit[4])
+{
+	// Binary Tournament
+	int idx1 = getrandom(0, pSize - 1);
+	int idx2 = getrandom(0, pSize - 1);
+
+	while (idx1 == idx2) {
+		idx2 = getrandom(0, pSize - 1); // Ensure idx1 and idx2 are different
+	}
+
+	int betterIdx = (fit[idx1] < fit[idx2]) ? idx1 : idx2;
+
+	int betterOffspringIdx = (tfit[2] < tfit[3]) ? 2 : 3;
+
+	if (tfit[betterOffspringIdx] < fit[betterIdx]) {
+		for (int j = 0; j < dimension; j++) {
+			chromosome[betterIdx][j] = paroff[betterOffspringIdx][j];
+		}
+		fit[betterIdx] = tfit[betterOffspringIdx];
+	}
+
+	// Weak Parent Replacement
+	// Use the same parents selected in the binary tournament 
+	int chosenParent, notChosenParent;
+	int chosenChild, notChosenChild;
+
+	if (fit[idx1] > fit[idx2]) // Choose weak parent
+	{
+		chosenParent = idx1;
+		notChosenParent = idx2;
+	}
+	else
+	{
+		chosenParent = idx2;
+		notChosenParent = idx1;
+	}
+
+	if (tfit[2] < tfit[3]) // Choose strong child
+	{
+		chosenChild = 2;
+		notChosenChild = 3;
+	}
+	else
+	{
+		chosenChild = 3;
+		notChosenChild = 2;
+	}
+
+	// Replace the weak parent if the chosen child is better
+	if (fit[chosenParent] > tfit[chosenChild])
+	{
+		for (int i = 0; i < dimension; i++)
+		{
+			chromosome[chosenParent][i] = paroff[chosenChild][i];
+		}
+		fit[chosenParent] = tfit[chosenChild];
+	}
+
+	// Replace the not-chosen parent if the not-chosen child is better
+	if (fit[notChosenParent] > tfit[notChosenChild])
+	{
+		for (int i = 0; i < dimension; i++)
+		{
+			chromosome[notChosenParent][i] = paroff[notChosenChild][i];
+		}
+		fit[notChosenParent] = tfit[notChosenChild];
+	}
+}
 //------------------------------------------------------------------------------------------------------------------------------
 
 int main()
@@ -1567,12 +1636,12 @@ int main()
 						if (i == 0) { outfileo1Info << "R: Binary Tournament Replacement" << endl; }
 					}
 
-					/* XXX Replacement */
-					//if (GA_COMBINATION[3][3] == 1)
-					//{
-					//	
-					//	if (i == 0) { outfileo1Info << "R: XXX Replacement" << endl; }
-					//}
+					/* Combined Replacement */
+					if (GA_COMBINATION[3][3] == 1)
+					{
+						CombinedReplacement(chromosome, fit, paroff, tfit);
+						if (i == 0) { outfileo1Info << "R: Combined Replacement" << endl; }
+					}
 #endif
 #endif
 					//************************************************************************************************************************
