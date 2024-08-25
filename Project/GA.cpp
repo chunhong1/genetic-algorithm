@@ -1115,6 +1115,27 @@ void BothParentReplacement(double chromosome[pSize][dimension], double fit[pSize
 	fit[parent1] = tfit[2]; // Update fitness of parent1
 	fit[parent2] = tfit[3]; // Update fitness of parent2
 }
+
+void binaryTournamentReplacement() {
+	
+	int idx1 = getrandom(0, pSize - 1);
+	int idx2 = getrandom(0, pSize - 1);
+
+	while (idx1 == idx2) {
+		idx2 = getrandom(0, pSize - 1); // Ensure idx1 and idx2 are different
+	}
+
+	int betterIdx = (fit[idx1] < fit[idx2]) ? idx1 : idx2;
+
+	int betterOffspringIdx = (tfit[2] < tfit[3]) ? 2 : 3;
+
+	if (tfit[betterOffspringIdx] < fit[betterIdx]) {
+		for (int j = 0; j < dimension; j++) {
+			chromosome[betterIdx][j] = paroff[betterOffspringIdx][j];
+		}
+		fit[betterIdx] = tfit[betterOffspringIdx];
+	}
+}
 //------------------------------------------------------------------------------------------------------------------------------
 
 int main()
@@ -1505,7 +1526,7 @@ int main()
 					// Done By: Ling Ji Xiang 2104584
 					//------------------------------------------------------------------------------------------------------------------------
 #if MINI_PROJECT == -1
-					cout << "Mutation Operation..." << endl;
+					cout << "Replacement Operation..." << endl;
 #endif
 
 					//************************************************************************************************************************
@@ -1539,12 +1560,12 @@ int main()
 						if (i == 0) { outfileo1Info << "R: Both Parent Replacement" << endl << endl << endl; }
 					}
 #if MINI_PROJECT == 1
-					/* XXX Replacement */
-					//if (GA_COMBINATION[3][2] == 1)
-					//{
-					//	
-					//	if (i == 0) { outfileo1Info << "R: XXX Replacement" << endl; }
-					//}
+					/* Binary Tournament Replacement */
+					if (GA_COMBINATION[3][2] == 1)
+					{
+						binaryTournamentReplacement()
+						if (i == 0) { outfileo1Info << "R: Binary Tournament Replacement" << endl; }
+					}
 
 					/* XXX Replacement */
 					//if (GA_COMBINATION[3][3] == 1)
