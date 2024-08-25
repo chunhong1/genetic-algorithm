@@ -750,6 +750,7 @@ void DynamicTournamentSelection(double fitness[], int& dynamicTournamentSize, in
 // Crossover Function
 // Done By: Loh Chia Heung 2301684
 //------------------------------------------------------------------------------------------------------------------------------
+// No.1 Crossover Technique
 void UniformCrossover(double chromosome[][dimension], double paroff[][dimension], double dcp, int p1, int p2)
 {
 	double gcp = (rand() % 1000);
@@ -785,6 +786,7 @@ void UniformCrossover(double chromosome[][dimension], double paroff[][dimension]
 	}
 }
 
+// No.2 Crossover Technique
 void ShuffleCrossover(double chromosome[][dimension], double paroff[][dimension], double dcp, int p1, int p2)
 {
 
@@ -818,6 +820,87 @@ void ShuffleCrossover(double chromosome[][dimension], double paroff[][dimension]
 		}
 	}
 }
+
+// No.3 Crossover Technique
+void ArithmeticCrossover(double chromosome[][dimension], double paroff[][dimension], double dcp, int p1, int p2) {
+    
+    double gcp = (rand() % 1000);
+    gcp = gcp / 1000;
+    
+    
+    if (gcp <= dcp) {
+        // Generate a random alpha value between 0 and 1 
+        double alpha = static_cast<double>(rand()) / RAND_MAX;
+
+        for (int j = 0; j < dimension; j++) {
+            // Offspring 1: alpha * Parent 1 + (1 - alpha) * Parent 2
+            paroff[2][j] = alpha * chromosome[p1][j] + (1 - alpha) * chromosome[p2][j];
+
+            // Offspring 2:  (1 - alpha) * Parent 1 + alpha * Parent 2
+            paroff[3][j] = (1 - alpha) * chromosome[p1][j] + alpha * chromosome[p2][j];
+        }
+    } else {
+        // No crossover --> offspring are exact copies of parents
+        for (int j = 0; j < dimension; j++) {
+            paroff[2][j] = chromosome[p1][j]; // Offspring 1 --> Parent 1
+            paroff[3][j] = chromosome[p2][j]; // Offspring 2 --> Parent 2
+        }
+    }
+}
+
+// No.4 Crossover Technique
+void CombinedCrossover(double chromosome[][dimension], double paroff[][dimension], double dcp, int p1, int p2) {
+    // Temporary chromosomes for intermediate crossover results
+    double tempChrom1[dimension];
+    double tempChrom2[dimension];
+    double tempChrom3[dimension];
+    double tempChrom4[dimension];
+    
+    // Step 1: Uniform Crossover
+    double gcp = static_cast<double>(rand()) / RAND_MAX;
+    if (gcp <= dcp) {
+        for (int j = 0; j < dimension; j++) {
+            if (rand() % 2 == 0) {
+                tempChrom1[j] = chromosome[p1][j];
+                tempChrom2[j] = chromosome[p2][j];
+            } else {
+                tempChrom1[j] = chromosome[p2][j];
+                tempChrom2[j] = chromosome[p1][j];
+            }
+        }
+    } else {
+        for (int j = 0; j < dimension; j++) {
+            tempChrom1[j] = chromosome[p1][j];
+            tempChrom2[j] = chromosome[p2][j];
+        }
+    }
+
+  
+    // Generate a random crossover point between 0 and 1
+    double crossoverPoint = static_cast<double>(rand()) / RAND_MAX;
+    
+    // Step 2: Single Point Crossover
+    int point = static_cast<int>(crossoverPoint * dimension);
+    for (int j = 0; j < dimension; j++) {
+        if (j < point) {
+            tempChrom3[j] = tempChrom1[j];
+            tempChrom4[j] = tempChrom2[j];
+        } else {
+            tempChrom3[j] = tempChrom2[j];
+            tempChrom4[j] = tempChrom1[j];
+        }
+    }
+
+    // Step 3: Arithmetic Crossover
+    double alpha = static_cast<double>(rand()) / RAND_MAX;
+    
+    for (int j = 0; j < dimension; j++) {
+        paroff[2][j] = alpha * tempChrom3[j] + (1 - alpha) * tempChrom4[j];
+        paroff[3][j] = (1 - alpha) * tempChrom3[j] + alpha * tempChrom4[j];
+    }
+    
+}
+
 //------------------------------------------------------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------------------------------------------------------
@@ -1293,19 +1376,19 @@ int main()
 						if (i == 0) { outfileo1Info << "C: Shuffle Crossover" << endl; }
 					}
 #if MINI_PROJECT == 1
-					/* XXX Crossover */
-					//if (GA_COMBINATION[1][2] == 1)
-					//{
-					//	
-					//	if (i == 0) { outfileo1Info << "C: XXX Crossover" << endl; }
-					//}
+					/* Arithmetic Crossover */
+					if (GA_COMBINATION[1][2] == 1)
+					{
+					    ArithmeticCrossover(chromosome, paroff, dcp, parent1, parent2);
+					    if (i == 0) { outfileo1Info << "C: Arithmetic Crossover" << endl; }
+					}
 
-					/* XXX Crossover */
-					//if (GA_COMBINATION[1][3] == 1)
-					//{
-					//	
-					//	if (i == 0) { outfileo1Info << "C: XXX Crossover" << endl; }
-					//}
+					/* Combined Crossover */
+					if (GA_COMBINATION[1][3] == 1)
+					{
+					     CombinedCrossover(chromosome, paroff, dcp, parent1, parent2);
+					     if (i == 0) { outfileo1Info << "C: Combined Crossover" << endl; }
+					}
 #endif
 #endif
 					//************************************************************************************************************************
