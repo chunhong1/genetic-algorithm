@@ -1,3 +1,4 @@
+#define _USE_MATH_DEFINES
 #include <iostream>
 #include <conio.h>
 #include <fstream>
@@ -38,12 +39,14 @@ using namespace std;
 //------------------------------------------------------------------------------------------------------------------------------
 // Parameter Settings
 //------------------------------------------------------------------------------------------------------------------------------
-#define MINI_PROJECT 0 							// Project -> 1 | Assignment -> 0 | Demo -> -1 | Manual -> -2
+#define MINI_PROJECT 1 							// Project -> 1 | Assignment -> 0 | Demo -> -1 | Manual -> -2
+
 const double dcp = 0.7, dmp = 0.01;				// Crossover Probability, Mutation Probability
 const int tournamentSize = 5;					// Tournament Selection Size
-const float highDiverseThreshold = 0.04;		// Threshold for High Diversity
-const float lowDiverseThreshold = 0.01;			// Threshold for Low Diversity
+const double highDiverseThreshold = 0.04;		// Threshold for High Diversity
+const double lowDiverseThreshold = 0.01;		// Threshold for Low Diversity
 //------------------------------------------------------------------------------------------------------------------------------
+
 #if MINI_PROJECT == 1
 	#define TECHNIQUE 4							// No. Of Techniques
 	string GA = "0000000000000000";				// GA Binary Combinations
@@ -52,36 +55,35 @@ const float lowDiverseThreshold = 0.01;			// Threshold for Low Diversity
 	string GA = "00000000";
 #else
 	#define EXIT
-	#define TECHNIQUE 1
+	#define TECHNIQUE
 	string GA = "";
 #endif
 
 #define getrandom(min,max) ((rand()%(((max)+1)-(min)))+(min))  
-// #define getrandom(min, max) (static_cast<long long>(rand()) * (max - min + 1) / RAND_MAX) + min
 #define gen 2000								// number of iterations (number of generations)
 #define pSize 40								// number of chromosomes (population size)
 #define dimension 30							// number of bits (dimension size)
 
-double chromosome[pSize][dimension];			// chromosome
-double paroff[4][dimension];					// parent and offspring
-double fit[pSize];								// fitness value for each chromosome
+int GA_COMBINATION[4][TECHNIQUE] = {0};
+int BENCHMARK = 1;
+string benchmarkFunction = "";
+int rangeMin = 0, rangeMax = 0, rangeDiv = 1000;
+
+double chromosome[pSize][dimension] = {0};		// chromosome
+double paroff[4][dimension] = {0};				// parent and offspring
+double fit[pSize] = {0};						// fitness value for each chromosome
 double r = 0, gcp = 0, gmp = 0;
 int crb = 0, mb1 = 0, mb2 = 0;
 int rp1 = 0, rp2 = 0;
 double mb1v = 0, mb2v = 0;
 double fv = 0, sumFit = 0;
 double fit1 = 0, fit2 = 0;
-double tfit[4];
+double tfit[4] = {0};
 
 int lFvIndex = 0;
 double lFv = 0;
-double lowestGene[dimension];
+double lowestGene[dimension] = {0};
 double lowestGeneFV = 0;
-
-int GA_COMBINATION[4][TECHNIQUE];
-int BENCHMARK = 1;
-string benchmarkFunction = "";
-int rangeMin = 0, rangeMax = 0, rangeDiv = 1000;
 
 int dynamicTournamentSize = tournamentSize;
 
@@ -91,6 +93,8 @@ int dynamicTournamentSize = tournamentSize;
 // No.1 - Sphere Function +-5.12
 double Sphere(double a[])
 {
+	sumFit = 0;
+
 	for (int j = 0; j < dimension; j++)
 	{
 		fv = pow(a[j], 2);
@@ -104,6 +108,7 @@ double Sphere(double a[])
 // Done By: Yeap Chun Hong 2206352
 double Ackley(double a[])
 {
+	sumFit = 0;
 	double sum1 = 0, sum2 = 0;
 
 	for (int j = 0; j < dimension; j++)
@@ -116,6 +121,7 @@ double Ackley(double a[])
 	double term2 = exp(sum2 / dimension);
 
 	sumFit = term1 - term2 + 20 + exp(1);
+
 	return sumFit;
 }
 
@@ -123,6 +129,8 @@ double Ackley(double a[])
 // Done By: Yeap Chun Hong 2206352
 double Rastrigin(double a[])
 {
+	sumFit = 0;
+
 	for (int j = 0; j < dimension; j++)
 	{
 		fv = (pow(a[j], 2)) - (10 * cos(2 * M_PI * a[j]));
@@ -130,6 +138,7 @@ double Rastrigin(double a[])
 	}
 
 	sumFit += 10 * dimension;
+
 	return sumFit;
 }
 
@@ -137,6 +146,7 @@ double Rastrigin(double a[])
 // Done By: Brandon Ting En Junn 2101751
 double Zakharov(double a[])
 {
+	sumFit = 0;
 	double sumFit1 = 0, sumFit2 = 0, sumFit3 = 0;
 
 	// sumFit1
@@ -171,6 +181,8 @@ double Zakharov(double a[])
 // Done By: Loh Chia Heung 2301684
 double AxisParallel(double a[])
 {
+	sumFit = 0;
+
 	for (int j = 0; j < dimension; j++)
 	{
 		fv = (j + 1) * pow(a[j], 2);
@@ -184,7 +196,7 @@ double AxisParallel(double a[])
 // Done By: Loh Chia Heung 2301684
 double Griewank(double a[])
 {
-	//    double sumFit = 0.0;
+	sumFit = 0;
 	double product = 1.0;
 
 	for (int j = 0; j < dimension; j++)
@@ -192,18 +204,24 @@ double Griewank(double a[])
 		sumFit += (a[j] * a[j]) / 4000.0;
 		product *= cos(a[j] / sqrt(j + 1));
 	}
-	return sumFit - product + 1;
+
+	sumFit = sumFit - product + 1;
+
+	return sumFit;
 }
 
 // No.7 - Sum of Different Powers function +-1.00
 // Done By: Yeap Chun Hong 2206352
 double SumOfDifferentPowers(double a[])
 {
+	sumFit = 0;
+
 	for (int j = 0; j < dimension; j++)
 	{
 		fv = pow(fabs(a[j]), j + 2);
 		sumFit = sumFit + fv;
 	}
+
 	return sumFit;
 }
 
@@ -211,8 +229,9 @@ double SumOfDifferentPowers(double a[])
 // Done By: Brandon Ting En Junn 2101751
 double Rotated(double a[])
 {
-	sumFit = Sphere(a);
-	fv = sumFit;
+	sumFit = 0;
+
+	fv = Sphere(a);
 
 	for (int i = 0; i < dimension; i++)
 	{
@@ -226,21 +245,27 @@ double Rotated(double a[])
 // Done By: Ling Ji Xiang 2104584
 double Schwefel(double a[])
 {
-	double sum = 0, product = 1.0;
+	sumFit = 0;
+	double absolute = 0, sum = 0, product = 1.0;
+
 	for (int i = 0; i < dimension; i++)
 	{
-		double absolute = fabs(a[i]);
+		absolute = fabs(a[i]);
 		sum += absolute;
+
 		product *= absolute;
 	}
-	return sum + product;
+
+	sumFit = sum + product;
+
+	return sumFit;
 }
 
 // No.10 - Exponential function Function +-1.00 [f(x) = -1]
 // Done By: Ling Ji Xiang 2104584
 double Exponential(double a[])
 {
-	double result = 0.0;
+	sumFit = 0;
 
 	// calculate the sum of squares
 	for (int j = 0; j < dimension; j++)
@@ -250,8 +275,9 @@ double Exponential(double a[])
 	}
 
 	// Calculate the exponential of sum of squares
-	result = -exp(-0.5 * sumFit);
-	return result;
+	sumFit = -exp(-0.5 * sumFit);
+
+	return sumFit;
 }
 
 /* Benchmark_Range */
@@ -422,28 +448,24 @@ void GA_TO_GA_COMBINATION()
 
 bool isValidCombination(int combination[4][TECHNIQUE])
 {
-	int zeros = 0, ones = 0;
+	int ones = 0;
 
 	// Check Each Operation Technique
 	for (int i = 0; i < 4; i++)
 	{
 
-		zeros = ones = 0;
+		ones = 0;
 
 		// Check Each Technique
 		for (int j = 0; j < TECHNIQUE; j++)
 		{
-			if (combination[i][j] == 0)
-			{
-				zeros++;
-			}
 			if (combination[i][j] == 1)
 			{
 				ones++;
 			}
 		}
 
-		if (zeros == 0 || ones == 0)
+		if (ones != 1)
 		{
 			return false;
 		}
@@ -477,14 +499,15 @@ void resetExperiment()
 
 	r = gcp = gmp = 0;
 	crb = mb1 = mb2 = 0;
+	rp1 = rp2 = 0;
 	mb1v = mb2v = 0;
 	fv = sumFit = 0;
 	fit1 = fit2 = 0;
 
 	lFvIndex = 0;
 	lFv = 0;
-
 	lowestGeneFV = 0;
+
 	dynamicTournamentSize = tournamentSize;
 }
 //------------------------------------------------------------------------------------------------------------------------------
@@ -862,83 +885,84 @@ void CombinedCrossover(double chromosome[][dimension], double paroff[][dimension
 //------------------------------------------------------------------------------------------------------------------------------
 void ReversingMutation()
 {
-	gmp = (rand() % 1000000);
-	gmp = gmp / 1000000;
-
-	// Parent 1
-	if (gmp <= dmp)
+	for (int i = 2; i < 4; i++)
 	{
-		mb1 = getrandom(0, dimension - 1);
+		gmp = (rand() % 1000000);
+		gmp = gmp / 1000000;
 
-		mb1v = paroff[2][mb1];
+		// Perform Mutation
+		if (gmp <= dmp) {
+			mb1 = getrandom(0, dimension - 1);
+			mb1v = paroff[i][mb1];
 
-		if (mb1 == 0)
-		{
-			// Parent 1
-			paroff[2][mb1] = paroff[2][dimension - 1];
-			paroff[2][dimension - 1] = mb1v;
-		}
-		else
-		{
-			// Parent 1
-			paroff[2][mb1] = paroff[2][mb1 - 1];
-			paroff[2][mb1 - 1] = mb1v;
-		}
-	}
-
-	gmp = (rand() % 1000000);
-	gmp = gmp / 1000000;
-
-	// Parent 2
-	if (gmp <= dmp)
-	{
-		mb2 = getrandom(0, dimension - 1);
-
-		mb2v = paroff[3][mb2];
-
-		if (mb2 == 0)
-		{
-			// Parent 2
-			paroff[3][mb2] = paroff[3][dimension - 1];
-			paroff[3][dimension - 1] = mb2v;
-		}
-		else
-		{
-			// Parent 2
-			paroff[3][mb2] = paroff[3][mb2 - 1];
-			paroff[3][mb2 - 1] = mb2v;
+			// Swap
+			if (mb1 == 0) {
+				paroff[i][mb1] = paroff[i][dimension - 1];
+				paroff[i][dimension - 1] = mb1v;
+			} else {
+				paroff[i][mb1] = paroff[i][mb1 - 1];
+				paroff[i][mb1 - 1] = mb1v;
+			}
 		}
 	}
 }
 
 void RandomMutation()
 {
-	// Parent 1 & Parent 2
 	for (int i = 2; i < 4; i++)
 	{
-		gmp = (rand() % 1000000);
-		gmp = gmp / 1000000;
-
 		mb1 = getrandom(0, dimension - 1);
-		mb2 = getrandom(0, dimension - 1);
-
-		if (gmp <= dmp)
+		mb2 = getrandom(0, dimension - 1);	
+		
+		for (int j = 0; j < 2; j++)
 		{
-			r = getrandom(-rangeMin, rangeMax);
-			r = r / rangeDiv;
-			paroff[i][mb1] = r;
-		}
+			gmp = (rand() % 1000000);
+			gmp = gmp / 1000000;
 
-		gmp = (rand() % 1000000);
-		gmp = gmp / 1000000;
+			// Perform Mutation
+			if (gmp <= dmp) {
 
-		if (gmp <= dmp)
-		{
-			r = getrandom(-rangeMin, rangeMax);
-			r = r / rangeDiv;
-			paroff[i][mb2] = r;
-		}
+				// Random
+				r = getrandom(-rangeMin, rangeMax);
+				r = r / rangeDiv;
+
+				if (j == 0) {
+					paroff[i][mb1] = r;
+				} else {
+					paroff[i][mb2] = r;
+				}
+
+			}
+		}	
 	}
+
+
+	// // Parent 1 & Parent 2
+	// for (int i = 2; i < 4; i++)
+	// {
+	// 	gmp = (rand() % 1000000);
+	// 	gmp = gmp / 1000000;
+
+	// 	mb1 = getrandom(0, dimension - 1);
+	// 	mb2 = getrandom(0, dimension - 1);
+
+	// 	if (gmp <= dmp)
+	// 	{
+	// 		r = getrandom(-rangeMin, rangeMax);
+	// 		r = r / rangeDiv;
+	// 		paroff[i][mb1] = r;
+	// 	}
+
+	// 	gmp = (rand() % 1000000);
+	// 	gmp = gmp / 1000000;
+
+	// 	if (gmp <= dmp)
+	// 	{
+	// 		r = getrandom(-rangeMin, rangeMax);
+	// 		r = r / rangeDiv;
+	// 		paroff[i][mb2] = r;
+	// 	}
+	// }
 }
 
 void SimpleInversionMutation()
@@ -1017,7 +1041,8 @@ void WeakParentReplacement(double chromosome[pSize][dimension], double fit[pSize
 	int chosenParent, notChosenParent;
 	int chosenChild, notChosenChild;
 	
-	if (fit[parent1] > fit[parent2]) //choose weak parent
+	// Determine Weak and Strong Parent
+	if (fit[parent1] > fit[parent2])
 	{
 		chosenParent = parent1; 
 		notChosenParent = parent2; 
@@ -1028,7 +1053,8 @@ void WeakParentReplacement(double chromosome[pSize][dimension], double fit[pSize
 		notChosenParent = parent1;
 	}
 	
-	if (tfit[2] < tfit[3]) //choose strong child
+	// Determine Strong and Weak Child
+	if (tfit[2] < tfit[3])
 	{
 		chosenChild = 2; 
 		notChosenChild = 3; 
@@ -1198,6 +1224,12 @@ int main()
 		cout << gaDirectory << endl;
 		outfileo1Info << gaDirectory << endl << endl;
 
+		outfileo1Info << GA[0] << GA[1] << GA[2] << GA[3] << endl;
+		outfileo1Info << GA[4] << GA[5] << GA[6] << GA[7] << endl;
+		outfileo1Info << GA[8] << GA[9] << GA[10] << GA[11] << endl;
+		outfileo1Info << GA[12] << GA[13] << GA[14] << GA[15] << endl << endl;
+		// getch();
+
 		//---------------------------------------------------------------------------------------------------------------------------
 		// Benchmark Automation
 		// Done By: Brandon Ting En Junn 2101751
@@ -1317,8 +1349,8 @@ int main()
 					/* Manual Selection */
 					if (GA_COMBINATION[0][1] == 1)
 					{
-						RouletteWheelSelection(fit, parent1, parent2);
-						if (i == 0) { outfileo1Info << "S: Roulette Wheel Selection" << endl; }
+						DynamicTournamentSelection(fit, dynamicTournamentSize, parent1, parent2);
+						if (i == 0) { outfileo1Info << "S: Dynamic Tournament Selection" << endl; }
 					}
 #else
 					/* Roulette Wheel Selection */
@@ -1401,8 +1433,8 @@ int main()
 					/* Manual Crossover */
 					if (GA_COMBINATION[1][1] == 1)
 					{
-						UniformCrossover(chromosome, paroff, dcp, parent1, parent2);
-						if (i == 0) { outfileo1Info << "C: Uniform Crossover" << endl; }
+					     CombinedCrossover(chromosome, paroff, dcp, parent1, parent2);
+					     if (i == 0) { outfileo1Info << "C: Combined Crossover" << endl; }
 					}
 #else
 					/* Uniform Crossover */
@@ -1564,8 +1596,8 @@ int main()
 					/* Manual Replacement */
 					if (GA_COMBINATION[3][1] == 1)
 					{
-						WeakParentReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
-						if (i == 0) { outfileo1Info << "R: Weak Parent Replacement" << endl << endl << endl; }
+						CombinedReplacement(chromosome, fit, paroff, tfit);
+						if (i == 0) { outfileo1Info << "R: Combined Replacement" << endl << endl << endl; }
 					}
 #else
 					/* Weak Parent Replacement */
@@ -1586,15 +1618,15 @@ int main()
 					/* Binary Tournament Replacement */
 					if (GA_COMBINATION[3][2] == 1)
 					{
-						binaryTournamentReplacement()
-						if (i == 0) { outfileo1Info << "R: Binary Tournament Replacement" << endl; }
+						binaryTournamentReplacement();
+						if (i == 0) { outfileo1Info << "R: Binary Tournament Replacement" << endl << endl << endl; }
 					}
 
 					/* Combined Replacement */
 					if (GA_COMBINATION[3][3] == 1)
 					{
 						CombinedReplacement(chromosome, fit, paroff, tfit);
-						if (i == 0) { outfileo1Info << "R: Combined Replacement" << endl; }
+						if (i == 0) { outfileo1Info << "R: Combined Replacement" << endl << endl << endl; }
 					}
 #endif
 					//************************************************************************************************************************
@@ -1628,17 +1660,9 @@ int main()
 						}
 					}
 
-					fit1 = 0;
-					fit2 = 0;
-
+					// Negative Fitness Value Checking
 					if (lFv < 0) {
-						if (BENCHMARK == 10) {
-							if (lFv < -1) {
-								cout << "Error ALGORITHM: Invalid Fitness Value\n\nPress Any Key to Exit..." << endl;
-								getch();
-								exit(0);					
-							}
-						} else {
+						if (BENCHMARK != 10 || lFv < -1) {
 							cout << "Error ALGORITHM: Invalid Fitness Value\n\nPress Any Key to Exit..." << endl;
 							getch();
 							exit(0);
@@ -1682,11 +1706,12 @@ int main()
 				outfileo1 << endl;
 
 				end = clock();
-				resetExperiment();
 				cout << "Time required for execution: " << (double)(end - start) / CLOCKS_PER_SEC << " seconds." << "\n\n";
 				cout << endl << endl;
 				outfileo1 << (double)(end - start) / CLOCKS_PER_SEC << "\n\n";
 				outfileo1.close();
+
+				resetExperiment();
 			} //Experiment Automation LOOP
 			//------------------------------------------------------------------------------------------------------------------------
 
