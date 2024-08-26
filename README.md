@@ -11,10 +11,8 @@ g++ -o PSO.exe PSO.cpp
 ```
 
 # TODO
-- Finish GA Project (4 Operation Techniques)
 - PSO -> Determine and confirm constants value w, c1, c2
-- GA / PSO -> Testing + Validation -> Produce Results
-
-#### OPTIONAL TODO
-- Demo color change (Crossover and Mutation)
-- Start, Stop clock (auto data type?) -> more accurate execution times
+- PSO -> Demo Mode
+- GA / PSO -> Testing + Validation
+- GA / PSO Code Cleanup
+- Produce Results
