@@ -1,3 +1,4 @@
+#define _USE_MATH_DEFINES
 #include <iostream>
 #include <conio.h>
 #include <fstream>
@@ -18,7 +19,6 @@ using namespace std;
 * Update Velocity Function
 * Update Position Function
 
-main()
 -> Benchmark Automation
 	-> Experiment Automation
 		-> Generate Population
@@ -37,30 +37,29 @@ const double c1 = 2, c2 = 2;						//C Constant
 //------------------------------------------------------------------------------------------------------------------------------
 #define EXPERIMENT 10								//No. of Experiments
 
-#define getrandom(min,max) (static_cast<long long>(rand()) * (max - min + 1) / RAND_MAX) + min
+#define getrandom(min,max) ((rand()%(((max)+1)-(min)))+(min))
 #define gen 2000           							//number of iterations (number of generations)
 #define pSize 40           							//number of particle (population size)
 #define dimension 30       							//number of bits (dimension size)
 
-double particlePosition[pSize][dimension]; 	       	//particle position
-double particleVelocity[pSize][dimension] = { 0 };	//particle velocity
-double particlePBest[pSize][dimension];            	//particle PBest
-double particlePBestFV[pSize];
-double particleGBest[dimension];                   	//particle GBest
+double particlePosition[pSize][dimension] = {0}; 	//particle position
+double particleVelocity[pSize][dimension] = {0};	//particle velocity
+double particlePBest[pSize][dimension] = {0};       //particle PBest
+double particlePBestFV[pSize] = {0};
+double particleGBest[dimension] = {0};              //particle GBest
 double particleGBestFV = 0;
 
-double fit[pSize];                                 	//fitness value for each particle generation
+double fit[pSize] = {0};                            //fitness value for each particle generation
 double fv = 0, sumFit = 0;
 double r = 0;
 int GBestIndex = 0;									//GBest index of each particle generation for potential GBest
 
-const double pi = 2 * asin(1.0);
 int BENCHMARK = 1;
 string benchmarkFunction = "";
 int rangeMin = 0, rangeMax = 0, rangeDiv = 1000;
 
-double vcMin, vcMax = 0; 	   						// Velocity Clamping (Velocity Limits)
-double posMin, posMax = 0;							// Position Limits
+double vcMin = 0, vcMax = 0; 	   					// Velocity Clamping (Velocity Limits)
+double posMin = 0, posMax = 0;						// Position Limits
 
 //------------------------------------------------------------------------------------------------------------------------------
 // Benchmark Function
@@ -68,6 +67,8 @@ double posMin, posMax = 0;							// Position Limits
 // No.1 - Sphere Function +-5.12
 double Sphere(double a[])
 {
+	sumFit = 0;
+
 	for (int j = 0; j < dimension; j++)
 	{
 		fv = pow(a[j], 2);
@@ -81,18 +82,20 @@ double Sphere(double a[])
 // Done By: Yeap Chun Hong 2206352
 double Ackley(double a[])
 {
+	sumFit = 0;
 	double sum1 = 0, sum2 = 0;
 
 	for (int j = 0; j < dimension; j++)
 	{
 		sum1 += pow(a[j], 2);
-		sum2 += cos(2 * pi * a[j]);
+		sum2 += cos(2 * M_PI * a[j]);
 	}
 
 	double term1 = -20 * exp(-0.2 * sqrt(sum1 / dimension));
 	double term2 = exp(sum2 / dimension);
 
 	sumFit = term1 - term2 + 20 + exp(1);
+
 	return sumFit;
 }
 
@@ -100,13 +103,16 @@ double Ackley(double a[])
 // Done By: Yeap Chun Hong 2206352
 double Rastrigin(double a[])
 {
+	sumFit = 0;
+
 	for (int j = 0; j < dimension; j++)
 	{
-		fv = (pow(a[j], 2)) - (10 * cos(2 * pi * a[j]));
+		fv = (pow(a[j], 2)) - (10 * cos(2 * M_PI * a[j]));
 		sumFit = sumFit + fv;
 	}
 
 	sumFit += 10 * dimension;
+
 	return sumFit;
 }
 
@@ -114,6 +120,7 @@ double Rastrigin(double a[])
 // Done By: Brandon Ting En Junn 2101751
 double Zakharov(double a[])
 {
+	sumFit = 0;
 	double sumFit1 = 0, sumFit2 = 0, sumFit3 = 0;
 
 	// sumFit1
@@ -148,6 +155,8 @@ double Zakharov(double a[])
 // Done By: Loh Chia Heung 2301684
 double AxisParallel(double a[])
 {
+	sumFit = 0;
+
 	for (int j = 0; j < dimension; j++)
 	{
 		fv = (j + 1) * pow(a[j], 2);
@@ -161,7 +170,7 @@ double AxisParallel(double a[])
 // Done By: Loh Chia Heung 2301684
 double Griewank(double a[])
 {
-	//    double sumFit = 0.0;
+	sumFit = 0;
 	double product = 1.0;
 
 	for (int j = 0; j < dimension; j++)
@@ -169,18 +178,24 @@ double Griewank(double a[])
 		sumFit += (a[j] * a[j]) / 4000.0;
 		product *= cos(a[j] / sqrt(j + 1));
 	}
-	return sumFit - product + 1;
+
+	sumFit = sumFit - product + 1;
+
+	return sumFit;
 }
 
 // No.7 - Sum of Different Powers function +-1.00
 // Done By: Yeap Chun Hong 2206352
 double SumOfDifferentPowers(double a[])
 {
+	sumFit = 0;
+
 	for (int j = 0; j < dimension; j++)
 	{
 		fv = pow(fabs(a[j]), j + 2);
 		sumFit = sumFit + fv;
 	}
+
 	return sumFit;
 }
 
@@ -188,8 +203,9 @@ double SumOfDifferentPowers(double a[])
 // Done By: Brandon Ting En Junn 2101751
 double Rotated(double a[])
 {
-	sumFit = Sphere(a);
-	fv = sumFit;
+	sumFit = 0;
+
+	fv = Sphere(a);
 
 	for (int i = 0; i < dimension; i++)
 	{
@@ -203,21 +219,27 @@ double Rotated(double a[])
 // Done By: Ling Ji Xiang 2104584
 double Schwefel(double a[])
 {
-	double sum = 0, product = 1.0;
+	sumFit = 0;
+	double absolute = 0, sum = 0, product = 1.0;
+
 	for (int i = 0; i < dimension; i++)
 	{
-		double absolute = fabs(a[i]);
+		absolute = fabs(a[i]);
 		sum += absolute;
+
 		product *= absolute;
 	}
-	return sum + product;
+
+	sumFit = sum + product;
+
+	return sumFit;
 }
 
 // No.10 - Exponential function Function +-1.00 [f(x) = -1]
 // Done By: Ling Ji Xiang 2104584
 double Exponential(double a[])
 {
-	double result = 0.0;
+	sumFit = 0;
 
 	// calculate the sum of squares
 	for (int j = 0; j < dimension; j++)
@@ -227,8 +249,9 @@ double Exponential(double a[])
 	}
 
 	// Calculate the exponential of sum of squares
-	result = -exp(-0.5 * sumFit);
-	return result;
+	sumFit = -exp(-0.5 * sumFit);
+
+	return sumFit;
 }
 
 /* Benchmark_Range */
@@ -437,7 +460,7 @@ void resetExperiment()
 	}
 	particleGBestFV = 0;
 
-	fv, sumFit = 0;
+	fv = sumFit = 0;
 	r = 0;
 	GBestIndex = 0;
 }
