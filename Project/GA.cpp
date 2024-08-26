@@ -6,7 +6,6 @@
 #include <time.h>
 #include <string>
 #include <iomanip>
-#include <math.h>
 #include <algorithm>
 #include <windows.h>
 #include <cmath>
@@ -23,7 +22,6 @@ using namespace std;
 * Mutation Function
 * Replacement Function
 
-main()
 - GA Automation
 	-> Benchmark Automation
 		-> Experiment Automation
@@ -41,62 +39,15 @@ main()
 // Parameter Settings
 //------------------------------------------------------------------------------------------------------------------------------
 #define MINI_PROJECT 0 							// Project -> 1 | Assignment -> 0 | Demo -> -1 | Manual -> -2
-
-//////////////////////////
-/* GA_COMBINATION Sheet */
-//////////////////////////
-/* Selection	- [0] */
-// Best 			[0][1] Manual 			[0][1]
-
-// Roulette Wheel	[0][0]
-// Tournament		[0][1]
-// Linear Ranking	[0][2]
-// XXX				[0][3]
-//////////////////////////
-/* Crossover	- [1] */
-// Best 			[1][1] Manual 			[0][1]
-
-// Uniform			[1][0]
-// Shuffle			[1][1]
-// Arithmetic		[1][2]
-// XXX				[1][3]
-//////////////////////////
-/* Mutation		- [2] */
-// Best 			[2][1] Manual 			[0][1]
-
-// Reversing		[2][0]
-// Random			[2][1]
-// Simple Inversion	[2][2]
-// XXX				[2][3]
-//////////////////////////
-/* Replacement 	- [3] */
-// Best 			[3][1] Manual 			[0][1]
-
-// Weak Parent		[3][0]
-// Both Parent		[3][1]
-// Tournament		[3][2]
-// XXX				[3][3]
-//////////////////////////
-
 const double dcp = 0.7, dmp = 0.01;				// Crossover Probability, Mutation Probability
 const int tournamentSize = 5;					// Tournament Selection Size
-int dynamicTournamentSize = tournamentSize;
-const float highDiverseThreshold = 0.04;		// threshold for high diversity
-const float lowDiverseThreshold = 0.01;			// threshold for low diversity
+const float highDiverseThreshold = 0.04;		// Threshold for High Diversity
+const float lowDiverseThreshold = 0.01;			// Threshold for Low Diversity
 //------------------------------------------------------------------------------------------------------------------------------
-// #if MINI_PROJECT == 1
-// 	#define TECHNIQUE 4							// No. Of Techniques
-// 	string GA = "0000000000000000";				// GA Binary Combinations
-// #elif MINI_PROJECT == 0 || MINI_PROJECT == -1 || MINI_PROJECT == -2
-// 	#define TECHNIQUE 2
-// 	string GA = "00000000";
-// #else
-// 	#define EXIT
-// 	#define TECHNIQUE 1
-// 	string GA = "";
-// #endif
-
-#if MINI_PROJECT == 0 || MINI_PROJECT == -1 || MINI_PROJECT == -2
+#if MINI_PROJECT == 1
+	#define TECHNIQUE 4							// No. Of Techniques
+	string GA = "0000000000000000";				// GA Binary Combinations
+#elif MINI_PROJECT == 0 || MINI_PROJECT == -1 || MINI_PROJECT == -2
 	#define TECHNIQUE 2
 	string GA = "00000000";
 #else
@@ -105,7 +56,8 @@ const float lowDiverseThreshold = 0.01;			// threshold for low diversity
 	string GA = "";
 #endif
 
-#define getrandom(min, max) (static_cast<long long>(rand()) * (max - min + 1) / RAND_MAX) + min
+#define getrandom(min,max) ((rand()%(((max)+1)-(min)))+(min))  
+// #define getrandom(min, max) (static_cast<long long>(rand()) * (max - min + 1) / RAND_MAX) + min
 #define gen 2000								// number of iterations (number of generations)
 #define pSize 40								// number of chromosomes (population size)
 #define dimension 30							// number of bits (dimension size)
@@ -126,11 +78,12 @@ double lFv = 0;
 double lowestGene[dimension];
 double lowestGeneFV = 0;
 
-const double pi = 2 * asin(1.0);
 int GA_COMBINATION[4][TECHNIQUE];
 int BENCHMARK = 1;
 string benchmarkFunction = "";
 int rangeMin = 0, rangeMax = 0, rangeDiv = 1000;
+
+int dynamicTournamentSize = tournamentSize;
 
 //------------------------------------------------------------------------------------------------------------------------------
 // Benchmark Function
@@ -156,7 +109,7 @@ double Ackley(double a[])
 	for (int j = 0; j < dimension; j++)
 	{
 		sum1 += pow(a[j], 2);
-		sum2 += cos(2 * pi * a[j]);
+		sum2 += cos(2 * M_PI * a[j]);
 	}
 
 	double term1 = -20 * exp(-0.2 * sqrt(sum1 / dimension));
@@ -172,7 +125,7 @@ double Rastrigin(double a[])
 {
 	for (int j = 0; j < dimension; j++)
 	{
-		fv = (pow(a[j], 2)) - (10 * cos(2 * pi * a[j]));
+		fv = (pow(a[j], 2)) - (10 * cos(2 * M_PI * a[j]));
 		sumFit = sumFit + fv;
 	}
 
@@ -522,11 +475,11 @@ void resetExperiment()
 		fit[i] = 0;
 	}
 
-	r, gcp, gmp = 0;
-	crb, mb1, mb2 = 0;
-	mb1v, mb2v = 0;
-	fv, sumFit = 0;
-	fit1, fit2 = 0;
+	r = gcp = gmp = 0;
+	crb = mb1 = mb2 = 0;
+	mb1v = mb2v = 0;
+	fv = sumFit = 0;
+	fit1 = fit2 = 0;
 
 	lFvIndex = 0;
 	lFv = 0;
@@ -941,19 +894,19 @@ void ReversingMutation()
 	{
 		mb2 = getrandom(0, dimension - 1);
 
-		mb2v = paroff[2][mb2];
+		mb2v = paroff[3][mb2];
 
 		if (mb2 == 0)
 		{
-			// Parent 1
+			// Parent 2
 			paroff[3][mb2] = paroff[3][dimension - 1];
 			paroff[3][dimension - 1] = mb2v;
 		}
 		else
 		{
-			// Parent 1
-			paroff[3][mb1] = paroff[3][mb2 - 1];
-			paroff[3][mb1 - 1] = mb2v;
+			// Parent 2
+			paroff[3][mb2] = paroff[3][mb2 - 1];
+			paroff[3][mb2 - 1] = mb2v;
 		}
 	}
 }
@@ -1381,6 +1334,7 @@ int main()
 						TournamentSelection(fit, tournamentSize, parent1, parent2);
 						if (i == 0) { outfileo1Info << "S: Tournament Selection" << endl; }
 					}
+#endif
 #if MINI_PROJECT == 1
 					/* Linear Ranking Selection */
 					if (GA_COMBINATION[0][2] == 1)
@@ -1395,7 +1349,6 @@ int main()
 						DynamicTournamentSelection(fit, dynamicTournamentSize, parent1, parent2);
 						if (i == 0) { outfileo1Info << "S: Dynamic Tournament Selection" << endl; }
 					}
-#endif
 #endif
 					//************************************************************************************************************************
 
@@ -1465,6 +1418,7 @@ int main()
 						ShuffleCrossover(chromosome, paroff, dcp, parent1, parent2);
 						if (i == 0) { outfileo1Info << "C: Shuffle Crossover" << endl; }
 					}
+#endif
 #if MINI_PROJECT == 1
 					/* Arithmetic Crossover */
 					if (GA_COMBINATION[1][2] == 1)
@@ -1479,7 +1433,6 @@ int main()
 					     CombinedCrossover(chromosome, paroff, dcp, parent1, parent2);
 					     if (i == 0) { outfileo1Info << "C: Combined Crossover" << endl; }
 					}
-#endif
 #endif
 					//************************************************************************************************************************
 
@@ -1540,6 +1493,7 @@ int main()
 						RandomMutation();
 						if (i == 0) { outfileo1Info << "M: Random Mutation" << endl; }
 					}
+#endif
 #if MINI_PROJECT == 1
 					/* Simple Inversion Mutation */
 					if (GA_COMBINATION[2][2] == 1)
@@ -1554,7 +1508,6 @@ int main()
 						ImitatingMutation();
 						if (i == 0) { outfileo1Info << "M: Imitating Mutation" << endl; }
 					}
-#endif
 #endif
 					//************************************************************************************************************************
 
@@ -1628,6 +1581,7 @@ int main()
 						BothParentReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
 						if (i == 0) { outfileo1Info << "R: Both Parent Replacement" << endl << endl << endl; }
 					}
+#endif
 #if MINI_PROJECT == 1
 					/* Binary Tournament Replacement */
 					if (GA_COMBINATION[3][2] == 1)
@@ -1642,7 +1596,6 @@ int main()
 						CombinedReplacement(chromosome, fit, paroff, tfit);
 						if (i == 0) { outfileo1Info << "R: Combined Replacement" << endl; }
 					}
-#endif
 #endif
 					//************************************************************************************************************************
 					//------------------------------------------------------------------------------------------------------------------------
