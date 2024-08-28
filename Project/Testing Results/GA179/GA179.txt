@@ -1,0 +1,607 @@
+GA179
+
+0100
+1000
+0001
+0100
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+

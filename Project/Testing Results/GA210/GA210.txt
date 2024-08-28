@@ -1,0 +1,607 @@
+GA210
+
+1000
+0010
+0001
+0010
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+

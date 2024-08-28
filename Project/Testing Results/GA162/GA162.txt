@@ -1,0 +1,607 @@
+GA162
+
+0100
+0100
+0001
+0010
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+

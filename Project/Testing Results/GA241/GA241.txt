@@ -1,0 +1,607 @@
+GA241
+
+1000
+1000
+0001
+0001
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+

@@ -1,0 +1,607 @@
+GA115
+
+0010
+1000
+0001
+0100
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+

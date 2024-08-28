@@ -1,0 +1,607 @@
+GA208
+
+1000
+0001
+1000
+1000
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Weak Parent Replacement
+
+

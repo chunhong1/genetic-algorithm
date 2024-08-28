@@ -1,0 +1,607 @@
+GA12
+
+0001
+0001
+0100
+1000
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+

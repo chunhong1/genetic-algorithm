@@ -1,0 +1,607 @@
+GA189
+
+0100
+1000
+1000
+0001
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+

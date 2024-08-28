@@ -1,0 +1,607 @@
+GA97
+
+0010
+0100
+0001
+0001
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Imitating Mutation
+R: Combined Replacement
+
+

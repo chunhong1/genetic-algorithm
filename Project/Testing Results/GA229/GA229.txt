@@ -1,0 +1,607 @@
+GA229
+
+1000
+0100
+0010
+0001
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+

@@ -1,0 +1,607 @@
+GA67
+
+0010
+0001
+0001
+0100
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Combined Crossover
+M: Imitating Mutation
+R: Both Parent Replacement
+
+

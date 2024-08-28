@@ -1,0 +1,607 @@
+GA104
+
+0010
+0100
+0010
+1000
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+

@@ -1,0 +1,607 @@
+GA50
+
+0001
+1000
+0001
+0010
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Imitating Mutation
+R: Binary Tournament Replacement
+
+

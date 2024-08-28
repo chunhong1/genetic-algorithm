@@ -1,0 +1,607 @@
+GA219
+
+1000
+0010
+0100
+0100
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+

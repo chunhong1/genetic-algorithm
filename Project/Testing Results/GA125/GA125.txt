@@ -1,0 +1,607 @@
+GA125
+
+0010
+1000
+1000
+0001
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+

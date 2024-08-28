@@ -1,0 +1,607 @@
+GA205
+
+1000
+0001
+1000
+0001
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
