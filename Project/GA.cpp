@@ -1293,7 +1293,7 @@ int main()
 				for (int i = 0; i < pSize; i++)
 				{
 					fit[i] = Fitness(chromosome[i]);
-					//cout<<setprecision(6)<<fit[i]<<endl;
+					//cout<<fixed<<setprecision(3)<<fit[i]<<endl;
 					sumFit = 0;
 				}
 
@@ -1693,18 +1693,18 @@ int main()
 				cout << "Result" << endl;
 
 				// Output Final Generation Lowest
-				//cout<<setprecision(6)<<lFv<<" "<<lFvIndex+1<<endl<<endl;
+				//cout<<fixed<<setprecision(3)<<lFv<<" "<<lFvIndex+1<<endl<<endl;
 				//for(int j = 0 ; j < dimension ; j++)
 				//{
-				//	cout<<setprecision(6)<<chromosome[lFvIndex][j]<<"\t";
+				//	cout<<fixed<<setprecision(3)<<chromosome[lFvIndex][j]<<"\t";
 				//	outfileo1<<setprecision(6)<<chromosome[lFvIndex][j]<<"\n";
 				//}
 
 				// Output Lowest Gene in Experiment
-				cout << setprecision(6) << lowestGeneFV << endl << endl;
+				cout << fixed << setprecision(3) << lowestGeneFV << endl << endl;
 				for (int j = 0; j < dimension; j++)
 				{
-					cout << setprecision(6) << lowestGene[j] << "\t";
+					cout << fixed << setprecision(3) << lowestGene[j] << "\t";
 					outfileo1 << setprecision(6) << lowestGene[j] << "\n";
 				}
 
