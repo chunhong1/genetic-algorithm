@@ -1,0 +1,607 @@
+GA18
+
+0001
+0010
+0001
+0010
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+

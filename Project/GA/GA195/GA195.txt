@@ -1,0 +1,607 @@
+GA195
+
+1000
+0001
+0001
+0100
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+

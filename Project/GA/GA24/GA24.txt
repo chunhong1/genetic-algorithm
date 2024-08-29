@@ -1,0 +1,607 @@
+GA24
+
+0001
+0010
+0010
+1000
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+

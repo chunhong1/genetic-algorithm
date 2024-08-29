@@ -1,0 +1,607 @@
+GA230
+
+1000
+0100
+0010
+0010
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+

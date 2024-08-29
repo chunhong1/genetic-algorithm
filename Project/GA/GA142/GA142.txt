@@ -1,0 +1,607 @@
+GA142
+
+0100
+0001
+1000
+0010
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Binary Tournament Replacement
+
+

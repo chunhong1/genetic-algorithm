@@ -1,0 +1,607 @@
+GA5
+
+0001
+0001
+0010
+0001
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+

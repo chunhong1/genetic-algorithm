@@ -1,0 +1,607 @@
+GA184
+
+0100
+1000
+0010
+1000
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Weak Parent Replacement
+
+

@@ -1,0 +1,607 @@
+GA209
+
+1000
+0010
+0001
+0001
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+

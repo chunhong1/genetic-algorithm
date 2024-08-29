@@ -1,0 +1,607 @@
+GA165
+
+0100
+0100
+0010
+0001
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+

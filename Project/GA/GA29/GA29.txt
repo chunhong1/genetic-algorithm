@@ -1,0 +1,607 @@
+GA29
+
+0001
+0010
+1000
+0001
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+

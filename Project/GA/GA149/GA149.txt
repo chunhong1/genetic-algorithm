@@ -1,0 +1,607 @@
+GA149
+
+0100
+0010
+0010
+0001
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+

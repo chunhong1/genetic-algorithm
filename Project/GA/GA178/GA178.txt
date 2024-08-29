@@ -1,0 +1,607 @@
+GA178
+
+0100
+1000
+0001
+0010
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Binary Tournament Replacement
+
+

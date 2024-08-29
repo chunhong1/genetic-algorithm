@@ -1,0 +1,607 @@
+GA3
+
+0001
+0001
+0001
+0100
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+

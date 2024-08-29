@@ -1,0 +1,607 @@
+GA85
+
+0010
+0010
+0010
+0001
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Combined Replacement
+
+

@@ -1,0 +1,607 @@
+GA13
+
+0001
+0001
+1000
+0001
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Reversing Mutation
+R: Combined Replacement
+
+

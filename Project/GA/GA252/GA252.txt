@@ -1,0 +1,607 @@
+GA252
+
+1000
+1000
+0100
+1000
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+

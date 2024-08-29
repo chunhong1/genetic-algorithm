@@ -1,0 +1,607 @@
+GA244
+
+1000
+1000
+0001
+1000
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+

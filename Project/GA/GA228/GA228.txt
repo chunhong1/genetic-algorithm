@@ -1,0 +1,607 @@
+GA228
+
+1000
+0100
+0001
+1000
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Shuffle Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+

@@ -1,0 +1,607 @@
+GA183
+
+0100
+1000
+0010
+0100
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Uniform Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+

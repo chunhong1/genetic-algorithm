@@ -1,0 +1,607 @@
+GA172
+
+0100
+0100
+0100
+1000
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+
+S: Tournament Selection
+C: Shuffle Crossover
+M: Random Mutation
+R: Weak Parent Replacement
+
+

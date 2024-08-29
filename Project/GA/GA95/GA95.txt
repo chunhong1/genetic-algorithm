@@ -1,0 +1,607 @@
+GA95
+
+0010
+0010
+1000
+0100
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Reversing Mutation
+R: Both Parent Replacement
+
+

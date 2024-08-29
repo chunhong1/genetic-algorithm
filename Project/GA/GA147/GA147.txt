@@ -1,0 +1,607 @@
+GA147
+
+0100
+0010
+0001
+0100
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Both Parent Replacement
+
+

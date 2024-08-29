@@ -1,0 +1,607 @@
+GA116
+
+0010
+1000
+0001
+1000
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+

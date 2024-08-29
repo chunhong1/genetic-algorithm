@@ -1,0 +1,607 @@
+GA215
+
+1000
+0010
+0010
+0100
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+
+S: Roulette Wheel Selection
+C: Arithmetic Crossover
+M: Simple Inversion Mutation
+R: Both Parent Replacement
+
+

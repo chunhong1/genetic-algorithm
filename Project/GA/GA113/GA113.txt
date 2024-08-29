@@ -1,0 +1,607 @@
+GA113
+
+0010
+1000
+0001
+0001
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+
+S: Linear Ranking Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Combined Replacement
+
+

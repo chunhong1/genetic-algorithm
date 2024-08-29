@@ -1,0 +1,607 @@
+GA155
+
+0100
+0010
+0100
+0100
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+
+S: Tournament Selection
+C: Arithmetic Crossover
+M: Random Mutation
+R: Both Parent Replacement
+
+

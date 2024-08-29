@@ -1,0 +1,607 @@
+GA84
+
+0010
+0010
+0001
+1000
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Linear Ranking Selection
+C: Arithmetic Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+

@@ -1,0 +1,607 @@
+GA6
+
+0001
+0001
+0010
+0010
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+
+S: Dynamic Tournament Selection
+C: Combined Crossover
+M: Simple Inversion Mutation
+R: Binary Tournament Replacement
+
+

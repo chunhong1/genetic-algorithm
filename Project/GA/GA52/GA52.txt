@@ -1,0 +1,607 @@
+GA52
+
+0001
+1000
+0001
+1000
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
+S: Dynamic Tournament Selection
+C: Uniform Crossover
+M: Hybrid Comparing Mutation
+R: Weak Parent Replacement
+
+
