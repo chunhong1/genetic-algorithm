@@ -231,10 +231,15 @@ double Rotated(double a[])
 {
 	sumFit = 0;
 
-	fv = Sphere(a);
-
 	for (int i = 0; i < dimension; i++)
 	{
+		fv = 0;
+
+		for (int j = 0; j <= i; j++)
+		{
+			fv += pow(a[j], 2);
+		}
+
 		sumFit = sumFit + fv;
 	}
 
@@ -935,34 +940,6 @@ void RandomMutation()
 			}
 		}	
 	}
-
-
-	// // Parent 1 & Parent 2
-	// for (int i = 2; i < 4; i++)
-	// {
-	// 	gmp = (rand() % 1000000);
-	// 	gmp = gmp / 1000000;
-
-	// 	mb1 = getrandom(0, dimension - 1);
-	// 	mb2 = getrandom(0, dimension - 1);
-
-	// 	if (gmp <= dmp)
-	// 	{
-	// 		r = getrandom(-rangeMin, rangeMax);
-	// 		r = r / rangeDiv;
-	// 		paroff[i][mb1] = r;
-	// 	}
-
-	// 	gmp = (rand() % 1000000);
-	// 	gmp = gmp / 1000000;
-
-	// 	if (gmp <= dmp)
-	// 	{
-	// 		r = getrandom(-rangeMin, rangeMax);
-	// 		r = r / rangeDiv;
-	// 		paroff[i][mb2] = r;
-	// 	}
-	// }
 }
 
 void SimpleInversionMutation()
@@ -996,12 +973,16 @@ void SimpleInversionMutation()
 	}
 }
 
-void ImitatingMutation()
+void HybridComparingMutation()
 {
 	/*
-		The Imitating Mutation selects a random gene to be mutated.
-		Then, the genes are iterated to find the smallest/largest/optimum gene in the chromosome to be imitated.
-		The selected random gene is replaced with the optimum gene divided/multipled by its selected random gene index position.
+		The Hybrid Comparing Mutation is the combination of Reversing Mutation and Random Mutation.
+		Firstly, a random gene is selected for mutation (selected gene).
+		Secondly, a random gene is generated (generated gene) and compared to the selected gene. [Random Mutation]
+		If the generated gene is better (closer to 0) than the selected gene, it replaces it. [Comparing]
+		Thirdly, the selected gene is reversed to its -1 position. [Reversing Mutation]
+
+		Special Case: If index is 0, reverse with the last index.
 	*/
 	// Child 1 & Child 2 Loop
 	for (int i = 2; i < 4; i++)
@@ -1012,21 +993,27 @@ void ImitatingMutation()
 		// Mutation Occurs
 		if (gmp <= dmp)
 		{
-			double optimumGene = numeric_limits<double>::max();
+			// Select
 			mb1 = getrandom(0, dimension - 1);
+			mb1v = paroff[i][mb1];
 
-			// Find optimumGene
-			for (int j = 0; j < dimension; j++)
-			{
-				if (j != mb1) {
-					if (paroff[i][j] < optimumGene) {
-						optimumGene = paroff[i][j];
-					}
-				}
+			// Generate Random
+			r = getrandom(-rangeMin, rangeMax);
+			r = r / rangeDiv;
+
+			// Compare and Replace
+			if (fabs(r) < fabs(mb1v)) {
+				mb1v = r;
 			}
 
-			// Gene Mutation
-			paroff[i][mb1] = optimumGene / (mb1 + 1);
+			// Reverse
+			if (mb1 == 0) {
+				paroff[i][mb1] = paroff[i][dimension - 1];
+				paroff[i][dimension - 1] = mb1v;
+			} else {
+				paroff[i][mb1] = paroff[i][mb1 - 1];
+				paroff[i][mb1 - 1] = mb1v;
+			}
 		}
 	}
 }
@@ -1224,10 +1211,17 @@ int main()
 		cout << gaDirectory << endl;
 		outfileo1Info << gaDirectory << endl << endl;
 
+#if MINI_PROJECT == 1
 		outfileo1Info << GA[0] << GA[1] << GA[2] << GA[3] << endl;
 		outfileo1Info << GA[4] << GA[5] << GA[6] << GA[7] << endl;
 		outfileo1Info << GA[8] << GA[9] << GA[10] << GA[11] << endl;
 		outfileo1Info << GA[12] << GA[13] << GA[14] << GA[15] << endl << endl;
+#else
+		outfileo1Info << GA[0] << GA[1] << endl;
+		outfileo1Info << GA[2] << GA[3] << endl;
+		outfileo1Info << GA[4] << GA[5] << endl;
+		outfileo1Info << GA[6] << GA[7] << endl << endl;
+#endif
 		// getch();
 
 		//---------------------------------------------------------------------------------------------------------------------------
@@ -1433,8 +1427,8 @@ int main()
 					/* Manual Crossover */
 					if (GA_COMBINATION[1][1] == 1)
 					{
-					     CombinedCrossover(chromosome, paroff, dcp, parent1, parent2);
-					     if (i == 0) { outfileo1Info << "C: Combined Crossover" << endl; }
+					    CombinedCrossover(chromosome, paroff, dcp, parent1, parent2);
+					    if (i == 0) { outfileo1Info << "C: Combined Crossover" << endl; }
 					}
 #else
 					/* Uniform Crossover */
@@ -1462,8 +1456,8 @@ int main()
 					/* Combined Crossover */
 					if (GA_COMBINATION[1][3] == 1)
 					{
-					     CombinedCrossover(chromosome, paroff, dcp, parent1, parent2);
-					     if (i == 0) { outfileo1Info << "C: Combined Crossover" << endl; }
+					    CombinedCrossover(chromosome, paroff, dcp, parent1, parent2);
+					    if (i == 0) { outfileo1Info << "C: Combined Crossover" << endl; }
 					}
 #endif
 					//************************************************************************************************************************
@@ -1508,8 +1502,8 @@ int main()
 					/* Manual Mutation */
 					if (GA_COMBINATION[2][1] == 1)
 					{
-						ImitatingMutation();
-						if (i == 0) { outfileo1Info << "M: Imitating Mutation" << endl; }
+						HybridComparingMutation();
+						if (i == 0) { outfileo1Info << "M: Hybrid Comparing Mutation" << endl; }
 					}
 #else
 					/* Reversing Mutation */
@@ -1534,11 +1528,11 @@ int main()
 						if (i == 0) { outfileo1Info << "M: Simple Inversion Mutation" << endl; }
 					}
 
-					/* Imitating Mutation */
+					/* Gostan Mutation */
 					if (GA_COMBINATION[2][3] == 1)
 					{
-						ImitatingMutation();
-						if (i == 0) { outfileo1Info << "M: Imitating Mutation" << endl; }
+						HybridComparingMutation();
+						if (i == 0) { outfileo1Info << "M: Hybrid Comparing Mutation" << endl; }
 					}
 #endif
 					//************************************************************************************************************************
