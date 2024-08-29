@@ -59,7 +59,7 @@ const double lowDiverseThreshold = 0.01;		// Threshold for Low Diversity
 	string GA = "";
 #endif
 
-#define getrandom(min,max) ((rand()%(((max)+1)-(min)))+(min))  
+#define getrandom(min, max) (((double)rand() / RAND_MAX) * ((max) - (min)) + (min))
 #define gen 2000								// number of iterations (number of generations)
 #define pSize 40								// number of chromosomes (population size)
 #define dimension 30							// number of bits (dimension size)
@@ -1181,6 +1181,8 @@ int main()
 	exit(0);
 #endif
 
+	HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+
 	srand(time(0));
 
 	//---------------------------------------------------------------------------------------------------------------------------
@@ -1255,7 +1257,9 @@ int main()
 				// Generate Population
 				//---------------------------------------------------------------------------------------------------------------------------
 #if MINI_PROJECT == -1
+				SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
 				cout << "Generate Population..." << endl;
+				SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
 #endif
 
 				for (int i = 0; i < pSize; i++)
@@ -1273,7 +1277,7 @@ int main()
 						cout << "Chromosome " << i + 1 << endl;
 						for (int j = 0; j < dimension; j++)
 						{
-							cout << setprecision(6) << chromosome[i][j] << "\t";
+							cout << fixed << setprecision(3) << chromosome[i][j] << "\t";
 						}
 						cout << endl
 							 << endl;
@@ -1325,7 +1329,9 @@ int main()
 					// Done By: Yeap Chun Hong 2206352
 					//------------------------------------------------------------------------------------------------------------------------
 #if MINI_PROJECT == -1
+					SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
 					cout << "Selection Operation..." << endl;
+					SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
 #endif
 
 					int parent1 = 0, parent2 = 0;
@@ -1392,7 +1398,7 @@ int main()
 					cout << "Chromosome " << parent1 + 1 << endl;
 					for (int j = 0; j < dimension; j++)
 					{
-						cout << setprecision(6) << chromosome[parent1][j] << "\t";
+						cout << fixed << setprecision(3) << chromosome[parent1][j] << "\t";
 					}
 					cout << endl << endl;
 
@@ -1400,7 +1406,7 @@ int main()
 					cout << "Chromosome " << parent2 + 1 << endl;if (i == 0) {  }
 					for (int j = 0; j < dimension; j++)
 					{
-						cout << setprecision(6) << chromosome[parent2][j] << "\t";
+						cout << fixed << setprecision(3) << chromosome[parent2][j] << "\t";
 					}
 					cout << endl << endl;
 #endif
@@ -1411,7 +1417,9 @@ int main()
 					// Done By: Loh Chia Heung 2301684
 					//------------------------------------------------------------------------------------------------------------------------
 #if MINI_PROJECT == -1
+					SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
 					cout << "Crossover Operation..." << endl;
+					SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
 #endif
 
 					//************************************************************************************************************************
@@ -1467,7 +1475,7 @@ int main()
 					cout << "Child 1" << endl;
 					for (int j = 0; j < dimension; j++)
 					{
-						cout << setprecision(6) << paroff[2][j] << "\t";
+						cout << fixed << setprecision(3) << paroff[2][j] << "\t";
 					}
 					cout << endl << endl;
 
@@ -1475,7 +1483,7 @@ int main()
 					cout << "Child 2" << endl;
 					for (int j = 0; j < dimension; j++)
 					{
-						cout << setprecision(6) << paroff[3][j] << "\t";
+						cout << fixed <<setprecision(3) << paroff[3][j] << "\t";
 					}
 					cout << endl << endl;
 #endif
@@ -1486,7 +1494,9 @@ int main()
 					// Done By: Brandon Ting En Junn 2101751
 					//------------------------------------------------------------------------------------------------------------------------
 #if MINI_PROJECT == -1
+					SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
 					cout << "Mutation Operation..." << endl;
+					SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
 #endif
 
 					//************************************************************************************************************************
@@ -1542,7 +1552,7 @@ int main()
 					cout << "Child 1" << endl;
 					for (int j = 0; j < dimension; j++)
 					{
-						cout << setprecision(6) << paroff[2][j] << "\t";
+						cout << fixed << setprecision(3) << paroff[2][j] << "\t";
 					}
 					cout << endl << endl;
 
@@ -1550,7 +1560,7 @@ int main()
 					cout << "Child 2" << endl;
 					for (int j = 0; j < dimension; j++)
 					{
-						cout << setprecision(6) << paroff[3][j] << "\t";
+						cout << fixed << setprecision(3) << paroff[3][j] << "\t";
 					}
 					cout << endl << endl;
 #endif
@@ -1574,7 +1584,9 @@ int main()
 					// Done By: Ling Ji Xiang 2104584
 					//------------------------------------------------------------------------------------------------------------------------
 #if MINI_PROJECT == -1
+					SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
 					cout << "Replacement Operation..." << endl;
+					SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
 #endif
 
 					//************************************************************************************************************************

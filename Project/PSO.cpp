@@ -32,12 +32,15 @@ using namespace std;
 //------------------------------------------------------------------------------------------------------------------------------
 // Parameter Settings (PSO with constant w and vc)
 //------------------------------------------------------------------------------------------------------------------------------
+#define DEMO 1
+
 const double w = 0.8; 	   							//Inertia Weight
 const double c1 = 2, c2 = 2;						//C Constant
 //------------------------------------------------------------------------------------------------------------------------------
 #define EXPERIMENT 10								//No. of Experiments
 
-#define getrandom(min,max) ((rand()%(((max)+1)-(min)))+(min))
+// #define getrandom(min,max) ((rand()%(((max)+1)-(min)))+(min))
+#define getrandom(min, max) (((double)rand() / RAND_MAX) * ((max) - (min)) + (min))
 #define gen 2000           							//number of iterations (number of generations)
 #define pSize 40           							//number of particle (population size)
 #define dimension 30       							//number of bits (dimension size)
@@ -205,10 +208,15 @@ double Rotated(double a[])
 {
 	sumFit = 0;
 
-	fv = Sphere(a);
-
 	for (int i = 0; i < dimension; i++)
 	{
+		fv = 0;
+
+		for (int j = 0; j <= i; j++)
+		{
+			fv += pow(a[j], 2);
+		}
+
 		sumFit = sumFit + fv;
 	}
 
@@ -525,6 +533,8 @@ void UpdatePosition()
 
 int main()
 {
+	HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+
 	srand(time(0));
 
 	// Directory e.g. PSO
@@ -574,8 +584,12 @@ int main()
 			// Generate Population
 			// Done By: Brandon Ting En Junn 2101751
 			//---------------------------------------------------------------------------------------------------------------------------
-	   		// cout << "Generate Population" << endl;
-			
+#if DEMO == 1
+			SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
+			cout << "Generate Population..." << endl;
+			SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
+#endif
+
 	   		for(int i = 0 ; i < pSize ; i++)
 	   		{
 	      		for(int j = 0 ; j < dimension ; j++)
@@ -586,15 +600,31 @@ int main()
 	         		particlePBest[i][j] = r;
 	      		}
 
-		      	// if (i == 0 || i == pSize - 1) {
-		      	// 	cout<<"Particle "<<i+1<<endl;
-			    // 	for(int j = 0 ; j < dimension ; j++)
-			    // 	{
-			    //     	cout<<setprecision(6)<<particlePosition[i][j]<<"\t";
-			    //   	}      
-			    //   	cout<<endl<<endl;
-				// }
+#if DEMO == 1
+		      	if (i == 0 || i == pSize - 1) {
+		      		cout<<"Particle "<<i+1<<" Position"<<endl;
+			    	for(int j = 0 ; j < dimension ; j++)
+			    	{
+			        	cout<<fixed<<setprecision(3)<<particlePosition[i][j]<<"\t";
+			      	}      
+			      	cout<<endl<<endl;
+				}
+#endif
 	   		}
+
+#if DEMO == 1
+			for (int i = 0; i < pSize; i++)
+			{
+				if (i == 0 || i == pSize - 1) {
+				    cout<<"Particle "<<i+1<<" Velocity"<<endl;
+					for(int j = 0 ; j < dimension ; j++)
+					{
+					    cout<<fixed<<setprecision(3)<<particleVelocity[i][j]<<"\t";
+					}      
+					cout<<endl<<endl;	
+				}	
+			} 		
+#endif
 			// getch();
 			//---------------------------------------------------------------------------------------------------------------------------
 
@@ -613,10 +643,26 @@ int main()
 			// Determine PBest and GBest
 			// Done By: Brandon Ting En Junn 2101751
 			//---------------------------------------------------------------------------------------------------------------------------
+#if DEMO == 1
+			SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
+			cout << "Initial PBest and GBest..." << endl;
+			SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
+#endif
 			//PBest
 			for(int i = 0 ; i < pSize ; i++)
 			{
 				particlePBestFV[i] = fit[i];
+
+#if DEMO == 1
+		      	if (i == 0 || i == pSize - 1) {
+		      		cout<<"Particle "<<i+1<<" PBest: "<<particlePBestFV[i]<<endl;
+			    	for(int j = 0 ; j < dimension ; j++)
+			    	{
+			        	cout<<fixed<<setprecision(3)<<particlePBest[i][j]<<"\t";
+			      	}      
+			      	cout<<endl<<endl;
+				}
+#endif
 			}
 			
 			//GBest
@@ -629,14 +675,21 @@ int main()
 					GBestIndex = i;
 				}
 			}
-			// cout << "Initial GBest: " << particleGBestFV << endl;
-			// getch();
-			// cout<<"The best is particle "<<GBestIndex+1<<" with fitness of "<<particleGBestFV<<endl;
+
+#if DEMO == 1
+			cout<<"Particle "<<GBestIndex+1<<" GBest: "<<particleGBestFV<<endl;
+#endif
 			for (int j = 0; j < dimension; j++)
 			{
 				particleGBest[j] = particlePBest[GBestIndex][j];
-				// cout<<particleGBest[j]<<" ";
+#if DEMO == 1
+				cout<<fixed<<setprecision(3)<<particleGBest[j]<<"\t";
+#endif
 			}
+
+#if DEMO == 1
+			cout << endl << endl;
+#endif
 
 			// cout<<endl;
 			// outfileo1<<"Gen\tMinimum"<<endl;
@@ -652,14 +705,54 @@ int main()
 				// Update Velocity
 				// Done By: Brandon Ting En Junn 2101751
 				//------------------------------------------------------------------------------------------------------------------------------
+#if DEMO == 1
+				SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
+				cout << "Update Velocity..." << endl;
+				SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
+#endif
+
 				UpdateVelocity();
+
+#if DEMO == 1
+				for (int i = 0; i < pSize; i++)
+				{
+					if (i == 0 || i == pSize - 1) {
+				      	cout<<"Particle "<<i+1<<" Velocity"<<endl;
+					    for(int j = 0 ; j < dimension ; j++)
+					    {
+					        cout<<fixed<<setprecision(3)<<particleVelocity[i][j]<<"\t";
+					    }      
+					    cout<<endl<<endl;	
+					}	
+				}
+#endif
 				//------------------------------------------------------------------------------------------------------------------------------
 
 				//------------------------------------------------------------------------------------------------------------------------------
 				// Update Position
 				// Done By: Brandon Ting En Junn 2101751
 				//------------------------------------------------------------------------------------------------------------------------------
+#if DEMO == 1
+				SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
+				cout << "Update Position..." << endl;
+				SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
+#endif
+
 				UpdatePosition();
+
+#if DEMO == 1
+				for (int i = 0; i < pSize; i++)
+				{
+					if (i == 0 || i == pSize - 1) {
+				      	cout<<"Particle "<<i+1<<" Position"<<endl;
+					    for(int j = 0 ; j < dimension ; j++)
+					    {
+					        cout<<fixed<<setprecision(3)<<particlePosition[i][j]<<"\t";
+					    }      
+					    cout<<endl<<endl;	
+					}	
+				}
+#endif
 				//------------------------------------------------------------------------------------------------------------------------------
 
 				//------------------------------------------------------------------------------------------------------------------------
@@ -678,6 +771,11 @@ int main()
 				// Update PBest and GBest
 				// Done By: Brandon Ting En Junn 2101751
 				//------------------------------------------------------------------------------------------------------------------------
+#if DEMO == 1
+				SetConsoleTextAttribute(hConsole, FOREGROUND_GREEN);
+				cout << "Updated PBest and GBest..." << endl;
+				SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
+#endif
 				//PBest
 				for(int i = 0 ; i < pSize ; i++)
 				{
@@ -690,7 +788,21 @@ int main()
 							particlePBest[i][j] = particlePosition[i][j];
 						}
 					}
-				} 
+				}
+
+#if DEMO == 1
+				for (int i = 0; i < pSize; i++)
+				{
+					if (i == 0 || i == pSize - 1) {
+				      	cout<<"Particle PBest "<<i+1<<": "<<particlePBestFV[i]<<endl;
+					    for(int j = 0 ; j < dimension ; j++)
+					    {
+					        cout<<fixed<<setprecision(3)<<particlePBest[i][j]<<"\t";
+					    }      
+					    cout<<endl<<endl;	
+					}	
+				}
+#endif
 
 				//GBest
 				for (int i = 0; i < pSize; i++)
@@ -711,22 +823,27 @@ int main()
 		
 		      	// fit1 = 0;
 		      	// fit2 = 0;
+
+#if DEMO == 1
+				cout<<"Particle "<<GBestIndex<<" GBest: "<<particleGBestFV<<endl;
+				for(int j = 0 ; j < dimension ; j++)
+				{
+					cout<<fixed<<setprecision(3)<<particleGBest[j]<<"\t";
+				}      
+				cout<<endl<<endl;
+#endif
 		       
 		      	outfileo1<<setprecision(6)<<particleGBestFV<<endl;
 		      	// cout<<setprecision(6)<<particleGBestFV<<endl;
 		      	// getch();
+
+#if DEMO == 1
+				cout << "SUCCESSFULLY COMPLETED DEMO...\nPress Any Key to Exit..." << endl;
+				getch();
+				exit(0);
+#endif
 	    	} //Termination Criteria (Maximum Generation) [Can modify starting from here (GA, DE, PSO)] LOOP
-	    	//------------------------------------------------------------------------------------------------------------------------
-	    
-		    // lFv = numeric_limits<double>::max();
-		    // for(int j = 0; j < pSize; j++)
-		    // {
-		    //    if(fit[j] < lFv)
-		    //    {
-		    //       lFv = fit[j];
-		    //       lFvIndex = j;
-		    //    }
-		    // }  
+	    	//------------------------------------------------------------------------------------------------------------------------ 
 
 	    	outfileo1<<endl<<endl;
 	    	cout<<"Result"<<endl;
