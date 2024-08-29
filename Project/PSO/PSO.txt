@@ -1,0 +1,6 @@
+PSO with constant w and vc
+
+Inertia Weight (w): 0.7
+Velocity Clamping (vc): Yes
+Constant c (c1): 2
+Constant c (c2): 2
