@@ -32,7 +32,7 @@ using namespace std;
 //------------------------------------------------------------------------------------------------------------------------------
 // Parameter Settings (PSO with constant w and vc)
 //------------------------------------------------------------------------------------------------------------------------------
-#define DEMO 1
+#define DEMO 0
 
 const double w = 0.8; 	   							//Inertia Weight
 const double c1 = 2, c2 = 2;						//C Constant
@@ -635,7 +635,7 @@ int main()
 			for(int i = 0 ; i < pSize ; i++)
 			{
 				fit[i] = Fitness(particlePosition[i]);
-			    // cout<<setprecision(6)<<fit[i]<<endl;
+			    // cout<<fixed<<setprecision(3)<<fit[i]<<endl;
 				sumFit = 0;
 			} 
 
@@ -762,7 +762,7 @@ int main()
 				for(int i = 0 ; i < pSize ; i++)
 				{
 					fit[i] = Fitness(particlePosition[i]);
-			      	// cout<<setprecision(6)<<fit[i]<<endl;
+			      	// cout<<fixed<<setprecision(3)<<fit[i]<<endl;
 					sumFit = 0;
 				} 
 				//------------------------------------------------------------------------------------------------------------------------
@@ -834,7 +834,7 @@ int main()
 #endif
 		       
 		      	outfileo1<<setprecision(6)<<particleGBestFV<<endl;
-		      	// cout<<setprecision(6)<<particleGBestFV<<endl;
+		      	// cout<<fixed<<setprecision(3)<<particleGBestFV<<endl;
 		      	// getch();
 
 #if DEMO == 1
@@ -849,18 +849,18 @@ int main()
 	    	cout<<"Result"<<endl;
 	    	
 	    	//Output Final Generation Lowest
-	//    	cout<<setprecision(6)<<lFv<<" "<<lFvIndex+1<<endl<<endl;
+	//    	cout<<fixed<<setprecision(3)<<lFv<<" "<<lFvIndex+1<<endl<<endl;
 	//	    for(int j = 0 ; j < dimension ; j++)
 	//	    {
-	//	       cout<<setprecision(6)<<chromosome[lFvIndex][j]<<"\t";
+	//	       cout<<fixed<<setprecision(3)<<chromosome[lFvIndex][j]<<"\t";
 	//	       outfileo1<<setprecision(6)<<chromosome[lFvIndex][j]<<"\n";
 	//	    }
 			
 			//Output Group Best in Experiment
-	    	cout<<setprecision(6)<<particleGBestFV<<endl<<endl;
+	    	cout<<fixed<<setprecision(3)<<particleGBestFV<<endl<<endl;
 	    	for(int j = 0 ; j < dimension ; j++)
 	    	{
-	    		cout<<setprecision(6)<<particleGBest[j]<<"\t";
+	    		cout<<fixed<<setprecision(3)<<particleGBest[j]<<"\t";
 	       		outfileo1<<setprecision(6)<<particleGBest[j]<<"\n";
 	    	}
 		    
