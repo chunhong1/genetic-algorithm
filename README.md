@@ -12,7 +12,3 @@ g++ -o PSO.exe PSO.cpp
 
 # TODO
 - PSO -> Determine and confirm constants value w, c1, c2
-- PSO -> Demo Mode
-- GA / PSO -> Testing + Validation
-- GA / PSO Code Cleanup
-- Produce Results
