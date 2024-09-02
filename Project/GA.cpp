@@ -1103,44 +1103,35 @@ void binaryTournamentReplacement() {
 	}
 }
 
-void CombinedReplacement(double chromosome[pSize][dimension], double fit[pSize], double paroff[4][dimension], double tfit[4])
+void CombinedReplacement(double chromosome[pSize][dimension], double fit[pSize], double paroff[4][dimension], double tfit[4], int parent1, int parent2)
 {
-	// Binary Tournament
-	int idx1 = getrandom(0, pSize - 1);
-	int idx2 = getrandom(0, pSize - 1);
-
-	while (idx1 == idx2) {
-		idx2 = getrandom(0, pSize - 1); // Ensure idx1 and idx2 are different
+	// Both Parent Replacement
+	for (int i = 0; i < dimension; i++)
+	{
+		chromosome[parent1][i] = paroff[2][i]; // Replace genes of parent1 with offspring 1
+		chromosome[parent2][i] = paroff[3][i]; // Replace genes of parent2 with offspring 2
 	}
-
-	int betterIdx = (fit[idx1] < fit[idx2]) ? idx1 : idx2;
-
-	int betterOffspringIdx = (tfit[2] < tfit[3]) ? 2 : 3;
-
-	if (tfit[betterOffspringIdx] < fit[betterIdx]) {
-		for (int j = 0; j < dimension; j++) {
-			chromosome[betterIdx][j] = paroff[betterOffspringIdx][j];
-		}
-		fit[betterIdx] = tfit[betterOffspringIdx];
-	}
+	fit[parent1] = tfit[2]; // Update fitness of parent1
+	fit[parent2] = tfit[3]; // Update fitness of parent2
 
 	// Weak Parent Replacement
-	// Use the same parents selected in the binary tournament 
 	int chosenParent, notChosenParent;
 	int chosenChild, notChosenChild;
 
-	if (fit[idx1] > fit[idx2]) // Choose weak parent
+	// Determine Weak and Strong Parent
+	if (fit[parent1] > fit[parent2])
 	{
-		chosenParent = idx1;
-		notChosenParent = idx2;
+		chosenParent = parent1;
+		notChosenParent = parent2;
 	}
 	else
 	{
-		chosenParent = idx2;
-		notChosenParent = idx1;
+		chosenParent = parent2;
+		notChosenParent = parent1;
 	}
 
-	if (tfit[2] < tfit[3]) // Choose strong child
+	// Determine Strong and Weak Child
+	if (tfit[2] < tfit[3])
 	{
 		chosenChild = 2;
 		notChosenChild = 3;
@@ -1151,7 +1142,7 @@ void CombinedReplacement(double chromosome[pSize][dimension], double fit[pSize],
 		notChosenChild = 2;
 	}
 
-	// Replace the weak parent if the chosen child is better
+	// Replace the weak parent with the strong child if it improves fitness
 	if (fit[chosenParent] > tfit[chosenChild])
 	{
 		for (int i = 0; i < dimension; i++)
@@ -1161,7 +1152,7 @@ void CombinedReplacement(double chromosome[pSize][dimension], double fit[pSize],
 		fit[chosenParent] = tfit[chosenChild];
 	}
 
-	// Replace the not-chosen parent if the not-chosen child is better
+	// Replace the non-chosen parent if the non-chosen child is better
 	if (fit[notChosenParent] > tfit[notChosenChild])
 	{
 		for (int i = 0; i < dimension; i++)
@@ -1602,7 +1593,7 @@ int main()
 					/* Manual Replacement */
 					if (GA_COMBINATION[3][1] == 1)
 					{
-						CombinedReplacement(chromosome, fit, paroff, tfit);
+						CombinedReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
 						if (i == 0) { outfileo1Info << "R: Combined Replacement" << endl << endl << endl; }
 					}
 #else
@@ -1631,7 +1622,7 @@ int main()
 					/* Combined Replacement */
 					if (GA_COMBINATION[3][3] == 1)
 					{
-						CombinedReplacement(chromosome, fit, paroff, tfit);
+						CombinedReplacement(chromosome, fit, paroff, tfit, parent1, parent2);
 						if (i == 0) { outfileo1Info << "R: Combined Replacement" << endl << endl << endl; }
 					}
 #endif
