@@ -744,14 +744,16 @@ void UniformCrossover(double chromosome[][dimension], double paroff[][dimension]
 		{
 			if (rand() % 2 == 0)
 			{
-				// 0 --> Gene is copied from Parent 1
+				// Offspring 1 --> Parent 1
 				paroff[2][j] = chromosome[p1][j];
+                                // Offspring 2 --> Parent 2
 				paroff[3][j] = chromosome[p2][j];
 			}
 			else
 			{
-				// 1 --> Gene is copied from Parent 2
+				// Offspring 1 --> Parent 2
 				paroff[2][j] = chromosome[p2][j];
+                                // Offspring 2 --> Parent 1
 				paroff[3][j] = chromosome[p1][j];
 			}
 		}
