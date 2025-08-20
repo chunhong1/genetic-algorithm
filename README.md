@@ -8,9 +8,9 @@
 3\. Loh Chia Heung (23ACB01684) <br>
 4\. Yeap Chun Hong (22ACB06352)
 
-<b> Project Title: </b> [Performance Comparison of Genetic Algorithm with Particle Swam Optimisation](/P14G01.pdf)
+<b> Project Title: </b> [Performance Comparison of Genetic Algorithm with Particle Swarm Optimisation](/P14G01.pdf)
 
-This is a research-based mini project that compares and evaluates the performance between Evolutionary Computing techniques such as Genetic Algorithm (GA) and Particle Swam Optimisation (PSO) for optimisation problems. Additionally, different combinations of GA operation techniques are experimented to obtain various results.
+This is a research-based mini project that compares and evaluates the performance between Evolutionary Computing techniques such as Genetic Algorithm (GA) and Particle Swarm Optimisation (PSO) for optimisation problems. Additionally, different combinations of GA operation techniques are experimented to obtain various results.
 
 The following is the 10 benchmark functions used to evaluate their performance:
 
